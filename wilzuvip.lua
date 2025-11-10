@@ -189,6 +189,7 @@ local InputZ = createTextBox(JendelaCit, 160, 220, "Z")
 local terbangAktif = false
 local kecepatanTerbang = 500
 local fishingPerfectAktif = false -- Variabel buat fishing perfect
+local autoFishingAktif = false -- Tambahin variabel buat auto fishing
 
 local function teleport(posisi)
 	local karakter = LocalPlayer.Character
@@ -205,23 +206,62 @@ local function kebalBuahIblis()
 	end
 end
 
--- Fungsi buat fishing perfect (PERHATIKAN INI!)
-local function fishingPerfect()
-	fishingPerfectAktif = not fishingPerfectAktif
-	TombolFishingPerfect.Text = fishingPerfectAktif and "Fishing PERFECT ON ✅" or "Fishing AUTO PERFECT 🎣"
-	if fishingPerfectAktif then
-		print("Fishing perfect diaktifkan! Nikmati hasil tangkapan yang mantap!")
-		-- Ganti nilai probabilitas item di game (CARA PALING BANJINGAN)
-		-- PASTIKAN LO TAU NAMA ITEM ATAU NILAI YANG MAU DIUBAH!
-		-- CONTOH: game.ServerScriptService.FishingSystem.RareFishProbability.Value = 1
-		-- Ganti "RareFishProbability" dengan nama variabel probabilitas yang BENAR!
-		-- WARNING: Kode ini berbahaya dan bisa ngerusak game! Gunakan dengan hati-hati!
+-- Fungsi buat auto fishing
+local function autoFishing()
+	autoFishingAktif = not autoFishingAktif
+	TombolFishingPerfect.Text = autoFishingAktif and "Fishing AUTO ON ✅" or "Fishing AUTO PERFECT 🎣"
+
+	if autoFishingAktif then
+		print("Auto fishing diaktifkan! Siap-siap kaya mendadak!")
+
+		-- Fungsi utama buat mancing otomatis (LOOP SAMPE MAMPUS!)
+		local function startFishing()
+			-- Cari tombol interaksi (PENTING: Sesuaikan nama tombol di game!)
+			local interactionButton = nil
+			for _, button in pairs(PlayerGui:GetDescendants()) do
+				if button:IsA("TextButton") and button.Text == "Mancing" then -- Ganti "Mancing" sesuai nama tombol interaksi di game
+					interactionButton = button
+					break
+				end
+			end
+
+			if interactionButton then
+				-- Klik tombol interaksi setiap X detik (biar gak dicurigai)
+				while autoFishingAktif do
+					interactionButton:MouseButton1Click() -- KLIK TOMBOL!
+					task.wait(2) -- Jeda 2 detik (sesuaikan sendiri)
+
+					-- Tunggu sampai muncul UI fishing
+					task.wait(5) -- Jeda 5 detik (sesuaikan sendiri)
+
+					-- Cari tombol "Tarik" atau sejenisnya (PENTING: Sesuaikan nama tombol di game!)
+					local tarikButton = nil
+					for _, button in pairs(PlayerGui:GetDescendants()) do
+						if button:IsA("TextButton") and button.Text == "Tarik" then -- Ganti "Tarik" sesuai nama tombol tarik di game
+						tarikButton = button
+						break
+						end
+					end
+					-- Kalo tombol "Tarik" ketemu, langsung klik!
+					if tarikButton then
+						tarikButton:MouseButton1Click() -- TARIK IKAN!
+						task.wait(2) -- Jeda 2 detik (sesuaikan sendiri)
+					end
+				end
+			else
+				print("Tombol interaksi 'Mancing' tidak ditemukan!")
+				autoFishingAktif = false
+				TombolFishingPerfect.Text = "Fishing AUTO PERFECT 🎣"
+			end
+		end
+
+		-- Jalankan fungsi auto fishing
+		coroutine.wrap(startFishing)()
 	else
-		print("Fishing perfect dinonaktifkan.")
-		-- Balikin nilai probabilitas ke semula (opsional)
-		-- CONTOH: game.ServerScriptService.FishingSystem.RareFishProbability.Value = 0.05
+		print("Auto fishing dinonaktifkan.")
 	end
 end
+
 
 -- Verifikasi key
 TombolVerifikasi.MouseButton1Click:Connect(function()
@@ -271,10 +311,10 @@ TombolKebal.MouseButton1Click:Connect(function()
 	end
 end)
 
--- Tombol Fishing Perfect
+-- Tombol Fishing Perfect (sekarang jadi AUTO FISHING)
 TombolFishingPerfect.MouseButton1Click:Connect(function()
 	if TombolFishingPerfect.Active then
-		fishingPerfect() -- Panggil fungsi fishing perfect
+		autoFishing() -- Panggil fungsi auto fishing
 	end
 end)
 
