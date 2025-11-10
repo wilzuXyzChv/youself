@@ -91,7 +91,7 @@ end)
 
 -- FRAME CIT DI POJOK KIRI ATAS
 local JendelaCit = Instance.new("Frame")
-JendelaCit.Size = UDim2.new(0, 240, 0, 290) -- Tinggi ditambah buat tombol fishing
+JendelaCit.Size = UDim2.new(0, 240, 0, 350) -- Tinggi ditambah buat tombol fishing
 JendelaCit.Position = UDim2.new(0, 20, 0, 20)
 JendelaCit.BackgroundColor3 = Color3.fromRGB(30, 0, 80)
 JendelaCit.Visible = false
@@ -148,21 +148,7 @@ local function createButton(parent, posisiY, teks)
     return btn
 end
 
--- Tombol utama CIT
-local TombolTerbang = createButton(JendelaCit, 20, "Aktifkan Terbang GAHAR")
-local TombolTeleport = createButton(JendelaCit, 70, "Teleport ke Koordinat")
-local TombolKebal = createButton(JendelaCit, 120, "Kebal Semua Buah Iblis")
-local TombolFishingPerfect = createButton(JendelaCit, 170, "Fishing AUTO PERFECT 🎣") -- Tombol Fishing Perfect
-TombolTerbang.Active = false
-TombolTeleport.Active = false
-TombolKebal.Active = false
-TombolFishingPerfect.Active = false -- Awalnya non-aktif
-TombolTerbang.AutoButtonColor = false
-TombolTeleport.AutoButtonColor = false
-TombolKebal.AutoButtonColor = false
-TombolFishingPerfect.AutoButtonColor = false
-
--- Input koordinat
+-- Fungsi buat textbox
 local function createTextBox(parent, posisiX, posisiY, placeholder)
     local tb = Instance.new("TextBox")
     tb.Size = UDim2.new(0, 60, 0, 30)
@@ -181,9 +167,22 @@ local function createTextBox(parent, posisiX, posisiY, placeholder)
     return tb
 end
 
-local InputX = createTextBox(JendelaCit, 20, 220, "X") -- Dipindah ke bawah fishing
-local InputY = createTextBox(JendelaCit, 90, 220, "Y")
-local InputZ = createTextBox(JendelaCit, 160, 220, "Z")
+-- Tombol utama CIT
+local TombolTerbang = createButton(JendelaCit, 20, "Aktifkan Terbang GAHAR")
+local TombolTeleport = createButton(JendelaCit, 70, "Teleport ke Koordinat")
+local TombolKebal = createButton(JendelaCit, 120, "Kebal Semua Buah Iblis")
+local TombolFishingPerfect = createButton(JendelaCit, 170, "Fishing AUTO PERFECT 🎣") -- Tombol Fishing Perfect
+
+-- Tombol Auto Clicker
+local TombolAutoClick = createButton(JendelaCit, 220, "Auto Clicker OFF 🔴") -- Posisi di bawah teleport
+local InputInterval = createTextBox(JendelaCit, 20, 270, "Interval (0.5)") -- Di bawah tombol
+local InputClickX = createTextBox(JendelaCit, 90, 270, "Click X")
+local InputClickY = createTextBox(JendelaCit, 160, 270, "Click Y")
+
+-- Input koordinat
+local InputX = createTextBox(JendelaCit, 20, 320, "X") -- Dipindah ke bawah fishing
+local InputY = createTextBox(JendelaCit, 90, 320, "Y")
+local InputZ = createTextBox(JendelaCit, 160, 320, "Z")
 
 -- Variabel
 local terbangAktif = false
@@ -191,6 +190,35 @@ local kecepatanTerbang = 500
 local fishingPerfectAktif = false -- Variabel buat fishing perfect
 local autoFishingAktif = false -- Tambahin variabel buat auto fishing
 local fishingInterval = 1 -- Interval spam fishing (dalam detik)
+local autoClickAktif = false
+local clickInterval = 0.5 -- Default interval
+local clickX = 0
+local clickY = 0
+
+TombolTerbang.Active = false
+TombolTeleport.Active = false
+TombolKebal.Active = false
+TombolFishingPerfect.Active = false -- Awalnya non-aktif
+TombolAutoClick.Active = true
+TombolTerbang.AutoButtonColor = false
+TombolTeleport.AutoButtonColor = false
+TombolKebal.AutoButtonColor = false
+TombolFishingPerfect.AutoButtonColor = false
+TombolAutoClick.AutoButtonColor = true
+
+-- Fungsi Mouse Click (Simulasi)
+local function mouseClick(x, y)
+    -- Cari elemen UI di posisi X, Y
+    local target = UserInputService:GetGuiObjectsAtPosition(Vector2.new(x, y))[1]
+
+    if target and target:IsA("GuiButton") then
+        -- Trigger MouseButton1Click
+        target:MouseButton1Click()
+        print("Simulasi klik di", x, y)
+    else
+        print("Tidak ada tombol di posisi", x, y)
+    end
+end
 
 local function teleport(posisi)
     local karakter = LocalPlayer.Character
@@ -277,6 +305,38 @@ local function autoFishing()
     end
 end
 
+-- Fungsi buat auto clicker
+local function autoClick()
+    while autoClickAktif do
+        local x = tonumber(InputClickX.Text)
+        local y = tonumber(InputClickY.Text)
+        local interval = tonumber(InputInterval.Text)
+
+        if x and y and interval then
+            -- Panggil fungsi mouse click
+            mouseClick(x, y)
+            task.wait(interval)
+        else
+            print("Nilai X, Y, atau Interval tidak valid!")
+            autoClickAktif = false
+            TombolAutoClick.Text = "Auto Clicker OFF 🔴"
+            break
+        end
+    end
+end
+
+-- Logika Tombol Auto Clicker
+TombolAutoClick.MouseButton1Click:Connect(function()
+    if TombolAutoClick.Active then
+        autoClickAktif = not autoClickAktif
+        TombolAutoClick.Text = autoClickAktif and "Auto Clicker ON ✅" or "Auto Clicker OFF 🔴"
+
+        if autoClickAktif then
+            -- Jalankan auto clicker
+            coroutine.wrap(autoClick)()
+        end
+    end
+end)
 
 -- Verifikasi key
 TombolVerifikasi.MouseButton1Click:Connect(function()
@@ -289,10 +349,12 @@ TombolVerifikasi.MouseButton1Click:Connect(function()
         TombolTeleport.Active = true
         TombolKebal.Active = true
         TombolFishingPerfect.Active = true -- Aktifin tombol fishing perfect
+        TombolAutoClick.Active = true
         TombolTerbang.AutoButtonColor = true
         TombolTeleport.AutoButtonColor = true
         TombolKebal.AutoButtonColor = true
         TombolFishingPerfect.AutoButtonColor = true -- Set auto button color
+		TombolAutoClick.AutoButtonColor = true
     else
         print("Key salah!")
     end
