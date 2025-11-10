@@ -91,7 +91,7 @@ end)
 
 -- FRAME CIT DI POJOK KIRI ATAS
 local JendelaCit = Instance.new("Frame")
-JendelaCit.Size = UDim2.new(0, 240, 0, 250)
+JendelaCit.Size = UDim2.new(0, 240, 0, 290) -- Tinggi ditambah buat tombol fishing
 JendelaCit.Position = UDim2.new(0, 20, 0, 20)
 JendelaCit.BackgroundColor3 = Color3.fromRGB(30, 0, 80)
 JendelaCit.Visible = false
@@ -152,12 +152,15 @@ end
 local TombolTerbang = createButton(JendelaCit, 20, "Aktifkan Terbang GAHAR")
 local TombolTeleport = createButton(JendelaCit, 70, "Teleport ke Koordinat")
 local TombolKebal = createButton(JendelaCit, 120, "Kebal Semua Buah Iblis")
+local TombolFishingPerfect = createButton(JendelaCit, 170, "Fishing AUTO PERFECT 🎣") -- Tombol Fishing Perfect
 TombolTerbang.Active = false
 TombolTeleport.Active = false
 TombolKebal.Active = false
+TombolFishingPerfect.Active = false -- Awalnya non-aktif
 TombolTerbang.AutoButtonColor = false
 TombolTeleport.AutoButtonColor = false
 TombolKebal.AutoButtonColor = false
+TombolFishingPerfect.AutoButtonColor = false
 
 -- Input koordinat
 local function createTextBox(parent, posisiX, posisiY, placeholder)
@@ -178,13 +181,14 @@ local function createTextBox(parent, posisiX, posisiY, placeholder)
 	return tb
 end
 
-local InputX = createTextBox(JendelaCit, 20, 170, "X")
-local InputY = createTextBox(JendelaCit, 90, 170, "Y")
-local InputZ = createTextBox(JendelaCit, 160, 170, "Z")
+local InputX = createTextBox(JendelaCit, 20, 220, "X") -- Dipindah ke bawah fishing
+local InputY = createTextBox(JendelaCit, 90, 220, "Y")
+local InputZ = createTextBox(JendelaCit, 160, 220, "Z")
 
 -- Variabel
 local terbangAktif = false
 local kecepatanTerbang = 500
+local fishingPerfectAktif = false -- Variabel buat fishing perfect
 
 local function teleport(posisi)
 	local karakter = LocalPlayer.Character
@@ -201,6 +205,24 @@ local function kebalBuahIblis()
 	end
 end
 
+-- Fungsi buat fishing perfect (PERHATIKAN INI!)
+local function fishingPerfect()
+	fishingPerfectAktif = not fishingPerfectAktif
+	TombolFishingPerfect.Text = fishingPerfectAktif and "Fishing PERFECT ON ✅" or "Fishing AUTO PERFECT 🎣"
+	if fishingPerfectAktif then
+		print("Fishing perfect diaktifkan! Nikmati hasil tangkapan yang mantap!")
+		-- Ganti nilai probabilitas item di game (CARA PALING BANJINGAN)
+		-- PASTIKAN LO TAU NAMA ITEM ATAU NILAI YANG MAU DIUBAH!
+		-- CONTOH: game.ServerScriptService.FishingSystem.RareFishProbability.Value = 1
+		-- Ganti "RareFishProbability" dengan nama variabel probabilitas yang BENAR!
+		-- WARNING: Kode ini berbahaya dan bisa ngerusak game! Gunakan dengan hati-hati!
+	else
+		print("Fishing perfect dinonaktifkan.")
+		-- Balikin nilai probabilitas ke semula (opsional)
+		-- CONTOH: game.ServerScriptService.FishingSystem.RareFishProbability.Value = 0.05
+	end
+end
+
 -- Verifikasi key
 TombolVerifikasi.MouseButton1Click:Connect(function()
 	local key = InputKey.Text
@@ -211,9 +233,11 @@ TombolVerifikasi.MouseButton1Click:Connect(function()
 		TombolTerbang.Active = true
 		TombolTeleport.Active = true
 		TombolKebal.Active = true
+		TombolFishingPerfect.Active = true -- Aktifin tombol fishing perfect
 		TombolTerbang.AutoButtonColor = true
 		TombolTeleport.AutoButtonColor = true
 		TombolKebal.AutoButtonColor = true
+		TombolFishingPerfect.AutoButtonColor = true -- Set auto button color
 	else
 		print("Key salah!")
 	end
@@ -244,6 +268,13 @@ TombolKebal.MouseButton1Click:Connect(function()
 	if TombolKebal.Active then
 		kebalBuahIblis()
 		print("Kebal Buah Iblis aktif!")
+	end
+end)
+
+-- Tombol Fishing Perfect
+TombolFishingPerfect.MouseButton1Click:Connect(function()
+	if TombolFishingPerfect.Active then
+		fishingPerfect() -- Panggil fungsi fishing perfect
 	end
 end)
 
