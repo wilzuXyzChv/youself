@@ -190,6 +190,7 @@ local terbangAktif = false
 local kecepatanTerbang = 500
 local fishingPerfectAktif = false -- Variabel buat fishing perfect
 local autoFishingAktif = false -- Tambahin variabel buat auto fishing
+local fishingInterval = 1 -- Interval spam fishing (dalam detik)
 
 local function teleport(posisi)
 	local karakter = LocalPlayer.Character
@@ -226,10 +227,10 @@ local function autoFishing()
 			end
 
 			if interactionButton then
-				-- Klik tombol interaksi setiap X detik (biar gak dicurigai)
+				-- Spam klik tombol interaksi setiap X detik (biar gak dicurigai)
 				while autoFishingAktif do
 					interactionButton:MouseButton1Click() -- KLIK TOMBOL!
-					task.wait(2) -- Jeda 2 detik (sesuaikan sendiri)
+					task.wait(fishingInterval) -- Jeda 1 detik (sesuaikan sendiri)
 
 					-- Tunggu sampai muncul UI fishing
 					task.wait(5) -- Jeda 5 detik (sesuaikan sendiri)
@@ -238,10 +239,11 @@ local function autoFishing()
 					local tarikButton = nil
 					for _, button in pairs(PlayerGui:GetDescendants()) do
 						if button:IsA("TextButton") and button.Text == "Tarik" then -- Ganti "Tarik" sesuai nama tombol tarik di game
-						tarikButton = button
-						break
+							tarikButton = button
+							break
 						end
 					end
+
 					-- Kalo tombol "Tarik" ketemu, langsung klik!
 					if tarikButton then
 						tarikButton:MouseButton1Click() -- TARIK IKAN!
