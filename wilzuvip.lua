@@ -91,7 +91,7 @@ CornerVerifikasi.Parent = TombolVerifikasi
 -- Frame utama Cit
 local JendelaCit = Instance.new("Frame")
 JendelaCit.Size = UDim2.new(0, 240, 0, 250) -- Ukuran diubah biar cukup semua fitur
-JendelaCit.Position = UDim2.new(0, 20, 0, 230) -- Posisi semula
+JendelaCit.Position = UDim2.new(0, 20, 0, 100) -- Posisi diubah jadi lebih atas
 JendelaCit.BackgroundColor3 = Color3.fromRGB(30, 0, 80)
 JendelaCit.Visible = false
 JendelaCit.BorderSizePixel = 0
