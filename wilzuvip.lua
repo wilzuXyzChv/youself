@@ -5,7 +5,7 @@ local UserInputService = game:GetService("UserInputService")
 -- Tunggu sampai LocalPlayer dan karakter siap
 local LocalPlayer = Players.LocalPlayer
 if not LocalPlayer or not LocalPlayer.Character then
-	LocalPlayer.CharacterAdded:Wait()
+    LocalPlayer.CharacterAdded:Wait()
 end
 
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
@@ -86,7 +86,7 @@ CornerCloseKey.CornerRadius = UDim.new(0,5)
 CornerCloseKey.Parent = TombolCloseKey
 
 TombolCloseKey.MouseButton1Click:Connect(function()
-	JendelaKey.Visible = false
+    JendelaKey.Visible = false
 end)
 
 -- FRAME CIT DI POJOK KIRI ATAS
@@ -119,33 +119,33 @@ CornerCloseCit.CornerRadius = UDim.new(0,5)
 CornerCloseCit.Parent = TombolCloseCit
 
 TombolCloseCit.MouseButton1Click:Connect(function()
-	JendelaCit.Visible = false
+    JendelaCit.Visible = false
 end)
 
 -- Fungsi buat tombol
 local function createButton(parent, posisiY, teks)
-	local btn = Instance.new("TextButton")
-	btn.Size = UDim2.new(0, 200, 0, 40)
-	btn.Position = UDim2.new(0, 20, 0, posisiY)
-	btn.Text = teks
-	btn.BackgroundColor3 = Color3.fromRGB(120,0,255)
-	btn.TextColor3 = Color3.fromRGB(255,255,255)
-	btn.Font = Enum.Font.GothamBold
-	btn.TextSize = 16
-	btn.BorderSizePixel = 0
-	btn.Parent = parent
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(0, 200, 0, 40)
+    btn.Position = UDim2.new(0, 20, 0, posisiY)
+    btn.Text = teks
+    btn.BackgroundColor3 = Color3.fromRGB(120,0,255)
+    btn.TextColor3 = Color3.fromRGB(255,255,255)
+    btn.Font = Enum.Font.GothamBold
+    btn.TextSize = 16
+    btn.BorderSizePixel = 0
+    btn.Parent = parent
 
-	local corner = Instance.new("UICorner")
-	corner.CornerRadius = UDim.new(0,10)
-	corner.Parent = btn
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0,10)
+    corner.Parent = btn
 
-	btn.MouseEnter:Connect(function()
-		btn.BackgroundColor3 = Color3.fromRGB(180,0,255)
-	end)
-	btn.MouseLeave:Connect(function()
-		btn.BackgroundColor3 = Color3.fromRGB(120,0,255)
-	end)
-	return btn
+    btn.MouseEnter:Connect(function()
+        btn.BackgroundColor3 = Color3.fromRGB(180,0,255)
+    end)
+    btn.MouseLeave:Connect(function()
+        btn.BackgroundColor3 = Color3.fromRGB(120,0,255)
+    end)
+    return btn
 end
 
 -- Tombol utama CIT
@@ -164,21 +164,21 @@ TombolFishingPerfect.AutoButtonColor = false
 
 -- Input koordinat
 local function createTextBox(parent, posisiX, posisiY, placeholder)
-	local tb = Instance.new("TextBox")
-	tb.Size = UDim2.new(0, 60, 0, 30)
-	tb.Position = UDim2.new(0, posisiX, 0, posisiY)
-	tb.PlaceholderText = placeholder
-	tb.BackgroundColor3 = Color3.fromRGB(60,0,120)
-	tb.TextColor3 = Color3.fromRGB(255,255,255)
-	tb.Font = Enum.Font.Gotham
-	tb.TextSize = 16
-	tb.BorderSizePixel = 0
-	tb.Parent = parent
+    local tb = Instance.new("TextBox")
+    tb.Size = UDim2.new(0, 60, 0, 30)
+    tb.Position = UDim2.new(0, posisiX, 0, posisiY)
+    tb.PlaceholderText = placeholder
+    tb.BackgroundColor3 = Color3.fromRGB(60,0,120)
+    tb.TextColor3 = Color3.fromRGB(255,255,255)
+    tb.Font = Enum.Font.Gotham
+    tb.TextSize = 16
+    tb.BorderSizePixel = 0
+    tb.Parent = parent
 
-	local corner = Instance.new("UICorner")
-	corner.CornerRadius = UDim.new(0,6)
-	corner.Parent = tb
-	return tb
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0,6)
+    corner.Parent = tb
+    return tb
 end
 
 local InputX = createTextBox(JendelaCit, 20, 220, "X") -- Dipindah ke bawah fishing
@@ -193,158 +193,171 @@ local autoFishingAktif = false -- Tambahin variabel buat auto fishing
 local fishingInterval = 1 -- Interval spam fishing (dalam detik)
 
 local function teleport(posisi)
-	local karakter = LocalPlayer.Character
-	if karakter then
-		karakter:MoveTo(posisi)
-	end
+    local karakter = LocalPlayer.Character
+    if karakter then
+        karakter:MoveTo(posisi)
+    end
 end
 
 local function kebalBuahIblis()
-	for _, efek in pairs(LocalPlayer.Character:GetDescendants()) do
-		if efek:IsA("ParticleEmitter") or efek:IsA("SpecialEffect") or efek:IsA("ForceField") then
-			efek:Destroy()
-		end
-	end
+    for _, efek in pairs(LocalPlayer.Character:GetDescendants()) do
+        if efek:IsA("ParticleEmitter") or efek:IsA("SpecialEffect") or efek:IsA("ForceField") then
+            efek:Destroy()
+        end
+    end
 end
 
 -- Fungsi buat auto fishing
 local function autoFishing()
-	autoFishingAktif = not autoFishingAktif
-	TombolFishingPerfect.Text = autoFishingAktif and "Fishing AUTO ON ✅" or "Fishing AUTO PERFECT 🎣"
+    autoFishingAktif = not autoFishingAktif
+    TombolFishingPerfect.Text = autoFishingAktif and "Fishing AUTO ON ✅" or "Fishing AUTO PERFECT 🎣"
 
-	if autoFishingAktif then
-		print("Auto fishing diaktifkan! Siap-siap kaya mendadak!")
+    if autoFishingAktif then
+        print("Auto fishing diaktifkan! Siap-siap kaya mendadak!")
 
-		-- Fungsi utama buat mancing otomatis (LOOP SAMPE MAMPUS!)
-		local function startFishing()
-			-- Cari tombol interaksi (PENTING: Sesuaikan nama tombol di game!)
-			local interactionButton = nil
-			for _, button in pairs(PlayerGui:GetDescendants()) do
-				if button:IsA("TextButton") and button.Text == "Mancing" then -- Ganti "Mancing" sesuai nama tombol interaksi di game
-					interactionButton = button
-					break
-				end
-			end
+        -- Fungsi utama buat mancing otomatis (LOOP SAMPE MAMPUS!)
+        local function startFishing()
+            -- Cari tombol interaksi (PENTING: Sesuaikan nama tombol di game!)
+            local interactionButton = nil
+            for _, button in pairs(PlayerGui:GetDescendants()) do
+                if button:IsA("TextButton") and button.Text == "Mancing" then -- Ganti "Mancing" sesuai nama tombol interaksi di game
+                    interactionButton = button
+                    break
+                end
+            end
 
-			if interactionButton then
-				-- Spam klik tombol interaksi setiap X detik (biar gak dicurigai)
-				while autoFishingAktif do
-					interactionButton:MouseButton1Click() -- KLIK TOMBOL!
+            if interactionButton then
+                -- Spam klik tombol interaksi setiap X detik (biar gak dicurigai)
+                while autoFishingAktif do
+                    local success, err = pcall(function()
+                        interactionButton:MouseButton1Click() -- KLIK TOMBOL!
+                    end)
+
+                    if not success then
+                        warn("Error saat klik tombol mancing:", err)
+                    end
+					
 					task.wait(fishingInterval) -- Jeda 1 detik (sesuaikan sendiri)
 
-					-- Tunggu sampai muncul UI fishing
-					task.wait(5) -- Jeda 5 detik (sesuaikan sendiri)
+                    -- Tunggu sampai muncul UI fishing
+                    task.wait(5) -- Jeda 5 detik (sesuaikan sendiri)
 
-					-- Cari tombol "Tarik" atau sejenisnya (PENTING: Sesuaikan nama tombol di game!)
-					local tarikButton = nil
-					for _, button in pairs(PlayerGui:GetDescendants()) do
-						if button:IsA("TextButton") and button.Text == "Tarik" then -- Ganti "Tarik" sesuai nama tombol tarik di game
-							tarikButton = button
-							break
-						end
-					end
+                    -- Cari tombol "Tarik" atau sejenisnya (PENTING: Sesuaikan nama tombol di game!)
+                    local tarikButton = nil
+                    for _, button in pairs(PlayerGui:GetDescendants()) do
+                        if button:IsA("TextButton") and button.Text == "Tarik" then -- Ganti "Tarik" sesuai nama tombol tarik di game
+                            tarikButton = button
+                            break
+                        end
+                    end
 
-					-- Kalo tombol "Tarik" ketemu, langsung klik!
-					if tarikButton then
-						tarikButton:MouseButton1Click() -- TARIK IKAN!
-						task.wait(2) -- Jeda 2 detik (sesuaikan sendiri)
-					end
-				end
-			else
-				print("Tombol interaksi 'Mancing' tidak ditemukan!")
-				autoFishingAktif = false
-				TombolFishingPerfect.Text = "Fishing AUTO PERFECT 🎣"
-			end
-		end
+                    -- Kalo tombol "Tarik" ketemu, langsung klik!
+                    if tarikButton then
+                        local success2, err2 = pcall(function()
+                            tarikButton:MouseButton1Click() -- TARIK IKAN!
+                        end)
 
-		-- Jalankan fungsi auto fishing
-		coroutine.wrap(startFishing)()
-	else
-		print("Auto fishing dinonaktifkan.")
-	end
+                        if not success2 then
+                            warn("Error saat klik tombol tarik:", err2)
+                        end
+                        task.wait(2) -- Jeda 2 detik (sesuaikan sendiri)
+                    end
+                end
+            else
+                print("Tombol interaksi 'Mancing' tidak ditemukan!")
+                autoFishingAktif = false
+                TombolFishingPerfect.Text = "Fishing AUTO PERFECT 🎣"
+            end
+        end
+
+        -- Jalankan fungsi auto fishing
+        coroutine.wrap(startFishing)()
+    else
+        print("Auto fishing dinonaktifkan.")
+    end
 end
 
 
 -- Verifikasi key
 TombolVerifikasi.MouseButton1Click:Connect(function()
-	local key = InputKey.Text
-	if key == "wilzu25" then
-		print("Key valid! Fitur aktif.")
-		JendelaKey.Visible = false
-		JendelaCit.Visible = true
-		TombolTerbang.Active = true
-		TombolTeleport.Active = true
-		TombolKebal.Active = true
-		TombolFishingPerfect.Active = true -- Aktifin tombol fishing perfect
-		TombolTerbang.AutoButtonColor = true
-		TombolTeleport.AutoButtonColor = true
-		TombolKebal.AutoButtonColor = true
-		TombolFishingPerfect.AutoButtonColor = true -- Set auto button color
-	else
-		print("Key salah!")
-	end
+    local key = InputKey.Text
+    if key == "wilzu25" then
+        print("Key valid! Fitur aktif.")
+        JendelaKey.Visible = false
+        JendelaCit.Visible = true
+        TombolTerbang.Active = true
+        TombolTeleport.Active = true
+        TombolKebal.Active = true
+        TombolFishingPerfect.Active = true -- Aktifin tombol fishing perfect
+        TombolTerbang.AutoButtonColor = true
+        TombolTeleport.AutoButtonColor = true
+        TombolKebal.AutoButtonColor = true
+        TombolFishingPerfect.AutoButtonColor = true -- Set auto button color
+    else
+        print("Key salah!")
+    end
 end)
 
 -- Fungsi tombol
 TombolTerbang.MouseButton1Click:Connect(function()
-	if TombolTerbang.Active then
-		terbangAktif = not terbangAktif
-		TombolTerbang.Text = terbangAktif and "Terbang OFF 🔴" or "Terbang ON 🕊️"
-	end
+    if TombolTerbang.Active then
+        terbangAktif = not terbangAktif
+        TombolTerbang.Text = terbangAktif and "Terbang OFF 🔴" or "Terbang ON 🕊️"
+    end
 end)
 
 TombolTeleport.MouseButton1Click:Connect(function()
-	if TombolTeleport.Active then
-		local x = tonumber(InputX.Text)
-		local y = tonumber(InputY.Text)
-		local z = tonumber(InputZ.Text)
-		if x and y and z then
-			teleport(Vector3.new(x, y, z))
-		else
-			print("Koordinat tidak valid!")
-		end
-	end
+    if TombolTeleport.Active then
+        local x = tonumber(InputX.Text)
+        local y = tonumber(InputY.Text)
+        local z = tonumber(InputZ.Text)
+        if x and y and z then
+            teleport(Vector3.new(x, y, z))
+        else
+            print("Koordinat tidak valid!")
+        end
+    end
 end)
 
 TombolKebal.MouseButton1Click:Connect(function()
-	if TombolKebal.Active then
-		kebalBuahIblis()
-		print("Kebal Buah Iblis aktif!")
-	end
+    if TombolKebal.Active then
+        kebalBuahIblis()
+        print("Kebal Buah Iblis aktif!")
+    end
 end)
 
 -- Tombol Fishing Perfect (sekarang jadi AUTO FISHING)
 TombolFishingPerfect.MouseButton1Click:Connect(function()
-	if TombolFishingPerfect.Active then
-		autoFishing() -- Panggil fungsi auto fishing
-	end
+    if TombolFishingPerfect.Active then
+        autoFishing() -- Panggil fungsi auto fishing
+    end
 end)
 
 -- Logika terbang
 RunService.Stepped:Connect(function()
-	local karakter = LocalPlayer.Character
-	if karakter and karakter:FindFirstChild("HumanoidRootPart") and karakter:FindFirstChild("Humanoid") then
-		local humanoid = karakter:FindFirstChild("Humanoid")
-		if humanoid then
-			if terbangAktif then
-				humanoid.JumpPower = 0
-				humanoid.WalkSpeed = kecepatanTerbang
-				karakter.HumanoidRootPart.Velocity = Vector3.new(0, kecepatanTerbang, 0)
-				humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
-				karakter.HumanoidRootPart.CanCollide = false
-				for _, part in pairs(karakter:GetDescendants()) do
-					if part:IsA("BasePart") then part.CanCollide = false end
-				end
-			else
-				humanoid.JumpPower = 50
-				humanoid.WalkSpeed = 16
-				humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, true)
-				for _, part in pairs(karakter:GetDescendants()) do
-					if part:IsA("BasePart") then part.CanCollide = true end
-				end
-			end
-		end
-	end
+    local karakter = LocalPlayer.Character
+    if karakter and karakter:FindFirstChild("HumanoidRootPart") and karakter:FindFirstChild("Humanoid") then
+        local humanoid = karakter:FindFirstChild("Humanoid")
+        if humanoid then
+            if terbangAktif then
+                humanoid.JumpPower = 0
+                humanoid.WalkSpeed = kecepatanTerbang
+                karakter.HumanoidRootPart.Velocity = Vector3.new(0, kecepatanTerbang, 0)
+                humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+                karakter.HumanoidRootPart.CanCollide = false
+                for _, part in pairs(karakter:GetDescendants()) do
+                    if part:IsA("BasePart") then part.CanCollide = false end
+                end
+            else
+                humanoid.JumpPower = 50
+                humanoid.WalkSpeed = 16
+                humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, true)
+                for _, part in pairs(karakter:GetDescendants()) do
+                    if part:IsA("BasePart") then part.CanCollide = true end
+                end
+            end
+        end
+    end
 end)
 
 print("UI CIT pojok kiri aktif ✅")
