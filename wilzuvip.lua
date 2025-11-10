@@ -17,22 +17,6 @@ LayarUI.Name = "Wilzu ⭐" -- Nama diubah biar makin brutal
 LayarUI.Parent = PlayerGui
 LayarUI.ZIndexBehavior = Enum.ZIndexBehavior.Global -- Pastikan di atas UI lain
 
--- Tombol Utama
-local TombolUtama = Instance.new("TextButton")
-TombolUtama.Size = UDim2.new(0, 200, 0, 40)
-TombolUtama.Position = UDim2.new(0, 20, 0, 10)  -- Di atas JendelaKey
-TombolUtama.Text = "Buka/Tutup Menu"
-TombolUtama.BackgroundColor3 = Color3.fromRGB(120,0,255)
-TombolUtama.TextColor3 = Color3.fromRGB(255,255,255)
-TombolUtama.Font = Enum.Font.GothamBold
-TombolUtama.TextSize = 16
-TombolUtama.BorderSizePixel = 0
-TombolUtama.Parent = LayarUI
-
-local CornerUtama = Instance.new("UICorner")
-CornerUtama.CornerRadius = UDim.new(0,10)
-CornerUtama.Parent = TombolUtama
-
 -- Frame utama Cit
 local JendelaKey = Instance.new("Frame")
 JendelaKey.Size = UDim2.new(0, 240, 0, 150) -- Ukuran diubah biar cukup semua fitur
@@ -91,7 +75,7 @@ CornerVerifikasi.Parent = TombolVerifikasi
 -- Frame utama Cit
 local JendelaCit = Instance.new("Frame")
 JendelaCit.Size = UDim2.new(0, 240, 0, 250) -- Ukuran diubah biar cukup semua fitur
-JendelaCit.Position = UDim2.new(0, 20, 0, 100) -- Posisi diubah jadi lebih atas
+JendelaCit.Position = UDim2.new(0, 20, 0, 230) -- Posisi semula
 JendelaCit.BackgroundColor3 = Color3.fromRGB(30, 0, 80)
 JendelaCit.Visible = false
 JendelaCit.BorderSizePixel = 0
@@ -205,10 +189,48 @@ local function createButton(parent, posisiY, teks)
     return btn
 end
 
--- Tombol Terbang & Teleport (disabled awal)
-local TombolTerbang = createButton(JendelaCit, 20, "Aktifkan Terbang GAHAR") -- Teks diubah biar makin brutal
-local TombolTeleport = createButton(JendelaCit, 70, "Teleport ke Koordinat")
-local TombolKebal = createButton(JendelaCit, 120, "Kebal Semua Buah Iblis") -- Fitur baru kebal buah iblis
+-- Fungsi untuk membuat tombol di posisi tombol utama
+local function createButtonAtMainPosition(teks)
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(0, 200, 0, 40)
+    btn.Position = UDim2.new(0, 20, 0, 10) -- Posisi yang sama dengan TombolUtama
+    btn.Text = teks
+    btn.BackgroundColor3 = Color3.fromRGB(120,0,255)
+    btn.TextColor3 = Color3.fromRGB(255,255,255)
+    btn.Font = Enum.Font.GothamBold
+    btn.TextSize = 16
+    btn.BorderSizePixel = 0
+    btn.Parent = LayarUI
+
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0,10)
+    corner.Parent = btn
+    
+    btn.MouseEnter:Connect(function()
+        btn.BackgroundColor3 = Color3.fromRGB(180,0,255)
+    end)
+    btn.MouseLeave:Connect(function()
+        btn.BackgroundColor3 = Color3.fromRGB(120,0,255)
+    end)
+    return btn
+end
+
+-- Hapus TombolUtama (Tombol Buka/Tutup Menu)
+TombolUtama:Destroy()
+
+-- Buat Tombol Terbang, Teleport, dan Kebal di posisi TombolUtama
+local TombolTerbang = createButtonAtMainPosition("Aktifkan Terbang GAHAR") -- Teks diubah biar makin brutal
+local TombolTeleport = createButtonAtMainPosition("Teleport ke Koordinat")
+local TombolKebal = createButtonAtMainPosition("Kebal Semua Buah Iblis") -- Fitur baru kebal buah iblis
+
+--TombolTerbang.Position = UDim2.new(0, 20, 0, 10)
+--TombolTeleport.Position = UDim2.new(0, 20, 0, 60)
+--TombolKebal.Position = UDim2.new(0, 20, 0, 110)
+
+TombolTerbang.Visible = false
+TombolTeleport.Visible = false
+TombolKebal.Visible = false
+
 TombolTerbang.Active = false
 TombolTeleport.Active = false
 TombolKebal.Active = false -- Disable awal fitur kebal
@@ -265,11 +287,6 @@ local function kebalBuahIblis()
     end
 end
 
--- Tombol utama buka/tutup
-TombolUtama.MouseButton1Click:Connect(function()
-	JendelaKey.Visible = not JendelaKey.Visible
-end)
-
 -- Tombol verifikasi key
 TombolVerifikasi.MouseButton1Click:Connect(function()
     local key = InputKey.Text
@@ -281,6 +298,10 @@ TombolVerifikasi.MouseButton1Click:Connect(function()
         TombolTerbang.AutoButtonColor = true
         TombolTeleport.AutoButtonColor = true
         TombolKebal.AutoButtonColor = true
+
+        TombolTerbang.Visible = true
+        TombolTeleport.Visible = true
+        TombolKebal.Visible = true
 
 		-- Hide elemen UI input key
 		JendelaKey.Visible = false
@@ -295,9 +316,9 @@ TombolTerbang.MouseButton1Click:Connect(function()
     if TombolTerbang.Active then
         terbangAktif = not terbangAktif
         if terbangAktif then
-            TombolTerbang.Text = "Nonaktifkan Terbang GAHAR" -- Teks diubah biar makin brutal
+            TombolTerbang.Text = "Terbang of 🔴" -- Teks diubah biar makin brutal
         else
-            TombolTerbang.Text = "Aktifkan Terbang GAHAR" -- Teks diubah biar makin brutal
+            TombolTerbang.Text = "Terbang on 🕊️" -- Teks diubah biar makin brutal
         end
     end
 end)
