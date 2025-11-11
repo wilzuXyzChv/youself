@@ -1,40 +1,37 @@
 {
-  "spotify": {
-    "price": 12000,
-    "accounts": [
-      ""
-    ]
+  "saldo": {
+    "123456789": 10000,
+    "987654321": 5000
   },
-  "netflix": {
-    "price": 15000,
-    "accounts": [
-      ""
-    ]
+  "produk": {
+    "spotify": {
+      "price": 15000,
+      "accounts": ["a|p", "b|p", "c|p"]
+    },
+    "netflix": {
+      "price": 15000,
+      "accounts": ["n|p", "m|p"]
+    },
+    "youtube": {
+      "price": 5000,
+      "accounts": ["y1|p", "y2|p", "y3|p"] 
+    },
+    "am": {
+      "price": 3000,
+      "accounts": ["a1|p", "a2|p", "a3|p"]
+    },
+    "capcut": {
+      "price": 15000,
+      "accounts": ["c1|p", "c2|p"]
+    },
+    "drmabox": {
+      "price": 24000,
+      "accounts": ["d1|p", "d2|p"]
+    },
+    "cetgpt": {
+      "price": 20000,
+      "accounts": ["g1|p", "g2|p"]
+    }
   },
-  "am": {
-    "price": 5000,
-    "accounts": [
-      ""
-    ]
-  },
-  "drambox": {
-    "price": 20000,
-    "accounts": [
-      ""
-    ]
-  },
-  "capcut": {
-    "price": 15000,
-    "accounts": [
-      "",
-      "ivejaw@ngontol.com",
-      "masuk123",
-      "ifukuc@ngontol.com",
-      "masuk123",
-      "ikehor@ngontol.com",
-      "masuk123",
-      "ikehor@ngontol.com",
-      "masuk123"
-    ]
-  }
+  "ledger": []
 }
