@@ -19,7 +19,8 @@
     "am": {
       "price": 3000,
       "accounts": [
-        "amwilzuamwilzu@gmail.com"
+        "amwilzuamwilzu@gmail.com",
+        "ampremier3@gmail.com"
       ]
     },
     "capcut": {
@@ -89,6 +90,14 @@
         "amwilzuamwilzu@gmail.com"
       ],
       "date": "2025-11-11T20:39:12.743Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": [
+        "ampremier3@gmail.com"
+      ],
+      "date": "2025-11-11T20:39:54.120Z"
     }
   ]
 }
