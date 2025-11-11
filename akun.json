@@ -1,0 +1,30 @@
+{
+  "netflix": [
+    "netflix1@example.com|password1",
+    "netflix2@example.com|password2",
+    "netflix3@example.com|password3"
+  ],
+  "spotify": [
+    "spotify1@example.com|password1",
+    "spotify2@example.com|password2"
+  ],
+  "capcut": [
+    "capcut1@example.com|password1",
+    "capcut2@example.com|password2",
+    "capcut3@example.com|password3",
+    "capcut4@example.com|password4"
+  ],
+  "viu": [
+    "viu1@example.com|password1",
+    "viu2@example.com|password2"
+  ],
+  "drmabox": [
+    "drmabox1@example.com|password1",
+    "drmabox2@example.com|password2",
+    "drmabox3@example.com|password3"
+  ],
+  "alingmotion": [
+    "alingmotion1@example.com|password1",
+    "alingmotion2@example.com|password2"
+  ]
+}
