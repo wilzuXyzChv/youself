@@ -18,7 +18,9 @@
     },
     "am": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "amwilzuamwilzu@gmail.com"
+      ]
     },
     "capcut": {
       "price": 15000,
@@ -79,6 +81,14 @@
         "ikehor@ngontol.com"
       ],
       "date": "2025-11-11T19:09:15.418Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": [
+        "amwilzuamwilzu@gmail.com"
+      ],
+      "date": "2025-11-11T20:39:12.743Z"
     }
   ]
 }
