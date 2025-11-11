@@ -10,13 +10,13 @@
     "accounts": [
       ""
     ]
-      },
-      "am": {
+  },
+  "am": {
     "price": 5000,
     "accounts": [
       ""
     ]
-      },
+  },
   "drambox": {
     "price": 20000,
     "accounts": [
@@ -26,7 +26,9 @@
   "capcut": {
     "price": 15000,
     "accounts": [
-      ""
+      "",
+      "ivejaw@ngontol.com",
+      "masuk123"
     ]
   }
 }
