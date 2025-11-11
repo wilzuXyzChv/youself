@@ -24,7 +24,8 @@
       "price": 15000,
       "accounts": [
         "ivejaw@ngontol.com",
-        "ifukuc@ngontol.com"
+        "ifukuc@ngontol.com",
+        "ewiqij@ngontol.com"
       ]
     },
     "drmabox": {
@@ -61,6 +62,14 @@
         "ifukuc@ngontol.com"
       ],
       "date": "2025-11-11T19:08:51.721Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "ewiqij@ngontol.com"
+      ],
+      "date": "2025-11-11T19:09:02.709Z"
     }
   ]
 }
