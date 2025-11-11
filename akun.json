@@ -6,31 +6,31 @@
   "produk": {
     "spotify": {
       "price": 15000,
-      "accounts": ["a|p", "b|p", "c|p"]
+      "accounts": []
     },
     "netflix": {
       "price": 15000,
-      "accounts": ["n|p", "m|p"]
+      "accounts": []
     },
     "youtube": {
       "price": 5000,
-      "accounts": ["y1|p", "y2|p", "y3|p"] 
+      "accounts": [] 
     },
     "am": {
       "price": 3000,
-      "accounts": ["a1|p", "a2|p", "a3|p"]
+      "accounts": []
     },
     "capcut": {
       "price": 15000,
-      "accounts": ["c1|p", "c2|p"]
+      "accounts": []
     },
     "drmabox": {
       "price": 24000,
-      "accounts": ["d1|p", "d2|p"]
+      "accounts": []
     },
     "cetgpt": {
       "price": 20000,
-      "accounts": ["g1|p", "g2|p"]
+      "accounts": []
     }
   },
   "ledger": []
