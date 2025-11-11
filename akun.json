@@ -23,6 +23,7 @@
     "capcut": {
       "price": 15000,
       "accounts": [
+        "ivejaw@ngontol.com"
       ]
     },
     "drmabox": {
@@ -43,6 +44,14 @@
         "masuk123,"
       ],
       "date": "2025-11-11T19:04:58.664Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "ivejaw@ngontol.com"
+      ],
+      "date": "2025-11-11T19:08:30.914Z"
     }
   ]
 }
