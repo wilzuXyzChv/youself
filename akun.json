@@ -20,6 +20,7 @@
       "price": 3000,
       "accounts": [
         "amwilzuamwilzu@gmail.com",
+        "ampremier3@gmail.com",
         "ampremier3@gmail.com"
       ]
     },
@@ -98,6 +99,14 @@
         "ampremier3@gmail.com"
       ],
       "date": "2025-11-11T20:39:54.120Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": [
+        "ampremier3@gmail.com"
+      ],
+      "date": "2025-11-11T20:41:18.947Z"
     }
   ]
 }
