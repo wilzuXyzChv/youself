@@ -14,7 +14,7 @@
     },
     "youtube": {
       "price": 5000,
-      "accounts": [] 
+      "accounts": []
     },
     "am": {
       "price": 3000,
@@ -22,7 +22,10 @@
     },
     "capcut": {
       "price": 15000,
-      "accounts": []
+      "accounts": [
+        "ivejaw@ngontol.com",
+        "masuk123,"
+      ]
     },
     "drmabox": {
       "price": 24000,
@@ -33,5 +36,15 @@
       "accounts": []
     }
   },
-  "ledger": []
+  "ledger": [
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "ivejaw@ngontol.com",
+        "masuk123,"
+      ],
+      "date": "2025-11-11T19:04:58.664Z"
+    }
+  ]
 }
