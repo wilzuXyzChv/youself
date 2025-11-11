@@ -25,7 +25,8 @@
       "accounts": [
         "ivejaw@ngontol.com",
         "ifukuc@ngontol.com",
-        "ewiqij@ngontol.com"
+        "ewiqij@ngontol.com",
+        "ikehor@ngontol.com"
       ]
     },
     "drmabox": {
@@ -70,6 +71,14 @@
         "ewiqij@ngontol.com"
       ],
       "date": "2025-11-11T19:09:02.709Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "ikehor@ngontol.com"
+      ],
+      "date": "2025-11-11T19:09:15.418Z"
     }
   ]
 }
