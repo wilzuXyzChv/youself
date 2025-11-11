@@ -1,20 +1,32 @@
 {
-  "netflix": [
-    ""
-  ],
-  "spotify": [
-    ""
-  ],
-  "capcut": [
-    ""
-  ],
-  "viu": [
-    ""
-  ],
-  "drmabox": [
-    ""
-  ],
-  "alingmotion": [
-    ""
-  ]
+  "spotify": {
+    "price": 12000,
+    "accounts": [
+      ""
+    ]
+  },
+  "netflix": {
+    "price": 15000,
+    "accounts": [
+      ""
+    ]
+      },
+      "am": {
+    "price": 5000,
+    "accounts": [
+      ""
+    ]
+      },
+  "drambox": {
+    "price": 20000,
+    "accounts": [
+      ""
+    ]
+  },
+  "capcut": {
+    "price": 5000,
+    "accounts": [
+      ""
+    ]
+  }
 }
