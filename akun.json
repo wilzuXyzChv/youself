@@ -19,18 +19,18 @@
     "am": {
       "price": 3000,
       "accounts": [
-        "amwilzuamwilzu@gmail.com",
-        "ampremier3@gmail.com",
-        "ampremier3@gmail.com"
+        "amwilzuamwilzu@gmail.com:masuk123",
+        "ampremier3@gmail.com:masuk123",
+        "ampremier3@gmail.com:masuk123"
       ]
     },
     "capcut": {
       "price": 15000,
       "accounts": [
-        "ivejaw@ngontol.com",
-        "ifukuc@ngontol.com",
-        "ewiqij@ngontol.com",
-        "ikehor@ngontol.com"
+        "ivejaw@ngontol.com:masuk123",
+        "ifukuc@ngontol.com:masuk123",
+        "ewiqij@ngontol.com:masuk123",
+        "ikehor@ngontol.com:masuk123"
       ]
     },
     "drmabox": {
@@ -46,66 +46,43 @@
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": [
-        "ivejaw@ngontol.com",
-        "masuk123,"
-      ],
+      "akun": ["ivejaw@ngontol.com:masuk123"],
       "date": "2025-11-11T19:04:58.664Z"
     },
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": [
-        "ivejaw@ngontol.com"
-      ],
-      "date": "2025-11-11T19:08:30.914Z"
-    },
-    {
-      "type": "restok",
-      "produk": "capcut",
-      "akun": [
-        "ifukuc@ngontol.com"
-      ],
+      "akun": ["ifukuc@ngontol.com:masuk123"],
       "date": "2025-11-11T19:08:51.721Z"
     },
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": [
-        "ewiqij@ngontol.com"
-      ],
+      "akun": ["ewiqij@ngontol.com:masuk123"],
       "date": "2025-11-11T19:09:02.709Z"
     },
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": [
-        "ikehor@ngontol.com"
-      ],
+      "akun": ["ikehor@ngontol.com:masuk123"],
       "date": "2025-11-11T19:09:15.418Z"
     },
     {
       "type": "restok",
       "produk": "am",
-      "akun": [
-        "amwilzuamwilzu@gmail.com"
-      ],
+      "akun": ["amwilzuamwilzu@gmail.com:masuk123"],
       "date": "2025-11-11T20:39:12.743Z"
     },
     {
       "type": "restok",
       "produk": "am",
-      "akun": [
-        "ampremier3@gmail.com"
-      ],
+      "akun": ["ampremier3@gmail.com:masuk123"],
       "date": "2025-11-11T20:39:54.120Z"
     },
     {
       "type": "restok",
       "produk": "am",
-      "akun": [
-        "ampremier3@gmail.com"
-      ],
+      "akun": ["ampremier3@gmail.com:masuk123"],
       "date": "2025-11-11T20:41:18.947Z"
     }
   ]
