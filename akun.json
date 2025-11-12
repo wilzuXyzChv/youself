@@ -1,16 +1,24 @@
 {
   "saldo": {
-    "7660594032": 10000,
-    "987654321": 5000
+    "987654321": 5000,
+    "7660594032": 7000
   },
   "produk": {
-    "spotify": { "price": 15000, "accounts": [] },
-    "netflix": { "price": 15000, "accounts": [] },
-    "youtube": { "price": 5000, "accounts": [] },
+    "spotify": {
+      "price": 15000,
+      "accounts": []
+    },
+    "netflix": {
+      "price": 15000,
+      "accounts": []
+    },
+    "youtube": {
+      "price": 5000,
+      "accounts": []
+    },
     "am": {
       "price": 3000,
       "accounts": [
-        "amwilzuamwilzu@gmail.com:masuk123",
         "ampremier3@gmail.com:masuk123",
         "ampremier3@gmail.com:masuk123"
       ]
@@ -24,51 +32,79 @@
         "ikehor@ngontol.com:masuk123"
       ]
     },
-    "drmabox": { "price": 24000, "accounts": [] },
-    "cetgpt": { "price": 20000, "accounts": [] }
+    "drmabox": {
+      "price": 24000,
+      "accounts": []
+    },
+    "cetgpt": {
+      "price": 20000,
+      "accounts": []
+    }
   },
   "ledger": [
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": ["ivejaw@ngontol.com:masuk123"],
+      "akun": [
+        "ivejaw@ngontol.com:masuk123"
+      ],
       "date": "2025-11-11T19:04:58.664Z"
     },
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": ["ifukuc@ngontol.com:masuk123"],
+      "akun": [
+        "ifukuc@ngontol.com:masuk123"
+      ],
       "date": "2025-11-11T19:08:51.721Z"
     },
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": ["ewiqij@ngontol.com:masuk123"],
+      "akun": [
+        "ewiqij@ngontol.com:masuk123"
+      ],
       "date": "2025-11-11T19:09:02.709Z"
     },
     {
       "type": "restok",
       "produk": "capcut",
-      "akun": ["ikehor@ngontol.com:masuk123"],
+      "akun": [
+        "ikehor@ngontol.com:masuk123"
+      ],
       "date": "2025-11-11T19:09:15.418Z"
     },
     {
       "type": "restok",
       "produk": "am",
-      "akun": ["amwilzuamwilzu@gmail.com:masuk123"],
+      "akun": [
+        "amwilzuamwilzu@gmail.com:masuk123"
+      ],
       "date": "2025-11-11T20:39:12.743Z"
     },
     {
       "type": "restok",
       "produk": "am",
-      "akun": ["ampremier3@gmail.com:masuk123"],
+      "akun": [
+        "ampremier3@gmail.com:masuk123"
+      ],
       "date": "2025-11-11T20:39:54.120Z"
     },
     {
       "type": "restok",
       "produk": "am",
-      "akun": ["ampremier3@gmail.com:masuk123"],
+      "akun": [
+        "ampremier3@gmail.com:masuk123"
+      ],
       "date": "2025-11-11T20:41:18.947Z"
+    },
+    {
+      "type": "beli",
+      "chatId": 7660594032,
+      "produk": "am",
+      "akun": "amwilzuamwilzu@gmail.com:masuk123",
+      "price": 3000,
+      "date": "2025-11-12T17:46:51.404Z"
     }
   ]
 }
