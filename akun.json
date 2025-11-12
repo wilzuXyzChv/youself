@@ -4,18 +4,9 @@
     "987654321": 5000
   },
   "produk": {
-    "spotify": {
-      "price": 15000,
-      "accounts": []
-    },
-    "netflix": {
-      "price": 15000,
-      "accounts": []
-    },
-    "youtube": {
-      "price": 5000,
-      "accounts": []
-    },
+    "spotify": { "price": 15000, "accounts": [] },
+    "netflix": { "price": 15000, "accounts": [] },
+    "youtube": { "price": 5000, "accounts": [] },
     "am": {
       "price": 3000,
       "accounts": [
@@ -33,14 +24,8 @@
         "ikehor@ngontol.com:masuk123"
       ]
     },
-    "drmabox": {
-      "price": 24000,
-      "accounts": []
-    },
-    "cetgpt": {
-      "price": 20000,
-      "accounts": []
-    }
+    "drmabox": { "price": 24000, "accounts": [] },
+    "cetgpt": { "price": 20000, "accounts": [] }
   },
   "ledger": [
     {
