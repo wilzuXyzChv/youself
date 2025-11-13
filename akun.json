@@ -28,7 +28,8 @@
         "ifukuc@ngontol.com:masuk123",
         "ewiqij@ngontol.com:masuk123",
         "ikehor@ngontol.com:masuk123",
-        "ampremier3@gmail.com:masuk12345"
+        "ampremier3@gmail.com:masuk12345",
+        "amwilzuamwilzu@gmail.com:masuk123"
       ]
     },
     "drmabox": {
@@ -128,6 +129,14 @@
         "ampremier3@gmail.com:masuk12345"
       ],
       "date": "2025-11-13T15:55:48.365Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "amwilzuamwilzu@gmail.com:masuk123"
+      ],
+      "date": "2025-11-13T15:56:43.777Z"
     }
   ]
 }
