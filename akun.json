@@ -1,7 +1,7 @@
 {
   "saldo": {
     "7592882115": 10000,
-    "7660594032": 4000,
+    "7660594032": 1000,
     "6069382812": 5000
   },
   "produk": {
@@ -19,9 +19,7 @@
     },
     "am": {
       "price": 3000,
-      "accounts": [
-        "ampremier3@gmail.com:masuk123"
-      ]
+      "accounts": []
     },
     "capcut": {
       "price": 15000,
@@ -113,6 +111,14 @@
       "akun": "ampremier3@gmail.com:masuk123",
       "price": 3000,
       "date": "2025-11-13T15:54:55.955Z"
+    },
+    {
+      "type": "beli",
+      "chatId": 7660594032,
+      "produk": "am",
+      "akun": "ampremier3@gmail.com:masuk123",
+      "price": 3000,
+      "date": "2025-11-13T15:55:14.349Z"
     }
   ]
 }
