@@ -7,7 +7,9 @@
   "produk": {
     "spotify": {
       "price": 15000,
-      "accounts": []
+      "accounts": [
+        "prem"
+      ]
     },
     "netflix": {
       "price": 15000,
@@ -147,6 +149,14 @@
         "ampremier3@gmail:stockam1"
       ],
       "date": "2025-11-14T04:18:00.814Z"
+    },
+    {
+      "type": "restok",
+      "produk": "spotify",
+      "akun": [
+        "prem"
+      ],
+      "date": "2025-11-14T17:11:07.712Z"
     }
   ]
 }
