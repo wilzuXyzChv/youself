@@ -47,6 +47,10 @@
     "viu": {
       "price": 50000,
       "accounts": []
+    },
+    "netfilix-gacor": {
+      "price": 5000,
+      "accounts": []
     }
   },
   "ledger": [
