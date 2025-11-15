@@ -43,6 +43,10 @@
     "cetgpt": {
       "price": 20000,
       "accounts": []
+    },
+    "viu": {
+      "price": 50000,
+      "accounts": []
     }
   },
   "ledger": [
