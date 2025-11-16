@@ -1,8 +1,17 @@
 {
   "saldo": {
+    
     "123456789": 20000,
     "7775991185": 3000,
     "7660594032": 1000
+  },
+    "produkPerAngka": {
+    "1": ["Spotify Premium", "Spotify Family"],
+    "2": ["Netflix Basic", "Netflix Standard"],
+    "3": ["CapCut Pro", "CapCut Template Pack"],
+    "4": ["YouTube Premium"],
+    "5": ["AM Account 1", "AM Account 2"],
+    "6": ["Viu VIP"]
   },
   "produk": {
     "Spotify Premium": {
