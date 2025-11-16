@@ -1,35 +1,45 @@
 {
-  "saldo": {    
+  "saldo": {
     "123456789": 20000,
     "7775991185": 3000,
-    "7660594032": 1000
+    "7660594032": 100
   },
-    "produkPerAngka": {
+
+  "produkPerAngka": {
     "1": ["Spotify Premium", "Spotify Family"],
     "2": ["Netflix Basic", "Netflix Standard"],
     "3": ["CapCut Pro", "CapCut Template Pack"],
     "4": ["YouTube Premium"],
     "5": ["AM Account 1", "AM Account 2"],
-    "6": ["Viu VIP"]
+    "6": ["Viu VIP"],
+    "7": ["Disney+ Hotstar"],
+    "8": ["Steam Wallet Rp50k", "Steam Wallet Rp100k"],
+    "9": ["Google Play Rp50k", "Google Play Rp100k"],
+    "10": ["ShopeePay 50k", "ShopeePay 100k"],
+    "11": ["Voucher Telkomsel", "Voucher XL"],
+    "12": ["Voucher Indosat", "Voucher Tri"],
+    "13": ["Game Skin A", "Game Skin B"],
+    "14": ["VPN Premium", "VPN Basic"],
+    "15": ["Dropbox 1TB", "Dropbox 2TB"],
+    "16": ["Canva Pro", "Canva Template"],
+    "17": ["Voucher Lainnya"]
   },
+
   "produk": {
     "Spotify Premium": {
       "price": 15000,
-      "accounts": [
-        "akun2|pass2"
-      ]
+      "accounts": ["akun2|pass2"]
     },
     "Netflix Basic": {
       "price": 20000,
-      "accounts": [
-        "email|pass"
-      ]
+      "accounts": ["email|pass"]
     },
     "CapCut Pro": {
       "price": 10000,
       "accounts": []
     }
   },
+
   "ledger": [
     {
       "type": "beli",
