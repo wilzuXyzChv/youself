@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 3000,
+    "7775991185": 2998,
     "7660594032": 100
   },
   "produkPerAngka": {
@@ -99,10 +99,7 @@
     },
     "Dropbox": {
       "price": 1,
-      "accounts": [
-        "akun",
-        "akun"
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -130,6 +127,22 @@
         "akun"
       ],
       "date": "2025-11-17T14:02:11.595Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Dropbox",
+      "akun": "akun",
+      "price": 1,
+      "date": "2025-11-17T14:02:40.313Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Dropbox",
+      "akun": "akun",
+      "price": 1,
+      "date": "2025-11-17T14:02:40.313Z"
     }
   ]
 }
