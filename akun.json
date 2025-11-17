@@ -44,7 +44,9 @@
     },
     "alingmotion": {
       "price": 600,
-      "accounts": []
+      "accounts": [
+        "wilzxgeg8272@gmail.com:masuk17263"
+      ]
     }
   },
   "ledger": [
@@ -281,6 +283,12 @@
       "produk": "am",
       "akun": 1,
       "date": "2025-11-17T21:05:20.665Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2025-11-17T21:07:28.486Z"
     }
   ]
 }
