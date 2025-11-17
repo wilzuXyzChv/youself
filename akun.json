@@ -99,7 +99,10 @@
     },
     "Dropbox": {
       "price": 1,
-      "accounts": []
+      "accounts": [
+        "akun",
+        "akun"
+      ]
     }
   },
   "ledger": [
@@ -118,6 +121,15 @@
         "wisidi@gmail.com:1238"
       ],
       "date": "2025-11-17T07:09:35.142Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Dropbox",
+      "akun": [
+        "akun",
+        "akun"
+      ],
+      "date": "2025-11-17T14:02:11.595Z"
     }
   ]
 }
