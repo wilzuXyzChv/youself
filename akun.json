@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 999999979999,
+    "7775991185": 999999964999,
     "7660594032": 100
   },
   "produkPerAngka": {
@@ -73,9 +73,7 @@
   "produk": {
     "Spotify Premium": {
       "price": 15000,
-      "accounts": [
-        "akun2|pass2"
-      ]
+      "accounts": []
     },
     "Netflix Basic": {
       "price": 20000,
@@ -198,6 +196,14 @@
       "akun": "email|pass",
       "price": 20000,
       "date": "2025-11-17T15:10:40.659Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": "akun2|pass2",
+      "price": 15000,
+      "date": "2025-11-17T15:31:18.531Z"
     }
   ]
 }
