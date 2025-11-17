@@ -71,10 +71,6 @@
     ]
   },
   "produk": {
-    "Spotify Premium": {
-      "price": 15000,
-      "accounts": []
-    },
     "Netflix Basic": {
       "price": 20000,
       "accounts": []
