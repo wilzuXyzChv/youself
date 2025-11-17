@@ -70,12 +70,7 @@
       "Voucher Lainnya"
     ]
   },
-  "produk": {
-    "Dropbox": {
-      "price": 1,
-      "accounts": []
-    }
-  },
+  "produk": {},
   "ledger": [
     {
       "type": "beli",
