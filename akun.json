@@ -2,18 +2,13 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999940000,
-    "7660594032": 1000000,
+    "7660594032": 992000,
     "8283491052": 70003
   },
   "produk": {
     "Spotify Premium": {
       "price": 8000,
-      "accounts": [
-        {
-          "username": "Jembut",
-          "password": "JembutKuda"
-        }
-      ]
+      "accounts": []
     },
     "Spotify-fmily": {
       "price": 8000,
@@ -243,6 +238,17 @@
       "produk": "Spotify Premium",
       "akun": 1,
       "date": "2025-11-17T16:34:34.472Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Spotify Premium",
+      "akun": {
+        "username": "Jembut",
+        "password": "JembutKuda"
+      },
+      "price": 8000,
+      "date": "2025-11-17T19:36:43.705Z"
     }
   ]
 }
