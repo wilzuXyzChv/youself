@@ -31,6 +31,10 @@
           "password": "anjir"
         }
       ]
+    },
+    "Spotify-fmily": {
+      "price": 8000,
+      "accounts": []
     }
   },
   "ledger": [
