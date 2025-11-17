@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999940000,
-    "7660594032": 992000,
+    "7660594032": 991400,
     "8283491052": 70003
   },
   "produk": {
@@ -40,9 +40,7 @@
     },
     "am": {
       "price": 600,
-      "accounts": [
-        "/restok alingmotion 1thn wilzu@gmaip.com:masuk12839"
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -265,6 +263,14 @@
       "produk": "am",
       "akun": 1,
       "date": "2025-11-17T21:02:39.009Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "am",
+      "akun": "/restok alingmotion 1thn wilzu@gmaip.com:masuk12839",
+      "price": 600,
+      "date": "2025-11-17T21:03:28.935Z"
     }
   ]
 }
