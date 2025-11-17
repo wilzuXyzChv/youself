@@ -20,7 +20,12 @@
     },
     "yaya": {
       "price": 999999999999999,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "akun",
+          "password": "anjir"
+        }
+      ]
     }
   },
   "ledger": [
@@ -214,6 +219,12 @@
       },
       "price": 9999,
       "date": "2025-11-17T16:24:14.527Z"
+    },
+    {
+      "type": "restok",
+      "produk": "yaya",
+      "akun": 1,
+      "date": "2025-11-17T16:28:31.986Z"
     }
   ]
 }
