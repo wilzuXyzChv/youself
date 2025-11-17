@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 999999949999,
+    "7775991185": 999999940000,
     "7660594032": 100
   },
   "produkPerAngka": {
@@ -81,12 +81,7 @@
     },
     "JembutKuda": {
       "price": 9999,
-      "accounts": [
-        {
-          "username": "kontol",
-          "password": "memek"
-        }
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -218,6 +213,17 @@
       "produk": "JembutKuda",
       "akun": 1,
       "date": "2025-11-17T16:18:40.241Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "kontol",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:18:51.101Z"
     }
   ]
 }
