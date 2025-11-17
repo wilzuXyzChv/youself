@@ -26,6 +26,10 @@
     "nteflix": {
       "price": 25000,
       "accounts": []
+    },
+    "capcut private": {
+      "price": 5000,
+      "accounts": []
     }
   },
   "ledger": [
