@@ -110,6 +110,10 @@
       "accounts": [
         "akun mmk"
       ]
+    },
+    "kontolo": {
+      "price": 99999,
+      "accounts": []
     }
   },
   "ledger": [
