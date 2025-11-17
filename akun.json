@@ -8,7 +8,12 @@
   "produk": {
     "Spotify Premium": {
       "price": 15000,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "Jembut",
+          "password": "JembutKuda"
+        }
+      ]
     },
     "capcut 23": {
       "price": 5000,
@@ -225,6 +230,12 @@
       "produk": "yaya",
       "akun": 1,
       "date": "2025-11-17T16:28:31.986Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Spotify Premium",
+      "akun": 1,
+      "date": "2025-11-17T16:34:34.472Z"
     }
   ]
 }
