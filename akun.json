@@ -37,6 +37,10 @@
     "alingmotion 1thn": {
       "price": 1000,
       "accounts": []
+    },
+    "am": {
+      "price": 600,
+      "accounts": []
     }
   },
   "ledger": [
