@@ -37,10 +37,6 @@
     "alingmotion 1thn": {
       "price": 600,
       "accounts": []
-    },
-    "setprice alingmotion 1thn": {
-      "price": 600,
-      "accounts": []
     }
   },
   "ledger": [
