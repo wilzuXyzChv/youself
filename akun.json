@@ -96,6 +96,10 @@
       "accounts": [
         "wisidi@gmail.com:1238"
       ]
+    },
+    "Dropbox": {
+      "price": 1,
+      "accounts": []
     }
   },
   "ledger": [
