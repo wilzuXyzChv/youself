@@ -71,10 +71,6 @@
     ]
   },
   "produk": {
-    "Netflix Basic": {
-      "price": 20000,
-      "accounts": []
-    },
     "CapCut Pro": {
       "price": 10000,
       "accounts": []
