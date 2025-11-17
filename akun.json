@@ -16,7 +16,12 @@
     },
     "JembutKuda": {
       "price": 9999,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "mark@xuck.id",
+          "password": "memek"
+        }
+      ]
     }
   },
   "ledger": [
@@ -159,6 +164,12 @@
       },
       "price": 9999,
       "date": "2025-11-17T16:18:51.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:22:58.032Z"
     }
   ]
 }
