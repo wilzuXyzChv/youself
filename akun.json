@@ -40,7 +40,9 @@
     },
     "am": {
       "price": 600,
-      "accounts": []
+      "accounts": [
+        "1th"
+      ]
     },
     "am 1th": {
       "price": 600,
@@ -275,6 +277,12 @@
       "akun": "/restok alingmotion 1thn wilzu@gmaip.com:masuk12839",
       "price": 600,
       "date": "2025-11-17T21:03:28.935Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": 1,
+      "date": "2025-11-17T21:05:20.665Z"
     }
   ]
 }
