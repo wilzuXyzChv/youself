@@ -30,6 +30,10 @@
     "capcut private": {
       "price": 12000,
       "accounts": []
+    },
+    "capcut basic 1bulan": {
+      "price": 600,
+      "accounts": []
     }
   },
   "ledger": [
