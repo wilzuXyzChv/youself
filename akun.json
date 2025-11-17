@@ -38,12 +38,6 @@
       "price": 1000,
       "accounts": []
     },
-    "am": {
-      "price": 600,
-      "accounts": [
-        "1th"
-      ]
-    },
     "am 1th": {
       "price": 600,
       "accounts": []
