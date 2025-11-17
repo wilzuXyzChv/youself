@@ -107,7 +107,9 @@
     },
     "Plerrrrrr": {
       "price": 1000,
-      "accounts": []
+      "accounts": [
+        "akun mmk"
+      ]
     }
   },
   "ledger": [
@@ -192,6 +194,14 @@
       "akun": " Sahrono",
       "price": 999,
       "date": "2025-11-17T14:05:04.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Plerrrrrr",
+      "akun": [
+        "akun mmk"
+      ],
+      "date": "2025-11-17T14:21:24.422Z"
     }
   ]
 }
