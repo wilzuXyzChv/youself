@@ -35,6 +35,10 @@
     "Spotify-fmily": {
       "price": 8000,
       "accounts": []
+    },
+    "nteflix": {
+      "price": 25000,
+      "accounts": []
     }
   },
   "ledger": [
