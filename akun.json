@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 999999964999,
+    "7775991185": 999999949999,
     "7660594032": 100
   },
   "produkPerAngka": {
@@ -73,12 +73,7 @@
   "produk": {
     "Spotify Premium": {
       "price": 15000,
-      "accounts": [
-        {
-          "username": "memek",
-          "password": "kontol"
-        }
-      ]
+      "accounts": []
     },
     "capcut 23": {
       "price": 5000,
@@ -197,6 +192,17 @@
       "produk": "Spotify Premium",
       "akun": 1,
       "date": "2025-11-17T16:00:15.268Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": {
+        "username": "memek",
+        "password": "kontol"
+      },
+      "price": 15000,
+      "date": "2025-11-17T16:17:22.030Z"
     }
   ]
 }
