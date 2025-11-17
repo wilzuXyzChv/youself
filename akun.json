@@ -17,6 +17,10 @@
     "JembutKuda": {
       "price": 9999,
       "accounts": []
+    },
+    "yaya": {
+      "price": 999999999999999,
+      "accounts": []
     }
   },
   "ledger": [
