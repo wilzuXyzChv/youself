@@ -41,6 +41,10 @@
     "am 1th": {
       "price": 600,
       "accounts": []
+    },
+    "alingmotion": {
+      "price": 600,
+      "accounts": []
     }
   },
   "ledger": [
