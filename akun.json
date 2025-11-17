@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 2998,
+    "7775991185": 1999,
     "7660594032": 100
   },
   "produkPerAngka": {
@@ -103,9 +103,7 @@
     },
     "Bokep": {
       "price": 999,
-      "accounts": [
-        "Ahmad,Sahroni"
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -157,6 +155,14 @@
         "Ahmad,Sahroni"
       ],
       "date": "2025-11-17T14:03:36.697Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": "Ahmad,Sahroni",
+      "price": 999,
+      "date": "2025-11-17T14:03:49.250Z"
     }
   ]
 }
