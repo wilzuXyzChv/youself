@@ -70,7 +70,12 @@
       "Voucher Lainnya"
     ]
   },
-  "produk": {},
+  "produk": {
+    "Spotify Premium": {
+      "price": 15000,
+      "accounts": []
+    }
+  },
   "ledger": [
     {
       "type": "beli",
