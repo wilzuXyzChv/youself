@@ -24,6 +24,10 @@
         {
           "username": "mare@xuck.id",
           "password": "memek"
+        },
+        {
+          "username": "maretk@xuck.id",
+          "password": "memek"
         }
       ]
     }
@@ -180,6 +184,12 @@
       "produk": "JembutKuda",
       "akun": 1,
       "date": "2025-11-17T16:23:04.668Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:23:09.548Z"
     }
   ]
 }
