@@ -3,7 +3,7 @@
     "123456789": 20000,
     "7775991185": 999999940000,
     "7660594032": 100,
-    "8283491052": 90001
+    "8283491052": 70003
   },
   "produk": {
     "Spotify Premium": {
@@ -16,16 +16,7 @@
     },
     "JembutKuda": {
       "price": 9999,
-      "accounts": [
-        {
-          "username": "mare@xuck.id",
-          "password": "memek"
-        },
-        {
-          "username": "maretk@xuck.id",
-          "password": "memek"
-        }
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -197,6 +188,28 @@
       },
       "price": 9999,
       "date": "2025-11-17T16:23:50.788Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "mare@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:24:14.527Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "maretk@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:24:14.527Z"
     }
   ]
 }
