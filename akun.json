@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 999999999999,
+    "7775991185": 999999979999,
     "7660594032": 100
   },
   "produkPerAngka": {
@@ -79,9 +79,7 @@
     },
     "Netflix Basic": {
       "price": 20000,
-      "accounts": [
-        "email|pass"
-      ]
+      "accounts": []
     },
     "CapCut Pro": {
       "price": 10000,
@@ -206,6 +204,14 @@
         "akun mmk"
       ],
       "date": "2025-11-17T14:21:24.422Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Netflix Basic",
+      "akun": "email|pass",
+      "price": 20000,
+      "date": "2025-11-17T15:10:40.659Z"
     }
   ]
 }
