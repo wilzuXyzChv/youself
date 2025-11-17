@@ -71,12 +71,6 @@
     ]
   },
   "produk": {
-    "capcut": {
-      "price": 5000,
-      "accounts": [
-        "wisidi@gmail.com:1238"
-      ]
-    },
     "Dropbox": {
       "price": 1,
       "accounts": []
