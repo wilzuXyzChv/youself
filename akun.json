@@ -41,6 +41,10 @@
     "am": {
       "price": 600,
       "accounts": []
+    },
+    "am 1th": {
+      "price": 600,
+      "accounts": []
     }
   },
   "ledger": [
