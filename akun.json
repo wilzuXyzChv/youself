@@ -90,6 +90,10 @@
     "YNTKTS": {
       "price": 1000,
       "accounts": []
+    },
+    "capcut": {
+      "price": 5000,
+      "accounts": []
     }
   },
   "ledger": [
