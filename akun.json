@@ -93,7 +93,9 @@
     },
     "capcut": {
       "price": 5000,
-      "accounts": []
+      "accounts": [
+        "wisidi@gmail.com:1238"
+      ]
     }
   },
   "ledger": [
@@ -104,6 +106,14 @@
       "akun": "akun1|pass1",
       "price": 15000,
       "date": "2025-11-16T04:23:36.526Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "wisidi@gmail.com:1238"
+      ],
+      "date": "2025-11-17T07:09:35.142Z"
     }
   ]
 }
