@@ -34,6 +34,10 @@
     "capcut pro 1bulan": {
       "price": 15000,
       "accounts": []
+    },
+    "viu": {
+      "price": 2000,
+      "accounts": []
     }
   },
   "ledger": [
