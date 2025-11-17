@@ -78,6 +78,10 @@
     "capcut 23": {
       "price": 5000,
       "accounts": []
+    },
+    "JembutKuda": {
+      "price": 9999,
+      "accounts": []
     }
   },
   "ledger": [
