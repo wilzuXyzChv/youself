@@ -103,7 +103,10 @@
     },
     "Bokep": {
       "price": 999,
-      "accounts": []
+      "accounts": [
+        "Ahmad ",
+        " Sahrono"
+      ]
     }
   },
   "ledger": [
@@ -163,6 +166,15 @@
       "akun": "Ahmad,Sahroni",
       "price": 999,
       "date": "2025-11-17T14:03:49.250Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Bokep",
+      "akun": [
+        "Ahmad ",
+        " Sahrono"
+      ],
+      "date": "2025-11-17T14:04:47.400Z"
     }
   ]
 }
