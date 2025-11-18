@@ -60,6 +60,10 @@
     "viu": {
       "price": 4000,
       "accounts": []
+    },
+    "youTube": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
