@@ -48,7 +48,9 @@
     },
     "capcut-basic": {
       "price": 6000,
-      "accounts": []
+      "accounts": [
+        "ioiuk60@capcut.team:masuk123"
+      ]
     }
   },
   "ledger": [
@@ -291,6 +293,12 @@
       "produk": "alingmotion",
       "akun": 1,
       "date": "2025-11-17T21:07:28.486Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic",
+      "akun": 1,
+      "date": "2025-11-18T02:59:05.007Z"
     }
   ]
 }
