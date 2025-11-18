@@ -48,6 +48,10 @@
     "alingmotion-1thn": {
       "price": 600,
       "accounts": []
+    },
+    "spotfy-prem1b": {
+      "price": 7000,
+      "accounts": []
     }
   },
   "ledger": [
