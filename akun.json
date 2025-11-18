@@ -8,7 +8,9 @@
   "produk": {
     "capcut-basic-1bulan": {
       "price": 6000,
-      "accounts": []
+      "accounts": [
+        "6000 ioiuk60@capcut.team:masuk123"
+      ]
     }
   },
   "ledger": [
@@ -263,6 +265,12 @@
       "produk": "capcut-basic",
       "akun": 1,
       "date": "2025-11-18T03:00:57.836Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:19:26.226Z"
     }
   ]
 }
