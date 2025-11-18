@@ -68,6 +68,10 @@
     "gpt": {
       "price": 20000,
       "accounts": []
+    },
+    "canvas": {
+      "price": 7000,
+      "accounts": []
     }
   },
   "ledger": [
