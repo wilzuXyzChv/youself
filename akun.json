@@ -5,12 +5,7 @@
     "7660594032": 991400,
     "8283491052": 70003
   },
-  "produk": {
-    "am 1thun": {
-      "price": 600,
-      "accounts": []
-    }
-  },
+  "produk": {},
   "ledger": [
     {
       "type": "beli",
