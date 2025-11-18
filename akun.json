@@ -56,6 +56,10 @@
     "capcut-pro-1t": {
       "price": 9000,
       "accounts": []
+    },
+    "viu": {
+      "price": 4000,
+      "accounts": []
     }
   },
   "ledger": [
