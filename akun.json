@@ -41,6 +41,10 @@
     "am 1thun": {
       "price": 600,
       "accounts": []
+    },
+    "VIU_PRIVATE_ANLIM 1_TAHUN": {
+      "price": 500,
+      "accounts": []
     }
   },
   "ledger": [
