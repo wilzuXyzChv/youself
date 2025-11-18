@@ -39,7 +39,8 @@
         "vfpja01@capcut.team:masuk123",
         "vxaip57@capcut.team:masuk123",
         "ioiuk60@capcut.team:masuk123",
-        "rlcgv57@capcut.team:masuk123"
+        "rlcgv57@capcut.team:masuk123",
+        "quvvy67@capcut.team masuk123"
       ]
     },
     "alingmotion-1thn": {
@@ -585,6 +586,12 @@
       "akun": "quvvy67@capcut.team:masuk123",
       "price": 2000,
       "date": "2025-11-18T10:11:50.613Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T10:13:00.363Z"
     }
   ]
 }
