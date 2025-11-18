@@ -32,7 +32,8 @@
         "fxhrl07@capcut.team:masuk123",
         "xdscf89@capcut.team:masuk123",
         "fhnnt42@capcut.team:msuk123",
-        "kaxor03@capcut.team:masuk123"
+        "kaxor03@capcut.team:masuk123",
+        "bysdw80@capcut.team:masuk123"
       ]
     }
   },
@@ -432,6 +433,12 @@
       "produk": "capcut-basic-1bulan",
       "akun": 1,
       "date": "2025-11-18T03:48:42.862Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:49:36.592Z"
     }
   ]
 }
