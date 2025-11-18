@@ -29,7 +29,8 @@
     "capcut-basic": {
       "price": 6000,
       "accounts": [
-        "ioiuk60@capcut.team:masuk123"
+        "ioiuk60@capcut.team:masuk123",
+        "rlcgv57@capcut.team:masuk123"
       ]
     }
   },
@@ -279,6 +280,12 @@
       "produk": "capcut-basic",
       "akun": 1,
       "date": "2025-11-18T02:59:05.007Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic",
+      "akun": 1,
+      "date": "2025-11-18T03:00:57.836Z"
     }
   ]
 }
