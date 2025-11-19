@@ -74,6 +74,10 @@
     "gemini": {
       "price": 12000,
       "accounts": []
+    },
+    "telegram": {
+      "price": 35000,
+      "accounts": []
     }
   },
   "ledger": [
