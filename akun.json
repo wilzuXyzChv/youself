@@ -2,16 +2,13 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 985400,
+    "7660594032": 982400,
     "8283491052": 70003
   },
   "produk": {
     "capcut-basic-1bulan": {
       "price": 1000,
       "accounts": [
-        "nmeom20@capcut.team:masuk123",
-        "gnumr97@capcut.team:masuk123",
-        "ehhfl83@capcut.team:masuk123",
         "iitqi84@capcut.team:masuk123",
         "wlcyy68@capcut.team:masuk123",
         "tgakt10@capcut.team:masuk123",
@@ -596,6 +593,30 @@
       "produk": "capcut-basic-1bulan",
       "akun": 1,
       "date": "2025-11-18T10:13:00.363Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "nmeom20@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-20T13:38:58.204Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "gnumr97@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-20T13:38:58.206Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "ehhfl83@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-20T13:38:58.206Z"
     }
   ]
 }
