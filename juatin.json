@@ -1,1 +1,260 @@
-
+{
+  "saldo": {
+    "123456789": 20000,
+    "7775991185": 999999940000,
+    "7660594032": 991400,
+    "8283491052": 70003
+  },
+  "produk": {
+    "viu privat anlim 1 tahun": {
+      "price": 600,
+      "accounts": []
+    },
+    "viu privat anlim lifetime": {
+      "price": 3000,
+      "accounts": []
+    }
+  },
+  "ledger": [
+    {
+      "type": "beli",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": "akun1|pass1",
+      "price": 15000,
+      "date": "2025-11-16T04:23:36.526Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "wisidi@gmail.com:1238"
+      ],
+      "date": "2025-11-17T07:09:35.142Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Dropbox",
+      "akun": [
+        "akun",
+        "akun"
+      ],
+      "date": "2025-11-17T14:02:11.595Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Dropbox",
+      "akun": "akun",
+      "price": 1,
+      "date": "2025-11-17T14:02:40.313Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Dropbox",
+      "akun": "akun",
+      "price": 1,
+      "date": "2025-11-17T14:02:40.313Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Bokep",
+      "akun": [
+        "Ahmad,Sahroni"
+      ],
+      "date": "2025-11-17T14:03:36.697Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": "Ahmad,Sahroni",
+      "price": 999,
+      "date": "2025-11-17T14:03:49.250Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Bokep",
+      "akun": [
+        "Ahmad ",
+        " Sahrono"
+      ],
+      "date": "2025-11-17T14:04:47.400Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": "Ahmad ",
+      "price": 999,
+      "date": "2025-11-17T14:05:04.101Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": " Sahrono",
+      "price": 999,
+      "date": "2025-11-17T14:05:04.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Plerrrrrr",
+      "akun": [
+        "akun mmk"
+      ],
+      "date": "2025-11-17T14:21:24.422Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Netflix Basic",
+      "akun": "email|pass",
+      "price": 20000,
+      "date": "2025-11-17T15:10:40.659Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": "akun2|pass2",
+      "price": 15000,
+      "date": "2025-11-17T15:31:18.531Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Spotify Premium",
+      "akun": 1,
+      "date": "2025-11-17T16:00:15.268Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": {
+        "username": "memek",
+        "password": "kontol"
+      },
+      "price": 15000,
+      "date": "2025-11-17T16:17:22.030Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:18:40.241Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "kontol",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:18:51.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:22:58.032Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:23:04.668Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:23:09.548Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "mark@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:23:50.788Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "mare@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:24:14.527Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "maretk@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:24:14.527Z"
+    },
+    {
+      "type": "restok",
+      "produk": "yaya",
+      "akun": 1,
+      "date": "2025-11-17T16:28:31.986Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Spotify Premium",
+      "akun": 1,
+      "date": "2025-11-17T16:34:34.472Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Spotify Premium",
+      "akun": {
+        "username": "Jembut",
+        "password": "JembutKuda"
+      },
+      "price": 8000,
+      "date": "2025-11-17T19:36:43.705Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": 1,
+      "date": "2025-11-17T21:02:39.009Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "am",
+      "akun": "/restok alingmotion 1thn wilzu@gmaip.com:masuk12839",
+      "price": 600,
+      "date": "2025-11-17T21:03:28.935Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": 1,
+      "date": "2025-11-17T21:05:20.665Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2025-11-17T21:07:28.486Z"
+    }
+  ]
+    }
