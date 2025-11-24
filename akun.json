@@ -69,6 +69,10 @@
     "telegram": {
       "price": 35000,
       "accounts": []
+    },
+    "sc-bug-grizlie": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
