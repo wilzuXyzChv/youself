@@ -76,6 +76,7 @@
         "order ke :@zuuue12 get:(kirim-bukti-beli)",
         "order ke :@zuuue12 get:(kirim-bukti-beli)",
         "order ke :@zuuue12 get:(kirim-bukti-beli)",
+        "order ke :@zuuue12 get:(kirim-bukti-beli)",
         "order ke :@zuuue12 get:(kirim-bukti-beli)"
       ]
     }
@@ -693,6 +694,12 @@
       "produk": "sc-bug-grizlie",
       "akun": 1,
       "date": "2025-11-26T12:14:04.742Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:14:07.984Z"
     }
   ]
 }
