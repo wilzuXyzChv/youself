@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 977400,
+    "7660594032": 917400,
     "8283491052": 70003
   },
   "produk": {
@@ -72,14 +72,7 @@
     },
     "sc-bug-grizlie": {
       "price": 10000,
-      "accounts": [
-        "order ke :@zuuue12 get:(kirim-bukti-beli)",
-        "order ke :@zuuue12 get:(kirim-bukti-beli)",
-        "order ke :@zuuue12 get:(kirim-bukti-beli)",
-        "order ke :@zuuue12 get:(kirim-bukti-beli)",
-        "order ke :@zuuue12 get:(kirim-bukti-beli)",
-        "order ke :@zuuue12 get:(kirim-bukti-beli)"
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -707,6 +700,54 @@
       "produk": "sc-bug-grizlie",
       "akun": 1,
       "date": "2025-11-26T12:14:12.058Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
     }
   ]
 }
