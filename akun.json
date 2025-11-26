@@ -72,7 +72,9 @@
     },
     "sc-bug-grizlie": {
       "price": 10000,
-      "accounts": []
+      "accounts": [
+        "order ke :@zuuue12 get:(kirim-bukti-beli)"
+      ]
     }
   },
   "ledger": [
@@ -664,6 +666,12 @@
       "akun": "bcepv21@capcut.team: masuk123",
       "price": 1000,
       "date": "2025-11-23T04:06:20.553Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:13:49.358Z"
     }
   ]
 }
