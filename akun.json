@@ -2,17 +2,13 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 917400,
+    "7660594032": 913400,
     "8283491052": 70003
   },
   "produk": {
     "capcut-basic-1bulan": {
       "price": 1000,
       "accounts": [
-        "eprfz68@capcut.team:masuk123",
-        "hdkgk07@capcut.team:masuk123",
-        "fbstp11@capcut.team:masuk123",
-        "myqpq25@capcut.team:masuk123",
         "gekov96@capcut.team:masuk123",
         "dshqf43@capcut.team:masuk123",
         "fxhrl07@capcut.team:masuk123",
@@ -748,6 +744,38 @@
       "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
       "price": 10000,
       "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "eprfz68@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "hdkgk07@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "fbstp11@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "myqpq25@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
     }
   ]
 }
