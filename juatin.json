@@ -49,6 +49,10 @@
     "bstation-prem-": {
       "price": 15000,
       "accounts": []
+    },
+    "res-sc-grizlie-": {
+      "price": 30000,
+      "accounts": []
     }
   },
   "ledger": [
