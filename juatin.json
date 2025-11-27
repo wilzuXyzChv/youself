@@ -45,6 +45,10 @@
     "alight motion-prem-": {
       "price": 10000,
       "accounts": []
+    },
+    "bstation-prem-": {
+      "price": 15000,
+      "accounts": []
     }
   },
   "ledger": [
