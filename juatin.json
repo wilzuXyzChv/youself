@@ -41,6 +41,10 @@
     "gemini-prem-": {
       "price": 15000,
       "accounts": []
+    },
+    "alight motion-prem-": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
