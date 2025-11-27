@@ -9,7 +9,6 @@
     "capcut-basic-1bulan": {
       "price": 1000,
       "accounts": [
-        "gekov96@capcut.team:masuk123",
         "dshqf43@capcut.team:masuk123",
         "fxhrl07@capcut.team:masuk123",
         "xdscf89@capcut.team:masuk123",
@@ -776,6 +775,15 @@
       "akun": "myqpq25@capcut.team:masuk123",
       "price": 1000,
       "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8259189521,
+      "produk": "capcut-basic-1bulan",
+      "akun": "gekov96@capcut.team:masuk123",
+      "price": 1000,
+      "trxId": "DP17642177885633966",
+      "date": "2025-11-27T04:30:36.679Z"
     }
   ]
 }
