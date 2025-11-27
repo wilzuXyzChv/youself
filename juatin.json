@@ -17,6 +17,10 @@
     "capcut-pro-1tahun": {
       "price": 20000,
       "accounts": []
+    },
+    "capcut-basic-1bulam": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
