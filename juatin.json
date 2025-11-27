@@ -13,6 +13,10 @@
     "viu privat anlim lifetime": {
       "price": 3000,
       "accounts": []
+    },
+    "capcut-pro-1tahun": {
+      "price": 20000,
+      "accounts": []
     }
   },
   "ledger": [
@@ -257,4 +261,4 @@
       "date": "2025-11-17T21:07:28.486Z"
     }
   ]
-    }
+}
