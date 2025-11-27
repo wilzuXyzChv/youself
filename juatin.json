@@ -29,6 +29,10 @@
     "gpt-prem-": {
       "price": 20000,
       "accounts": []
+    },
+    "canva-prem-": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
