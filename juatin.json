@@ -81,6 +81,10 @@
     "Scribd-1b-": {
       "price": 15000,
       "accounts": []
+    },
+    "wibuku-1b-": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
