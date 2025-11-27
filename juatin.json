@@ -89,6 +89,10 @@
     "melolo-1b-": {
       "price": 10000,
       "accounts": []
+    },
+    "fizzo-1b-": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
