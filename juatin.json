@@ -53,6 +53,10 @@
     "res-sc-grizlie-": {
       "price": 30000,
       "accounts": []
+    },
+    "sc-bug-grizlie-": {
+      "price": 20,
+      "accounts": []
     }
   },
   "ledger": [
