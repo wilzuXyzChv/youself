@@ -57,6 +57,10 @@
     "sc-bug-grizlie-": {
       "price": 20000,
       "accounts": []
+    },
+    "perplexty-ai-priv-": {
+      "price": 20000,
+      "accounts": []
     }
   },
   "ledger": [
