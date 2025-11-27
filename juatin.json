@@ -21,6 +21,10 @@
     "capcut-basic-1bulam": {
       "price": 10000,
       "accounts": []
+    },
+    "sptfy-prem-1bulan": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
