@@ -25,6 +25,10 @@
     "sptfy-prem-1bulan": {
       "price": 10000,
       "accounts": []
+    },
+    "gpt-prem-": {
+      "price": 20000,
+      "accounts": []
     }
   },
   "ledger": [
