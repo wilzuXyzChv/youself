@@ -33,6 +33,10 @@
     "canva-prem-": {
       "price": 10000,
       "accounts": []
+    },
+    "yt-prem-": {
+      "price": 12000,
+      "accounts": []
     }
   },
   "ledger": [
