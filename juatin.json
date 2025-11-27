@@ -85,6 +85,10 @@
     "wibuku-1b-": {
       "price": 10000,
       "accounts": []
+    },
+    "melolo-1b-": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
