@@ -61,6 +61,10 @@
     "perplexty-ai-priv-": {
       "price": 20000,
       "accounts": []
+    },
+    "Lightroom-1b-": {
+      "price": 18000,
+      "accounts": []
     }
   },
   "ledger": [
