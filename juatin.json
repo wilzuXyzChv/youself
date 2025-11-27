@@ -65,6 +65,10 @@
     "Lightroom-1b-": {
       "price": 18000,
       "accounts": []
+    },
+    "piscart-1b-": {
+      "price": 15000,
+      "accounts": []
     }
   },
   "ledger": [
