@@ -69,6 +69,10 @@
     "piscart-1b-": {
       "price": 15000,
       "accounts": []
+    },
+    "drakor-id-1b-": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
