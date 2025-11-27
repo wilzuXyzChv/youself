@@ -73,6 +73,10 @@
     "drakor-id-1b-": {
       "price": 10000,
       "accounts": []
+    },
+    "remini-1b-": {
+      "price": 20000,
+      "accounts": []
     }
   },
   "ledger": [
