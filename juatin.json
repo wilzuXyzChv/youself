@@ -93,6 +93,10 @@
     "fizzo-1b-": {
       "price": 10000,
       "accounts": []
+    },
+    "vidio-pltnm-1b-": {
+      "price": 25000,
+      "accounts": []
     }
   },
   "ledger": [
