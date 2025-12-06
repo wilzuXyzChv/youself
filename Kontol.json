@@ -2,29 +2,13 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999989999,
-    "7660594032": 880400,
+    "7660594032": 865400,
     "8283491052": 70003
   },
   "produk": {
     "capcut-basic-1bulan": {
       "price": 1000,
-      "accounts": [
-        "fhnnt42@capcut.team:msuk123",
-        "kaxor03@capcut.team:masuk123",
-        "bysdw80@capcut.team:masuk123",
-        "yydup69@capcut.team:masuk123",
-        "tailp36@capcut.team:masuk123",
-        "vvnas24@capcut.team:msuk123",
-        "azznv22@capcut.team:masuk123",
-        "ewcev74@capcut.team:masuk123",
-        "bamsw41@capcut.team:masuk123",
-        "imzbd44@capcut.team:masuk123",
-        "vfpja01@capcut.team:masuk123",
-        "vxaip57@capcut.team:masuk123",
-        "ioiuk60@capcut.team:masuk123",
-        "rlcgv57@capcut.team:masuk123",
-        "quvvy67@capcut.team masuk123"
-      ]
+      "accounts": []
     },
     "alingmotion-1thn": {
       "price": 600,
@@ -908,6 +892,126 @@
       "akun": "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
       "price": 10000,
       "date": "2025-12-06T16:43:29.365Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "fhnnt42@capcut.team:msuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "kaxor03@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "bysdw80@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "yydup69@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "tailp36@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "vvnas24@capcut.team:msuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "azznv22@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "ewcev74@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "bamsw41@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "imzbd44@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "vfpja01@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "vxaip57@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "ioiuk60@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "rlcgv57@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "quvvy67@capcut.team masuk123",
+      "price": 1000,
+      "date": "2025-12-06T19:43:13.326Z"
     }
   ]
 }
