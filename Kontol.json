@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "7775991185": 999999999999,
+    "7775991185": 999999989999,
     "7660594032": 890400,
     "8283491052": 70003
   },
@@ -69,7 +69,6 @@
     "baseBotWhtasp": {
       "price": 10000,
       "accounts": [
-        "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
         "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
         "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
         "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
@@ -894,6 +893,14 @@
       "akun": "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
       "price": 10000,
       "date": "2025-12-06T16:33:05.145Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "baseBotWhtasp",
+      "akun": "https://www.mediafire.com/file/7p9yjaxfpwb7a8x/G%25CD%2586%25CC%25BAR%25CD%2586%25CC%25BAZ%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAL%25CD%2586%25CC%25BAI%25CD%2586%25CC%25BAE%25CD%2586%25CC%25BA_%25E2%259D%2596.zip/file:gada cik",
+      "price": 10000,
+      "date": "2025-12-06T16:38:10.853Z"
     }
   ]
 }
