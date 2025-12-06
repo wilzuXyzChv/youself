@@ -1,1 +1,810 @@
-kontol
+{
+  "saldo": {
+    "123456789": 20000,
+    "7775991185": ,
+    "7660594032": 910400,
+    "8283491052": 70003
+  },
+  "produk": {
+    "capcut-basic-1bulan": {
+      "price": 1000,
+      "accounts": [
+        "fhnnt42@capcut.team:msuk123",
+        "kaxor03@capcut.team:masuk123",
+        "bysdw80@capcut.team:masuk123",
+        "yydup69@capcut.team:masuk123",
+        "tailp36@capcut.team:masuk123",
+        "vvnas24@capcut.team:msuk123",
+        "azznv22@capcut.team:masuk123",
+        "ewcev74@capcut.team:masuk123",
+        "bamsw41@capcut.team:masuk123",
+        "imzbd44@capcut.team:masuk123",
+        "vfpja01@capcut.team:masuk123",
+        "vxaip57@capcut.team:masuk123",
+        "ioiuk60@capcut.team:masuk123",
+        "rlcgv57@capcut.team:masuk123",
+        "quvvy67@capcut.team masuk123"
+      ]
+    },
+    "alingmotion-1thn": {
+      "price": 600,
+      "accounts": []
+    },
+    "spotfy-prem1b": {
+      "price": 7000,
+      "accounts": []
+    },
+    "capcut-pro-1t": {
+      "price": 9000,
+      "accounts": []
+    },
+    "viu": {
+      "price": 4000,
+      "accounts": []
+    },
+    "youTube": {
+      "price": 10000,
+      "accounts": []
+    },
+    "gpt": {
+      "price": 20000,
+      "accounts": []
+    },
+    "canvas": {
+      "price": 7000,
+      "accounts": []
+    },
+    "gemini": {
+      "price": 12000,
+      "accounts": []
+    },
+    "telegram": {
+      "price": 35000,
+      "accounts": []
+    },
+    "sc-bug-grizlie": {
+      "price": 10000,
+      "accounts": []
+    }
+  },
+  "ledger": [
+    {
+      "type": "beli",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": "akun1|pass1",
+      "price": 15000,
+      "date": "2025-11-16T04:23:36.526Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut",
+      "akun": [
+        "wisidi@gmail.com:1238"
+      ],
+      "date": "2025-11-17T07:09:35.142Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Dropbox",
+      "akun": [
+        "akun",
+        "akun"
+      ],
+      "date": "2025-11-17T14:02:11.595Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Dropbox",
+      "akun": "akun",
+      "price": 1,
+      "date": "2025-11-17T14:02:40.313Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Dropbox",
+      "akun": "akun",
+      "price": 1,
+      "date": "2025-11-17T14:02:40.313Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Bokep",
+      "akun": [
+        "Ahmad,Sahroni"
+      ],
+      "date": "2025-11-17T14:03:36.697Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": "Ahmad,Sahroni",
+      "price": 999,
+      "date": "2025-11-17T14:03:49.250Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Bokep",
+      "akun": [
+        "Ahmad ",
+        " Sahrono"
+      ],
+      "date": "2025-11-17T14:04:47.400Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": "Ahmad ",
+      "price": 999,
+      "date": "2025-11-17T14:05:04.101Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Bokep",
+      "akun": " Sahrono",
+      "price": 999,
+      "date": "2025-11-17T14:05:04.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Plerrrrrr",
+      "akun": [
+        "akun mmk"
+      ],
+      "date": "2025-11-17T14:21:24.422Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Netflix Basic",
+      "akun": "email|pass",
+      "price": 20000,
+      "date": "2025-11-17T15:10:40.659Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": "akun2|pass2",
+      "price": 15000,
+      "date": "2025-11-17T15:31:18.531Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Spotify Premium",
+      "akun": 1,
+      "date": "2025-11-17T16:00:15.268Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "Spotify Premium",
+      "akun": {
+        "username": "memek",
+        "password": "kontol"
+      },
+      "price": 15000,
+      "date": "2025-11-17T16:17:22.030Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:18:40.241Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775991185,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "kontol",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:18:51.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:22:58.032Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:23:04.668Z"
+    },
+    {
+      "type": "restok",
+      "produk": "JembutKuda",
+      "akun": 1,
+      "date": "2025-11-17T16:23:09.548Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "mark@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:23:50.788Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "mare@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:24:14.527Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8283491052,
+      "produk": "JembutKuda",
+      "akun": {
+        "username": "maretk@xuck.id",
+        "password": "memek"
+      },
+      "price": 9999,
+      "date": "2025-11-17T16:24:14.527Z"
+    },
+    {
+      "type": "restok",
+      "produk": "yaya",
+      "akun": 1,
+      "date": "2025-11-17T16:28:31.986Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Spotify Premium",
+      "akun": 1,
+      "date": "2025-11-17T16:34:34.472Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Spotify Premium",
+      "akun": {
+        "username": "Jembut",
+        "password": "JembutKuda"
+      },
+      "price": 8000,
+      "date": "2025-11-17T19:36:43.705Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": 1,
+      "date": "2025-11-17T21:02:39.009Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "am",
+      "akun": "/restok alingmotion 1thn wilzu@gmaip.com:masuk12839",
+      "price": 600,
+      "date": "2025-11-17T21:03:28.935Z"
+    },
+    {
+      "type": "restok",
+      "produk": "am",
+      "akun": 1,
+      "date": "2025-11-17T21:05:20.665Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2025-11-17T21:07:28.486Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic",
+      "akun": 1,
+      "date": "2025-11-18T02:59:05.007Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic",
+      "akun": 1,
+      "date": "2025-11-18T03:00:57.836Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:19:26.226Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:22:17.573Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:22:57.676Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:24:35.988Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:25:20.825Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:26:03.178Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:26:32.714Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:27:42.664Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:28:17.326Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:29:38.560Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:30:41.866Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:33:38.882Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:35:01.483Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:36:11.115Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:37:23.806Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:38:29.137Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:40:41.360Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:42:31.634Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:44:08.557Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:45:03.894Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:46:12.898Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:47:05.783Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:48:09.647Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:48:42.862Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:49:36.592Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:50:07.232Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:50:24.954Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:51:02.753Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:51:22.362Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:51:40.042Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:54:18.041Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:54:45.299Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:55:19.971Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T03:55:47.211Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "6000 ioiuk60@capcut.team:masuk123",
+      "price": 2000,
+      "date": "2025-11-18T04:06:57.520Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T04:07:39.017Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "rlcgv57@capcut.team:masuk123",
+      "price": 2000,
+      "date": "2025-11-18T04:08:23.034Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T04:08:46.856Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8259189521,
+      "produk": "capcut-basic-1bulan",
+      "akun": "zdcud00@capcut.team:masuk123",
+      "price": 2000,
+      "trxId": "DP17634591373076708",
+      "date": "2025-11-18T09:46:12.348Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8259189521,
+      "produk": "capcut-basic-1bulan",
+      "akun": "quvvy67@capcut.team:msuk123,nmeom20@capcut.team:masuk123,gnumr97@capcut.team:masuk123,ehhfl83@capcut.team:masuk123,iitqi84@capcut.team:masuk123",
+      "price": 2000,
+      "trxId": "DP17634591373076708",
+      "date": "2025-11-18T09:46:15.899Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "quvvy67@capcut.team:masuk123",
+      "price": 2000,
+      "date": "2025-11-18T10:11:50.613Z"
+    },
+    {
+      "type": "restok",
+      "produk": "capcut-basic-1bulan",
+      "akun": 1,
+      "date": "2025-11-18T10:13:00.363Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "nmeom20@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-20T13:38:58.204Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "gnumr97@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-20T13:38:58.206Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "ehhfl83@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-20T13:38:58.206Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "iitqi84@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-21T14:15:39.822Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7879487826,
+      "produk": "capcut-basic-1bulan",
+      "akun": "wlcyy68@capcut.team:masuk123",
+      "price": 1000,
+      "trxId": "DP17638219724315930",
+      "date": "2025-11-22T14:34:17.184Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "tgakt10@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-22T15:30:57.132Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "nprmh76@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-22T15:30:57.132Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "gusfa98@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-23T04:06:20.553Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "bcepv21@capcut.team: masuk123",
+      "price": 1000,
+      "date": "2025-11-23T04:06:20.553Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:13:49.358Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:13:58.965Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:14:01.687Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:14:04.742Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:14:07.984Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-bug-grizlie",
+      "akun": 1,
+      "date": "2025-11-26T12:14:12.058Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "sc-bug-grizlie",
+      "akun": "order ke :@zuuue12 get:(kirim-bukti-beli)",
+      "price": 10000,
+      "date": "2025-11-26T12:15:27.495Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "eprfz68@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "hdkgk07@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "fbstp11@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "myqpq25@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-26T19:22:23.842Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8259189521,
+      "produk": "capcut-basic-1bulan",
+      "akun": "gekov96@capcut.team:masuk123",
+      "price": 1000,
+      "trxId": "DP17642177885633966",
+      "date": "2025-11-27T04:30:36.679Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "dshqf43@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-27T10:36:01.486Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "fxhrl07@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-27T10:36:01.486Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "capcut-basic-1bulan",
+      "akun": "xdscf89@capcut.team:masuk123",
+      "price": 1000,
+      "date": "2025-11-27T10:36:01.486Z"
+    }
+  ]
+    }
