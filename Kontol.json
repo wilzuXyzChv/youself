@@ -32,7 +32,9 @@
     },
     "gpt": {
       "price": 20000,
-      "accounts": []
+      "accounts": [
+        "xgeghat7@gmail.com:masuk1233"
+      ]
     },
     "canvas": {
       "price": 7000,
@@ -1012,6 +1014,12 @@
       "akun": "quvvy67@capcut.team masuk123",
       "price": 1000,
       "date": "2025-12-06T19:43:13.326Z"
+    },
+    {
+      "type": "restok",
+      "produk": "gpt",
+      "akun": 1,
+      "date": "2025-12-07T04:59:47.595Z"
     }
   ]
 }
