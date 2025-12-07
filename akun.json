@@ -24,7 +24,9 @@
     },
     "SC-GACHA-V5-ALL-FIX": {
       "price": 15000,
-      "accounts": []
+      "accounts": [
+        "kelvinmedank1@gmail.com:Kiryzz_Shop_Official"
+      ]
     }
   },
   "ledger": [
@@ -783,6 +785,12 @@
       "produk": "SC-PROTECT-V5-DB-ENC-(BUYYER)",
       "akun": 1,
       "date": "2025-12-07T07:17:30.225Z"
+    },
+    {
+      "type": "restok",
+      "produk": "SC-GACHA-V5-ALL-FIX",
+      "akun": 1,
+      "date": "2025-12-07T07:19:00.299Z"
     }
   ]
 }
