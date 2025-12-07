@@ -45,10 +45,6 @@
     "youTube": {
       "price": 10000,
       "accounts": []
-    },
-    "gpt": {
-      "price": 20000,
-      "accounts": []
     }
   },
   "ledger": [
