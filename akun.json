@@ -29,6 +29,10 @@
       "accounts": [
         "kelvinmedank1@gmail.com:Kiryzz_Shop_Official"
       ]
+    },
+    "SCRIPT-ORDER-NOKOS-V1.5-BUYYER": {
+      "price": 25000,
+      "accounts": []
     }
   },
   "ledger": [
