@@ -28,6 +28,10 @@
     "vpn hma": {
       "price": 10000,
       "accounts": []
+    },
+    "vpn expres": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
