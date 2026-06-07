@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 815400,
+    "7660594032": 800400,
     "8283491052": 70003
   },
   "produk": {
@@ -12,9 +12,7 @@
     },
     "SC-PROTECT-V5-DB-ENC-(BUYYER)": {
       "price": 15000,
-      "accounts": [
-        "kelvinmedank1@gmail.com: Kiryzz_Shop_Official"
-      ]
+      "accounts": []
     },
     "SC-GACHA-V5-ALL-FIX": {
       "price": 15000,
@@ -829,6 +827,14 @@
       "akun": "kelvinmedank1@gmail.com:Kiryzz_Shop_Official",
       "price": 25000,
       "date": "2026-06-07T12:36:03.605Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "SC-PROTECT-V5-DB-ENC-(BUYYER)",
+      "akun": "kelvinmedank1@gmail.com: Kiryzz_Shop_Official",
+      "price": 15000,
+      "date": "2026-06-07T12:36:24.717Z"
     }
   ]
 }
