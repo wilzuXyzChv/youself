@@ -16,6 +16,10 @@
     "capcut/1month": {
       "price": 17000,
       "accounts": []
+    },
+    "alingmotion/1years": {
+      "price": 2000,
+      "accounts": []
     }
   },
   "ledger": [
