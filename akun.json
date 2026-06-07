@@ -24,6 +24,10 @@
     "vpn srufshak": {
       "price": 25000,
       "accounts": []
+    },
+    "vpn hma": {
+      "price": 10000,
+      "accounts": []
     }
   },
   "ledger": [
