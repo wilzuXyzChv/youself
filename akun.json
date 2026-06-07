@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 840400,
+    "7660594032": 815400,
     "8283491052": 70003
   },
   "produk": {
@@ -24,9 +24,7 @@
     },
     "AlwaysZakzz-V10-[NewRilis!!]": {
       "price": 25000,
-      "accounts": [
-        "kelvinmedank1@gmail.com:Kiryzz_Shop_Official"
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -823,6 +821,14 @@
       "akun": "kelvinmedank1@gmail.com:Kiryzz_Shop_Official",
       "price": 70000,
       "date": "2026-06-07T12:35:25.198Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "AlwaysZakzz-V10-[NewRilis!!]",
+      "akun": "kelvinmedank1@gmail.com:Kiryzz_Shop_Official",
+      "price": 25000,
+      "date": "2026-06-07T12:36:03.605Z"
     }
   ]
 }
