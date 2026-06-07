@@ -32,6 +32,10 @@
     "vpn expres": {
       "price": 10000,
       "accounts": []
+    },
+    "spotify/1month": {
+      "price": 16000,
+      "accounts": []
     }
   },
   "ledger": [
