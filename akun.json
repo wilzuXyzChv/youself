@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 791500,
+    "7660594032": 776500,
     "8283491052": 70003,
     "5552039925": 3218
   },
@@ -17,9 +17,7 @@
     },
     "SC-GACHA-V5-ALL-FIX": {
       "price": 15000,
-      "accounts": [
-        "kelvinmedank1@gmail.com:Kiryzz_Shop_Official"
-      ]
+      "accounts": []
     },
     "AlwaysZakzz-V10-[NewRilis!!]": {
       "price": 25000,
@@ -1060,6 +1058,14 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-06-07T15:42:48.407Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "SC-GACHA-V5-ALL-FIX",
+      "akun": "kelvinmedank1@gmail.com:Kiryzz_Shop_Official",
+      "price": 15000,
+      "date": "2026-06-07T16:11:28.318Z"
     }
   ]
 }
