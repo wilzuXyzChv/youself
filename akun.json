@@ -27,7 +27,9 @@
     },
     "Ivas": {
       "price": 5000,
-      "accounts": []
+      "accounts": [
+        "gamil:trubluah@ses4services.net"
+      ]
     }
   },
   "ledger": [
@@ -1052,6 +1054,12 @@
       "akun": "wilzu766",
       "price": 5000,
       "date": "2026-06-07T15:41:51.740Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-07T15:42:48.407Z"
     }
   ]
 }
