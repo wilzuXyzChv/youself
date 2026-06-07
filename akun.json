@@ -2,15 +2,13 @@
   "saldo": {
     "123456789": 20000,
     "7775991185": 999999999999,
-    "7660594032": 910400,
+    "7660594032": 840400,
     "8283491052": 70003
   },
   "produk": {
     "wilzu-sc-version": {
       "price": 70000,
-      "accounts": [
-        "kelvinmedank1@gmail.com:Kiryzz_Shop_Official"
-      ]
+      "accounts": []
     },
     "SC-PROTECT-V5-DB-ENC-(BUYYER)": {
       "price": 15000,
@@ -817,6 +815,14 @@
       "refundAmount": 3037,
       "markupDeducted": 1100,
       "date": "2026-06-07T05:59:35.463Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "wilzu-sc-version",
+      "akun": "kelvinmedank1@gmail.com:Kiryzz_Shop_Official",
+      "price": 70000,
+      "date": "2026-06-07T12:35:25.198Z"
     }
   ]
 }
