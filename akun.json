@@ -1,7 +1,7 @@
 {
   "saldo": {
     "123456789": 20000,
-    "1007534254": 10000,
+    "1007534254": 5000,
     "7775991185": 999999999999,
     "7660594032": 776500,
     "8283491052": 70003,
@@ -10,9 +10,7 @@
   "produk": {
     "Ivas": {
       "price": 5000,
-      "accounts": [
-        "gamil:trubluah@ses4services.net"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -1165,6 +1163,14 @@
       "refundAmount": 8863,
       "markupDeducted": 1100,
       "date": "2026-06-08T00:23:09.462Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1007534254,
+      "produk": "Ivas",
+      "akun": "gamil:trubluah@ses4services.net",
+      "price": 5000,
+      "date": "2026-06-08T00:23:37.279Z"
     }
   ]
 }
