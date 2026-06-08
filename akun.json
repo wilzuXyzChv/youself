@@ -12,7 +12,8 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "Gmail:nbbunten@pow-pows.com password:nubbunten Wilzu776x@"
+        "Gmail:nbbunten@pow-pows.com password:nubbunten Wilzu776x@",
+        "gamil:wagp@livegolftv.com password:wagp Wilzu7788x@"
       ]
     },
     "capcut/1month": {
@@ -1218,6 +1219,12 @@
       "markup": 1100,
       "totalPaid": 4344,
       "date": "2026-06-08T10:31:18.500Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-08T11:24:37.023Z"
     }
   ]
 }
