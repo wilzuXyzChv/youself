@@ -3,7 +3,7 @@
     "123456789": 20000,
     "1007534254": 5000,
     "7775991185": 0,
-    "7660594032": 772663,
+    "7660594032": 769663,
     "8283491052": 70003,
     "5552039925": 168,
     "7022774592": 656
@@ -11,9 +11,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "gamil:wagp@livegolftv.com password:wagp Wilzu7788x@"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -1232,6 +1230,14 @@
       "akun": "Gmail:nbbunten@pow-pows.com password:nubbunten Wilzu776x@",
       "price": 3000,
       "date": "2026-06-08T12:04:07.901Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Ivas",
+      "akun": "gamil:wagp@livegolftv.com password:wagp Wilzu7788x@",
+      "price": 3000,
+      "date": "2026-06-08T12:39:08.816Z"
     }
   ]
 }
