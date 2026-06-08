@@ -10,7 +10,9 @@
   "produk": {
     "Ivas": {
       "price": 5000,
-      "accounts": []
+      "accounts": [
+        "Gmail:nbbunten@pow-pows.com password:nubbunten Wilzu776x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -1199,6 +1201,12 @@
       "markup": 1100,
       "totalPaid": 3050,
       "date": "2026-06-08T03:49:54.182Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-08T04:02:56.518Z"
     }
   ]
 }
