@@ -16,7 +16,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "GAMIL: nebidaj437@brixozu.com PASSWORD: nebidaj Bywilzu5544x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -1464,6 +1466,12 @@
       "markup": 1100,
       "totalPaid": 4468,
       "date": "2026-06-09T17:06:23.554Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-09T23:58:16.378Z"
     }
   ]
 }
