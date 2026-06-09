@@ -12,7 +12,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "Gmail: bossingjonathan@ggrainn.com pasword: bossingjonathan Bywilzu77x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -1299,6 +1301,12 @@
       "markup": 1100,
       "totalPaid": 7572,
       "date": "2026-06-09T10:29:09.076Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-09T12:29:18.167Z"
     }
   ]
 }
