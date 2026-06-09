@@ -11,7 +11,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "Gmail:psycomaniac24@speeddataanalytics.com password: psycomaniac WilzuGacor7755x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -1274,6 +1276,12 @@
       "refundAmount": 2672,
       "markupDeducted": 1100,
       "date": "2026-06-08T22:35:36.026Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-09T07:41:17.966Z"
     }
   ]
 }
