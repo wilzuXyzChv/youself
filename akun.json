@@ -16,7 +16,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "Gmail: aksenenkoav@weebd.de PASSWORD: aksenenkoav Bywilzu77x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -1497,6 +1499,12 @@
       "refundAmount": 4466,
       "markupDeducted": 1100,
       "date": "2026-06-10T04:01:58.137Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-10T04:03:06.158Z"
     }
   ]
 }
