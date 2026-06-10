@@ -16,9 +16,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "GAMIL: nebidaj437@brixozu.com PASSWORD: nebidaj Bywilzu5544x@"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -1472,6 +1470,15 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-06-09T23:58:16.378Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7838652432,
+      "produk": "Ivas",
+      "akun": "GAMIL: nebidaj437@brixozu.com PASSWORD: nebidaj Bywilzu5544x@",
+      "price": 3000,
+      "trxId": "DEP1781060515609",
+      "date": "2026-06-10T03:02:59.931Z"
     }
   ]
 }
