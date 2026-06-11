@@ -20,7 +20,9 @@
   "produk": {
     "Ivas": {
       "price": 5000,
-      "accounts": []
+      "accounts": [
+        "Gmail: ihavenomouth@gmaiil.top PASSWORD: ihavenomouth ByWilzu776x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -1584,6 +1586,12 @@
       "markup": 1100,
       "totalPaid": 4248,
       "date": "2026-06-10T09:01:59.449Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-11T03:59:15.087Z"
     }
   ]
 }
