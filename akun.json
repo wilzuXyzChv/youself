@@ -30,7 +30,10 @@
     },
     "alingmotion/1years": {
       "price": 2000,
-      "accounts": []
+      "accounts": [
+        "Gmail:nikkatay@casaderta.com Loginlink:https://generator.email/nikkatay@casaderta.com",
+        "Gamil:freespasha@alightmotion.top Link login:https://generator.email/freespasha@alightmotion.top"
+      ]
     },
     "vpn srufshak": {
       "price": 25000,
@@ -1592,6 +1595,12 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-06-11T03:59:15.087Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion/1years",
+      "akun": 2,
+      "date": "2026-06-11T04:02:06.019Z"
     }
   ]
 }
