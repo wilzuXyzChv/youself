@@ -17,7 +17,7 @@
     "8993516405": 5000,
     "7786869532": 3752,
     "7289223692": 4012,
-    "8763553109": 1000
+    "8763553109": 0
   },
   "produk": {
     "Ivas": {
@@ -34,7 +34,6 @@
     "alingmotion/1years": {
       "price": 1000,
       "accounts": [
-        "Gmail:nikkatay@casaderta.com Loginlink:https://generator.email/nikkatay@casaderta.com",
         "Gamil:freespasha@alightmotion.top Link login:https://generator.email/freespasha@alightmotion.top",
         "Gamil:taneevasvetlana@sdsfwerfgroup.link LinkLogin: https://generator.email/taneevasvetlana@sdsfwerfgroup.link",
         "Gmail: spottoou@houtlook.xyz LinkLogin: https://generator.email/spottoou@houtlook.xyz"
@@ -1652,6 +1651,14 @@
       "produk": "alingmotion/1years",
       "akun": 1,
       "date": "2026-06-11T06:02:49.440Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8763553109,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail:nikkatay@casaderta.com Loginlink:https://generator.email/nikkatay@casaderta.com",
+      "price": 1000,
+      "date": "2026-06-11T06:19:01.485Z"
     }
   ]
 }
