@@ -25,7 +25,8 @@
       "price": 2500,
       "accounts": [
         "Gmail: ihavenomouth@gmaiil.top PASSWORD: ihavenomouth ByWilzu776x@",
-        "Gmail: outherlimite@adarsa.me Password: outherlimite ByWilzu7744x@"
+        "Gmail: outherlimite@adarsa.me Password: outherlimite ByWilzu7744x@",
+        "GAMIL: silnik@houtlook.xyz PASSWORD: silnik@houtlook.xyz"
       ]
     },
     "capcut/1month": {
@@ -1707,6 +1708,12 @@
       "price": 1000,
       "trxId": "DEP1781187083105",
       "date": "2026-06-11T14:18:04.639Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-11T14:23:45.030Z"
     }
   ]
 }
