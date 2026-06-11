@@ -37,7 +37,8 @@
       "accounts": [
         "Gamil:taneevasvetlana@sdsfwerfgroup.link LinkLogin: https://generator.email/taneevasvetlana@sdsfwerfgroup.link",
         "Gmail: spottoou@houtlook.xyz LinkLogin: https://generator.email/spottoou@houtlook.xyz",
-        "Gamil: jacksjacobs1@novaix.vn LinkLogin: https://generator.email/jacksjacobs1@novaix.vn"
+        "Gamil: jacksjacobs1@novaix.vn LinkLogin: https://generator.email/jacksjacobs1@novaix.vn",
+        "Gmail: sherjo@lova.cam LinkLogin: https://generator.email/sherjo@lova.cam"
       ]
     },
     "vpn srufshak": {
@@ -1685,6 +1686,12 @@
       "price": 1000,
       "trxId": "DEP1781186333500",
       "date": "2026-06-11T14:00:08.847Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion/1years",
+      "akun": 1,
+      "date": "2026-06-11T14:14:49.333Z"
     }
   ]
 }
