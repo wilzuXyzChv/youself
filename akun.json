@@ -15,7 +15,7 @@
     "8598041788": 644,
     "8275317693": 37,
     "8993516405": 5000,
-    "7786869532": 10000,
+    "7786869532": 6500,
     "7289223692": 4012,
     "8763553109": 0,
     "8529236063": 1317
@@ -24,7 +24,6 @@
     "Ivas": {
       "price": 3500,
       "accounts": [
-        "Gmail: ihavenomouth@gmaiil.top PASSWORD: ihavenomouth ByWilzu776x@",
         "Gmail: outherlimite@adarsa.me Password: outherlimite ByWilzu7744x@",
         "GAMIL: silnik@houtlook.xyz PASSWORD: silnik@houtlook.xyz",
         "Gmail: luzer84@capcut.team Password: luzer Bywilzu48x@"
@@ -2201,6 +2200,14 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-06-12T03:43:26.307Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7786869532,
+      "produk": "Ivas",
+      "akun": "Gmail: ihavenomouth@gmaiil.top PASSWORD: ihavenomouth ByWilzu776x@",
+      "price": 3500,
+      "date": "2026-06-12T03:49:07.533Z"
     }
   ]
 }
