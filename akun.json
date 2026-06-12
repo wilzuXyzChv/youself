@@ -23,7 +23,9 @@
   "produk": {
     "Ivas": {
       "price": 3500,
-      "accounts": []
+      "accounts": [
+        "GAMIL: silnik Bywilz77x@ PASSWORD: silnik Bywilz77x@"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -2230,6 +2232,12 @@
       "akun": "Gmail: luzer84@capcut.team Password: luzer Bywilzu48x@",
       "price": 3500,
       "date": "2026-06-12T04:07:24.470Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-12T04:10:02.189Z"
     }
   ]
 }
