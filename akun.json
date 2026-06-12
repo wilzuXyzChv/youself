@@ -4,7 +4,7 @@
     "1007534254": 5000,
     "1497667429": 692,
     "7775991185": 0,
-    "7660594032": 799063,
+    "7660594032": 795563,
     "8283491052": 70003,
     "5552039925": 168,
     "7022774592": 656,
@@ -23,9 +23,7 @@
   "produk": {
     "Ivas": {
       "price": 3500,
-      "accounts": [
-        "Gmail: luzer84@capcut.team Password: luzer Bywilzu48x@"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -2224,6 +2222,14 @@
       "price": 3500,
       "trxId": "DEP1781236650001",
       "date": "2026-06-12T03:58:33.764Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Ivas",
+      "akun": "Gmail: luzer84@capcut.team Password: luzer Bywilzu48x@",
+      "price": 3500,
+      "date": "2026-06-12T04:07:24.470Z"
     }
   ]
 }
