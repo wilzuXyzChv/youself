@@ -34,7 +34,6 @@
     "alingmotion/1years": {
       "price": 500,
       "accounts": [
-        "Gamil: jacksjacobs1@novaix.vn LinkLogin: https://generator.email/jacksjacobs1@novaix.vn",
         "Gmail: sherjo@lova.cam LinkLogin: https://generator.email/sherjo@lova.cam",
         "Gmail: jus4thegamep@capcutku.app LinkLogin: https://generator.email/jus4thegamep@capcutku.app",
         "Gmail: anechkalagun@waroengpremium.com LinkLogin: https://generator.email/anechkalagun@waroengpremium.com",
@@ -2262,6 +2261,15 @@
       "markup": 1100,
       "totalPaid": 3758,
       "date": "2026-06-12T05:31:27.996Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7820454584,
+      "produk": "alingmotion/1years",
+      "akun": "Gamil: jacksjacobs1@novaix.vn LinkLogin: https://generator.email/jacksjacobs1@novaix.vn",
+      "price": 500,
+      "trxId": "DEP1781244826281",
+      "date": "2026-06-12T06:14:29.819Z"
     }
   ]
 }
