@@ -24,7 +24,6 @@
     "Ivas": {
       "price": 3500,
       "accounts": [
-        "GAMIL: silnik@houtlook.xyz PASSWORD: silnik@houtlook.xyz",
         "Gmail: luzer84@capcut.team Password: luzer Bywilzu48x@"
       ]
     },
@@ -2216,6 +2215,15 @@
       "price": 3500,
       "trxId": "DEP1781236277213",
       "date": "2026-06-12T03:52:08.587Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8516785416,
+      "produk": "Ivas",
+      "akun": "GAMIL: silnik@houtlook.xyz PASSWORD: silnik@houtlook.xyz",
+      "price": 3500,
+      "trxId": "DEP1781236650001",
+      "date": "2026-06-12T03:58:33.764Z"
     }
   ]
 }
