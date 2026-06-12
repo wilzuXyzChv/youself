@@ -24,7 +24,6 @@
     "Ivas": {
       "price": 3500,
       "accounts": [
-        "Gmail: outherlimite@adarsa.me Password: outherlimite ByWilzu7744x@",
         "GAMIL: silnik@houtlook.xyz PASSWORD: silnik@houtlook.xyz",
         "Gmail: luzer84@capcut.team Password: luzer Bywilzu48x@"
       ]
@@ -2208,6 +2207,15 @@
       "akun": "Gmail: ihavenomouth@gmaiil.top PASSWORD: ihavenomouth ByWilzu776x@",
       "price": 3500,
       "date": "2026-06-12T03:49:07.533Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 6816275524,
+      "produk": "Ivas",
+      "akun": "Gmail: outherlimite@adarsa.me Password: outherlimite ByWilzu7744x@",
+      "price": 3500,
+      "trxId": "DEP1781236277213",
+      "date": "2026-06-12T03:52:08.587Z"
     }
   ]
 }
