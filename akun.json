@@ -19,7 +19,7 @@
     "7289223692": 10000,
     "8763553109": 0,
     "8529236063": 12674,
-    "6437806220": 1000
+    "6437806220": 500
   },
   "produk": {
     "Ivas": {
@@ -35,7 +35,6 @@
     "alingmotion/1years": {
       "price": 500,
       "accounts": [
-        "Gmail: sherjo@lova.cam LinkLogin: https://generator.email/sherjo@lova.cam",
         "Gmail: jus4thegamep@capcutku.app LinkLogin: https://generator.email/jus4thegamep@capcutku.app",
         "Gmail: anechkalagun@waroengpremium.com LinkLogin: https://generator.email/anechkalagun@waroengpremium.com",
         "Gmail: hohmuch@arigo.site LinkLogin: https://generator.email/hohmuch@arigo.site"
@@ -2347,6 +2346,14 @@
       "refundAmount": 3384,
       "markupDeducted": 1100,
       "date": "2026-06-12T08:37:22.621Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 6437806220,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: sherjo@lova.cam LinkLogin: https://generator.email/sherjo@lova.cam",
+      "price": 500,
+      "date": "2026-06-12T09:03:42.278Z"
     }
   ]
 }
