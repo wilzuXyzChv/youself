@@ -36,7 +36,6 @@
     "alingmotion/1years": {
       "price": 1000,
       "accounts": [
-        "Gmail: spottoou@houtlook.xyz LinkLogin: https://generator.email/spottoou@houtlook.xyz",
         "Gamil: jacksjacobs1@novaix.vn LinkLogin: https://generator.email/jacksjacobs1@novaix.vn",
         "Gmail: sherjo@lova.cam LinkLogin: https://generator.email/sherjo@lova.cam",
         "Gmail: jus4thegamep@capcutku.app LinkLogin: https://generator.email/jus4thegamep@capcutku.app"
@@ -2104,6 +2103,15 @@
       "refundAmount": 4265,
       "markupDeducted": 1100,
       "date": "2026-06-12T03:00:20.011Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8168089161,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: spottoou@houtlook.xyz LinkLogin: https://generator.email/spottoou@houtlook.xyz",
+      "price": 1000,
+      "trxId": "DEP1781233263863",
+      "date": "2026-06-12T03:01:50.937Z"
     }
   ]
 }
