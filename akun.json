@@ -26,7 +26,8 @@
     "Ivas": {
       "price": 3500,
       "accounts": [
-        "GAMIL: silnik Bywilz77x@ PASSWORD: silnik Bywilz77x@"
+        "GAMIL: silnik Bywilz77x@ PASSWORD: silnik Bywilz77x@",
+        "Gmail: choclatebo@dyyfin.shop Password: choclatebo ByWilzu77x@"
       ]
     },
     "capcut/1month": {
@@ -2606,6 +2607,12 @@
       "refundAmount": 9280,
       "markupDeducted": 1100,
       "date": "2026-06-12T16:29:48.422Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-13T00:54:02.882Z"
     }
   ]
 }
