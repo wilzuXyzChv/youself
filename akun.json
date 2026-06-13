@@ -7,7 +7,7 @@
     "7660594032": 783241,
     "8283491052": 70003,
     "5552039925": 168,
-    "7022774592": 5656,
+    "7022774592": 2156,
     "7402763472": 0,
     "8212052831": 2000,
     "6367934750": 16663,
@@ -26,7 +26,6 @@
     "Ivas": {
       "price": 3500,
       "accounts": [
-        "GAMIL: silnik Bywilz77x@ PASSWORD: silnik Bywilz77x@",
         "Gmail: choclatebo@dyyfin.shop Password: choclatebo ByWilzu77x@"
       ]
     },
@@ -2695,6 +2694,14 @@
       "refundAmount": 3202,
       "markupDeducted": 1100,
       "date": "2026-06-13T03:01:16.036Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7022774592,
+      "produk": "Ivas",
+      "akun": "GAMIL: silnik Bywilz77x@ PASSWORD: silnik Bywilz77x@",
+      "price": 3500,
+      "date": "2026-06-13T04:29:47.543Z"
     }
   ]
 }
