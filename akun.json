@@ -72,7 +72,9 @@
     },
     "aksetoolsam": {
       "price": 120000,
-      "accounts": []
+      "accounts": [
+        "Akun: Raxel Pasword: 2 ( Expaird Account 1 bulan )"
+      ]
     }
   },
   "ledger": [
@@ -3183,6 +3185,12 @@
       "produk": "alingmotion/1years",
       "akun": 3,
       "date": "2026-06-16T18:17:06.607Z"
+    },
+    {
+      "type": "restok",
+      "produk": "aksetoolsam",
+      "akun": 1,
+      "date": "2026-06-16T18:35:08.290Z"
     }
   ]
 }
