@@ -69,6 +69,10 @@
     "spotify/1month": {
       "price": 16000,
       "accounts": []
+    },
+    "aksetoolsam": {
+      "price": 120000,
+      "accounts": []
     }
   },
   "ledger": [
