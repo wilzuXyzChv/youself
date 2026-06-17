@@ -8,5 +8,11 @@
     "password": "zax33",
     "role": "user",
     "registeredAt": "2026-06-17T15:42:57.438Z"
+  },
+  "xdc": {
+    "password": "xdc23",
+    "role": "user",
+    "expiry": 1781797821074,
+    "registeredAt": "2026-06-17T15:50:21.075Z"
   }
 }
