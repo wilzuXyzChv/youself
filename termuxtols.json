@@ -3,5 +3,10 @@
     "password": "sd22",
     "role": "owner",
     "registeredAt": "2026-06-17T10:00:00.000Z"
+  },
+  "zax": {
+    "password": "zax33",
+    "role": "user",
+    "registeredAt": "2026-06-17T15:42:57.438Z"
   }
 }
