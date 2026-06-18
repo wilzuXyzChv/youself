@@ -74,6 +74,23 @@
       "accounts": [
         "Akun: Raxel Pasword: 2 ( Expaird Account 1 bulan )"
       ]
+    },
+    "VPS KVM": {
+      "price": 3000,
+      "pterodactyl": {
+        "egg_id": 1,
+        "nest_id": 1,
+        "environment": {
+          "DISK": 10240
+        }
+      },
+      "ram_options": [
+        { "ram": "4GB", "price": 3000 },
+        { "ram": "8GB", "price": 7000 },
+        { "ram": "10GB", "price": 12000 },
+        { "ram": "Unlimited", "price": 13000 }
+      ],
+      "accounts": []
     }
   },
   "ledger": [
@@ -3292,87 +3309,4 @@
       "refundAmount": 7796,
       "markupDeducted": 1100,
       "date": "2026-06-18T06:44:23.042Z"
-    },
-    {
-      "type": "nokos_buy",
-      "chatId": 6164647181,
-      "productId": 1160028923,
-      "orderId": 2988040,
-      "basePrice": 921,
-      "markup": 1100,
-      "totalPaid": 2021,
-      "date": "2026-06-18T06:46:12.387Z"
-    },
-    {
-      "type": "nokos_buy",
-      "chatId": 7786869532,
-      "productId": 764438591,
-      "orderId": 2990672,
-      "basePrice": 2154,
-      "markup": 1100,
-      "totalPaid": 3254,
-      "date": "2026-06-18T07:21:32.375Z"
-    },
-    {
-      "type": "nokos_cancel",
-      "chatId": 7786869532,
-      "orderId": 2990672,
-      "refundAmount": 3254,
-      "markupDeducted": 1100,
-      "date": "2026-06-18T07:35:43.548Z"
-    },
-    {
-      "type": "nokos_buy",
-      "chatId": 8743752958,
-      "productId": 725625388,
-      "orderId": 3019986,
-      "basePrice": 3004,
-      "markup": 1100,
-      "totalPaid": 4104,
-      "date": "2026-06-18T14:51:00.669Z"
-    },
-    {
-      "type": "beli_qty",
-      "chatId": 7660594032,
-      "produk": "alingmotion/1years",
-      "akun": "Gmail: hohmuch@arigo.site LinkLogin: https://generator.email/hohmuch@arigo.site",
-      "price": 1000,
-      "date": "2026-06-18T14:54:36.861Z"
-    },
-    {
-      "type": "buy_qris",
-      "chatId": 8239371314,
-      "produk": "alingmotion/1years",
-      "akun": "Gmail:madziutek21@jiang-vvx.shop LinkLogin: https://generator.email/madziutek21@jiang-vvx.shop",
-      "price": 1000,
-      "trxId": "DEP1781795138464",
-      "date": "2026-06-18T15:07:14.676Z"
-    },
-    {
-      "type": "nokos_auto_refund_expired",
-      "chatId": "8743752958",
-      "orderId": 3019986,
-      "refundAmount": 4104,
-      "markupDeducted": 1100,
-      "date": "2026-06-18T15:20:10.804Z"
-    },
-    {
-      "type": "nokos_buy",
-      "chatId": 8743752958,
-      "productId": 1101440320,
-      "orderId": 3024826,
-      "basePrice": 529,
-      "markup": 1100,
-      "totalPaid": 1629,
-      "date": "2026-06-18T16:04:01.533Z"
-    },
-    {
-      "type": "nokos_auto_refund_expired",
-      "chatId": "8743752958",
-      "orderId": 3024826,
-      "refundAmount": 1629,
-      "markupDeducted": 1100,
-      "date": "2026-06-18T16:50:15.467Z"
     }
-  ]
-}
