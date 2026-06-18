@@ -14,5 +14,11 @@
     "role": "user",
     "expiry": 1781797821074,
     "registeredAt": "2026-06-17T15:50:21.075Z"
+  },
+  "avgs": {
+    "password": "hf12",
+    "role": "user",
+    "expiry": 1781892976444,
+    "registeredAt": "2026-06-18T18:16:16.444Z"
   }
 }
