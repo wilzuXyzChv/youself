@@ -5,7 +5,7 @@
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
-    "7660594032": 20205,
+    "7660594032": 17103,
     "8283491052": 73,
     "5552039925": 168,
     "7022774592": 2156,
@@ -26,71 +26,83 @@
     "8113020943": 29,
     "8743752958": 5000
   },
-"produk": {
-  "Ivas": {
-    "price": 5000,
-    "accounts": [
-      "Gmail: choclatebo@dyyfin.shop Password: choclatebo ByWilzu77x@",
-      "Gmail: mikeoca42@dshznonline.cc Password: mikeoca Bywilzu44x@",
-      "Gmail: gisoxap151@dyleris.com Password: gisoxap Ganteng556x@",
-      "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223"
-    ]
-  },
-  "capcut/1month": {
-    "price": 17000,
-    "accounts": []
-  },
-  "alingmotion/1years": {
-    "price": 1000,
-    "accounts": [
-      "Gamil: alenad9692@evoiceeeeee.world LinkLogin: https://generator.email/alenad9692@evoiceeeeee.world",
-      "Gmail: vzz79b2k@meetingpoint-point.com LinkLogin: https://generator.email/vzz79b2k@meetingpoint-point.com",
-      "Gmail: pdeluis@waroengpremium.com LinkLogin: https://generator.email/pdeluis@waroengpremium.com",
-      "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
-      "Gmail: yaseniya5@681mail.com LinkLogin: https://generator.email/yaseniya5@681mail.com",
-      "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
-      "Gmail: chascormier@theweifamily.icu LinkLogin: https://generator.email/chascormier@theweifamily.icu",
-      "Gmail: fabdeb@monyal.shop LinkLogin: https://generator.email/fabdeb@monyal.shop"
-    ]
-  },
-  "vpn srufshak": {
-    "price": 25000,
-    "accounts": []
-  },
-  "vpn hma": {
-    "price": 10000,
-    "accounts": []
-  },
-  "vpn expres": {
-    "price": 10000,
-    "accounts": []
-  },
-  "spotify/1month": {
-    "price": 16000,
-    "accounts": []
-  },
-  "aksetoolsam": {
-    "price": 120000,
-    "accounts": [
-      "Akun: Raxel Pasword: 2 ( Expaird Account 1 bulan )"
-    ]
-  },
-  "VPS KVM": {
-    "price": 3000,
-    "pterodactyl": {
-      "egg_id": 1,
-      "nest_id": 1,
-      "environment": {
-        "DISK": 10240
-      }
+  "produk": {
+    "Ivas": {
+      "price": 5000,
+      "accounts": [
+        "Gmail: choclatebo@dyyfin.shop Password: choclatebo ByWilzu77x@",
+        "Gmail: mikeoca42@dshznonline.cc Password: mikeoca Bywilzu44x@",
+        "Gmail: gisoxap151@dyleris.com Password: gisoxap Ganteng556x@",
+        "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223"
+      ]
     },
-    "ram_options": [
-      { "ram": "4GB", "price": 3000 },
-      { "ram": "8GB", "price": 7000 },
-      { "ram": "10GB", "price": 12000 },
-      { "ram": "Unlimited", "price": 13000 }
-    ],
-    "accounts": []
+    "capcut/1month": {
+      "price": 17000,
+      "accounts": []
+    },
+    "alingmotion/1years": {
+      "price": 1000,
+      "accounts": [
+        "Gamil: alenad9692@evoiceeeeee.world LinkLogin: https://generator.email/alenad9692@evoiceeeeee.world",
+        "Gmail: vzz79b2k@meetingpoint-point.com LinkLogin: https://generator.email/vzz79b2k@meetingpoint-point.com",
+        "Gmail: pdeluis@waroengpremium.com LinkLogin: https://generator.email/pdeluis@waroengpremium.com",
+        "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
+        "Gmail: yaseniya5@681mail.com LinkLogin: https://generator.email/yaseniya5@681mail.com",
+        "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
+        "Gmail: chascormier@theweifamily.icu LinkLogin: https://generator.email/chascormier@theweifamily.icu",
+        "Gmail: fabdeb@monyal.shop LinkLogin: https://generator.email/fabdeb@monyal.shop"
+      ]
+    },
+    "vpn srufshak": {
+      "price": 25000,
+      "accounts": []
+    },
+    "vpn hma": {
+      "price": 10000,
+      "accounts": []
+    },
+    "vpn expres": {
+      "price": 10000,
+      "accounts": []
+    },
+    "spotify/1month": {
+      "price": 16000,
+      "accounts": []
+    },
+    "aksetoolsam": {
+      "price": 120000,
+      "accounts": [
+        "Akun: Raxel Pasword: 2 ( Expaird Account 1 bulan )"
+      ]
+    },
+    "VPS KVM": {
+      "price": 3000,
+      "pterodactyl": {
+        "egg_id": 1,
+        "nest_id": 1,
+        "environment": {
+          "DISK": 10240
+        }
+      },
+      "ram_options": [
+        {
+          "ram": "4GB",
+          "price": 3000
+        },
+        {
+          "ram": "8GB",
+          "price": 7000
+        },
+        {
+          "ram": "10GB",
+          "price": 12000
+        },
+        {
+          "ram": "Unlimited",
+          "price": 13000
+        }
+      ],
+      "accounts": []
+    }
   }
-}
 }
