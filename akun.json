@@ -5,7 +5,7 @@
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
-    "7660594032": 22305,
+    "7660594032": 21305,
     "8283491052": 73,
     "5552039925": 168,
     "7022774592": 2156,
@@ -43,7 +43,6 @@
     "alingmotion/1years": {
       "price": 1000,
       "accounts": [
-        "Gmail: hohmuch@arigo.site LinkLogin: https://generator.email/hohmuch@arigo.site",
         "Gmail:madziutek21@jiang-vvx.shop LinkLogin: https://generator.email/madziutek21@jiang-vvx.shop",
         "Gamil: alenad9692@evoiceeeeee.world LinkLogin: https://generator.email/alenad9692@evoiceeeeee.world",
         "Gmail: vzz79b2k@meetingpoint-point.com LinkLogin: https://generator.email/vzz79b2k@meetingpoint-point.com",
@@ -3332,6 +3331,14 @@
       "markup": 1100,
       "totalPaid": 4104,
       "date": "2026-06-18T14:51:00.669Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: hohmuch@arigo.site LinkLogin: https://generator.email/hohmuch@arigo.site",
+      "price": 1000,
+      "date": "2026-06-18T14:54:36.861Z"
     }
   ]
 }
