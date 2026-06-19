@@ -25,13 +25,12 @@
     "5363607539": 340,
     "8113020943": 29,
     "8743752958": 5000,
-    "8335682832": 5000
+    "8335682832": 0
   },
   "produk": {
     "Ivas": {
       "price": 5000,
       "accounts": [
-        "Gmail: choclatebo@dyyfin.shop Password: choclatebo ByWilzu77x@",
         "Gmail: mikeoca42@dshznonline.cc Password: mikeoca Bywilzu44x@",
         "Gmail: gisoxap151@dyleris.com Password: gisoxap Ganteng556x@",
         "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223"
@@ -142,6 +141,14 @@
       "refundAmount": 3195,
       "markupDeducted": 1100,
       "date": "2026-06-18T23:00:35.252Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8335682832,
+      "produk": "Ivas",
+      "akun": "Gmail: choclatebo@dyyfin.shop Password: choclatebo ByWilzu77x@",
+      "price": 5000,
+      "date": "2026-06-19T01:35:46.451Z"
     }
   ]
 }
