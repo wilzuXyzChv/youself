@@ -46,7 +46,6 @@
     "alingmotion/1years": {
       "price": 500,
       "accounts": [
-        "Gamil: alenad9692@evoiceeeeee.world LinkLogin: https://generator.email/alenad9692@evoiceeeeee.world",
         "Gmail: vzz79b2k@meetingpoint-point.com LinkLogin: https://generator.email/vzz79b2k@meetingpoint-point.com",
         "Gmail: pdeluis@waroengpremium.com LinkLogin: https://generator.email/pdeluis@waroengpremium.com",
         "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
@@ -235,6 +234,15 @@
       "markup": 1100,
       "totalPaid": 4619,
       "date": "2026-06-20T05:52:51.722Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 6475164494,
+      "produk": "alingmotion/1years",
+      "akun": "Gamil: alenad9692@evoiceeeeee.world LinkLogin: https://generator.email/alenad9692@evoiceeeeee.world",
+      "price": 500,
+      "trxId": "DEP1781936156224",
+      "date": "2026-06-20T06:17:09.491Z"
     }
   ]
 }
