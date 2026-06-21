@@ -28,13 +28,12 @@
     "8335682832": 0,
     "8168089161": 1034,
     "8390952472": 38,
-    "8680977269": 5000
+    "8680977269": 1500
   },
   "produk": {
     "Ivas": {
       "price": 3500,
       "accounts": [
-        "Gmail: mikeoca42@dshznonline.cc Password: mikeoca Bywilzu44x@",
         "Gmail: gisoxap151@dyleris.com Password: gisoxap Ganteng556x@",
         "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223",
         "👤 Gmail: bazhenovanataly@mariascloset.org 🔐Pasword: bazxwilzu12"
@@ -290,6 +289,14 @@
       "markup": 1100,
       "totalPaid": 3955,
       "date": "2026-06-21T02:47:28.524Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8680977269,
+      "produk": "Ivas",
+      "akun": "Gmail: mikeoca42@dshznonline.cc Password: mikeoca Bywilzu44x@",
+      "price": 3500,
+      "date": "2026-06-21T05:58:53.716Z"
     }
   ]
 }
