@@ -118,6 +118,7 @@
     "scauto_oder": {
       "price": 35000,
       "accounts": [
+        "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )",
         "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )"
       ]
     }
@@ -513,6 +514,12 @@
       "produk": "scauto_oder",
       "akun": 1,
       "date": "2026-06-22T17:00:00.140Z"
+    },
+    {
+      "type": "restok",
+      "produk": "scauto_oder",
+      "akun": 1,
+      "date": "2026-06-22T17:00:04.307Z"
     }
   ]
 }
