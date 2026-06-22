@@ -7,7 +7,7 @@
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
-    "7660594032": 13465,
+    "7660594032": 7465,
     "8283491052": 73,
     "5552039925": 168,
     "7022774592": 201,
@@ -37,7 +37,6 @@
     "Ivas": {
       "price": 6000,
       "accounts": [
-        "Gmail: gisoxap151@dyleris.com Password: gisoxap Ganteng556x@",
         "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223",
         "👤 Gmail: bazhenovanataly@mariascloset.org 🔐Pasword: bazxwilzu12"
       ]
@@ -601,6 +600,14 @@
       "produk": "scautoOrder",
       "akun": 1,
       "date": "2026-06-22T17:16:56.203Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Ivas",
+      "akun": "Gmail: gisoxap151@dyleris.com Password: gisoxap Ganteng556x@",
+      "price": 6000,
+      "date": "2026-06-22T18:16:47.883Z"
     }
   ]
 }
