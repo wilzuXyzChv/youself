@@ -123,6 +123,7 @@
         "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )",
         "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )",
         "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )",
+        "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )",
         "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )"
       ]
     }
@@ -548,6 +549,12 @@
       "produk": "scauto_oder",
       "akun": 1,
       "date": "2026-06-22T17:00:26.820Z"
+    },
+    {
+      "type": "restok",
+      "produk": "scauto_oder",
+      "akun": 1,
+      "date": "2026-06-22T17:00:31.889Z"
     }
   ]
 }
