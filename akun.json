@@ -114,6 +114,10 @@
         }
       ],
       "accounts": []
+    },
+    "scautoOrder": {
+      "price": 35000,
+      "accounts": []
     }
   },
   "ledger": [
