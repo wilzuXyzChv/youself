@@ -7,7 +7,7 @@
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
-    "7660594032": 7465,
+    "7660594032": 6465,
     "8283491052": 73,
     "5552039925": 168,
     "7022774592": 201,
@@ -48,7 +48,6 @@
     "alingmotion/1years": {
       "price": 1000,
       "accounts": [
-        "Gmail: pdeluis@waroengpremium.com LinkLogin: https://generator.email/pdeluis@waroengpremium.com",
         "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
         "Gmail: yaseniya5@681mail.com LinkLogin: https://generator.email/yaseniya5@681mail.com",
         "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
@@ -616,6 +615,14 @@
       "price": 1000,
       "trxId": "DEP1782162499078",
       "date": "2026-06-22T21:10:30.783Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: pdeluis@waroengpremium.com LinkLogin: https://generator.email/pdeluis@waroengpremium.com",
+      "price": 1000,
+      "date": "2026-06-22T22:04:19.475Z"
     }
   ]
 }
