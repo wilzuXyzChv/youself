@@ -117,7 +117,9 @@
     },
     "scauto_oder": {
       "price": 35000,
-      "accounts": []
+      "accounts": [
+        "https://drive.google.com/file/d/1ARKYcsN5ULkAl5eGLQAGbBlfP0ZD2zw8/view?usp=drivesdk ( VIP NO ENC )"
+      ]
     }
   },
   "ledger": [
@@ -505,6 +507,12 @@
       "markup": 1100,
       "totalPaid": 4036,
       "date": "2026-06-22T16:12:28.452Z"
+    },
+    {
+      "type": "restok",
+      "produk": "scauto_oder",
+      "akun": 1,
+      "date": "2026-06-22T17:00:00.140Z"
     }
   ]
 }
