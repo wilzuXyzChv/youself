@@ -114,6 +114,10 @@
         }
       ],
       "accounts": []
+    },
+    "scauto_oder": {
+      "price": 35000,
+      "accounts": []
     }
   },
   "ledger": [
