@@ -3,7 +3,7 @@
     "123456789": 2,
     "1007534254": 5000,
     "1188612159": 1057,
-    "1447156442": 3106,
+    "1447156442": 2106,
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
@@ -48,7 +48,6 @@
     "alingmotion/1years": {
       "price": 1000,
       "accounts": [
-        "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
         "Gmail: yaseniya5@681mail.com LinkLogin: https://generator.email/yaseniya5@681mail.com",
         "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
         "Gmail: chascormier@theweifamily.icu LinkLogin: https://generator.email/chascormier@theweifamily.icu",
@@ -623,6 +622,14 @@
       "akun": "Gmail: pdeluis@waroengpremium.com LinkLogin: https://generator.email/pdeluis@waroengpremium.com",
       "price": 1000,
       "date": "2026-06-22T22:04:19.475Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1447156442,
+      "produk": "alingmotion/1years",
+      "akun": "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
+      "price": 1000,
+      "date": "2026-06-23T00:58:16.892Z"
     }
   ]
 }
