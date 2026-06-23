@@ -37,7 +37,8 @@
     "Ivas": {
       "price": 6000,
       "accounts": [
-        "👤 Gmail: bazhenovanataly@mariascloset.org 🔐Pasword: bazxwilzu12"
+        "👤 Gmail: bazhenovanataly@mariascloset.org 🔐Pasword: bazxwilzu12",
+        "GMAIL: jburgess@kei-digital.com PASSWORD: bywilzu2277"
       ]
     },
     "capcut/1month": {
@@ -829,6 +830,12 @@
       "markup": 1100,
       "totalPaid": 4539,
       "date": "2026-06-23T13:34:10.657Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-23T16:46:49.081Z"
     }
   ]
 }
