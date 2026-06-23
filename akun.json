@@ -3,7 +3,7 @@
     "123456789": 2,
     "1007534254": 5000,
     "1188612159": 1057,
-    "1447156442": 7106,
+    "1447156442": 1106,
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
@@ -37,7 +37,6 @@
     "Ivas": {
       "price": 6000,
       "accounts": [
-        "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223",
         "👤 Gmail: bazhenovanataly@mariascloset.org 🔐Pasword: bazxwilzu12"
       ]
     },
@@ -630,6 +629,14 @@
       "akun": "Gamil:alisapaganis@eewmaop.com LinkLogin: https://generator.email/alisapaganis@eewmaop.com",
       "price": 1000,
       "date": "2026-06-23T00:58:16.892Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1447156442,
+      "produk": "Ivas",
+      "akun": "Gmail: nadegda50@buyapp.foo Password: rahasiawilzu223",
+      "price": 6000,
+      "date": "2026-06-23T06:54:45.595Z"
     }
   ]
 }
