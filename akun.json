@@ -37,7 +37,6 @@
     "Ivas": {
       "price": 6000,
       "accounts": [
-        "GMAIL: jburgess@kei-digital.com PASSWORD: bywilzu2277",
         "GMAIL: pesole8538@divahd.com PASSWORD: bywilzu667",
         "Gmail: vinssa@tams.codes Password: vinssbywilzu27"
       ]
@@ -900,6 +899,15 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-06-25T01:05:42.538Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8080662771,
+      "produk": "Ivas",
+      "akun": "GMAIL: jburgess@kei-digital.com PASSWORD: bywilzu2277",
+      "price": 6000,
+      "trxId": "DEP1782358703695",
+      "date": "2026-06-25T03:39:10.230Z"
     }
   ]
 }
