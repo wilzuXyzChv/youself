@@ -138,6 +138,7 @@
     "spotifyH&M-link": {
       "price": 2000,
       "accounts": [
+        "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )",
         "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )"
       ]
     }
@@ -981,6 +982,12 @@
       "produk": "spotifyH&M-link",
       "akun": 1,
       "date": "2026-06-25T17:31:56.053Z"
+    },
+    {
+      "type": "restok",
+      "produk": "spotifyH&M-link",
+      "akun": 1,
+      "date": "2026-06-25T17:32:19.326Z"
     }
   ]
 }
