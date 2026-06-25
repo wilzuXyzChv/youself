@@ -134,6 +134,10 @@
     "sptofy-H&M": {
       "price": 2000,
       "accounts": []
+    },
+    "spotifyH&M-link": {
+      "price": 2000,
+      "accounts": []
     }
   },
   "ledger": [
