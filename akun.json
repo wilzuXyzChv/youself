@@ -127,7 +127,9 @@
     },
     "spotfyLink-studen": {
       "price": 2000,
-      "accounts": []
+      "accounts": [
+        "LINK: ( https://www.spotify.com/fr/ppt/hm/?code=NttPyKc6yE ) CARANYA: ( WAJIB PUNYA Paypal cvv bukan link nya beli pake Paypal Dengan Rp0 )"
+      ]
     }
   },
   "ledger": [
@@ -957,6 +959,12 @@
       "refundAmount": 2024,
       "markupDeducted": 1100,
       "date": "2026-06-25T16:24:48.274Z"
+    },
+    {
+      "type": "restok",
+      "produk": "spotfyLink-studen",
+      "akun": 1,
+      "date": "2026-06-25T17:23:17.443Z"
     }
   ]
 }
