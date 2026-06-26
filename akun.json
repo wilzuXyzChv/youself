@@ -142,7 +142,52 @@
     },
     "sc-cekivas": {
       "price": 40000,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        },
+        {
+          "username": "https://drive.google.com/file/d/1PUUvKBaprplEGrMEdwavHA1uHMXkpQEZ/view?usp=drivesdk ( ini mengunakan python y bukan JS",
+          "password": "kalo di panel pterodactyl wajib beli panel python )"
+        }
+      ]
     }
   },
   "ledger": [
@@ -1216,6 +1261,12 @@
       "markup": 1100,
       "totalPaid": 4006,
       "date": "2026-06-26T15:33:00.080Z"
+    },
+    {
+      "type": "restok",
+      "produk": "sc-cekivas",
+      "akun": 11,
+      "date": "2026-06-26T18:05:54.971Z"
     }
   ]
 }
