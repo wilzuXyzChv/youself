@@ -34,7 +34,7 @@
     "8680977269": 1500,
     "8961653193": 679,
     "6849417475": 10000,
-    "8215248949": 5000
+    "8215248949": 3700
   },
   "produk": {
     "Ivas": {
@@ -52,7 +52,6 @@
     "alingmotion/1years": {
       "price": 1300,
       "accounts": [
-        "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
         "Gmail: chascormier@theweifamily.icu LinkLogin: https://generator.email/chascormier@theweifamily.icu",
         "Gmail: fabdeb@monyal.shop LinkLogin: https://generator.email/fabdeb@monyal.shop",
         "👤GMAIL: bazhenovanataly@mariascloset.org ✉️LINKLOGIN: https://generator.email/bazhenovanataly@mariascloset.org",
@@ -1750,6 +1749,14 @@
       "refundAmount": 3740,
       "markupDeducted": 1100,
       "date": "2026-06-27T03:21:44.586Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8215248949,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
+      "price": 1300,
+      "date": "2026-06-27T05:48:52.929Z"
     }
   ]
 }
