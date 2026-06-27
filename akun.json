@@ -3,7 +3,7 @@
     "123456789": 2,
     "1007534254": 5000,
     "1188612159": 1057,
-    "1447156442": 18145,
+    "1447156442": 16145,
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
@@ -129,9 +129,7 @@
     },
     "spotfyLink-studen": {
       "price": 2000,
-      "accounts": [
-        "LINK: ( https://www.spotify.com/fr/ppt/hm/?code=NttPyKc6yE ) CARANYA: ( WAJIB PUNYA Paypal cvv bukan link nya beli pake Paypal Dengan Rp0 )"
-      ]
+      "accounts": []
     },
     "spotifyH&M-link": {
       "price": 2000,
@@ -1757,6 +1755,14 @@
       "akun": "Gmail: kuips6@coin.wf LinkLogin: https://generator.email/kuips6@coin.wf",
       "price": 1300,
       "date": "2026-06-27T05:48:52.929Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1447156442,
+      "produk": "spotfyLink-studen",
+      "akun": "LINK: ( https://www.spotify.com/fr/ppt/hm/?code=NttPyKc6yE ) CARANYA: ( WAJIB PUNYA Paypal cvv bukan link nya beli pake Paypal Dengan Rp0 )",
+      "price": 2000,
+      "date": "2026-06-27T06:06:24.151Z"
     }
   ]
 }
