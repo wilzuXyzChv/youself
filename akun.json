@@ -3,7 +3,7 @@
     "123456789": 2,
     "1007534254": 5000,
     "1188612159": 1057,
-    "1447156442": 16145,
+    "1447156442": 14145,
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
@@ -134,7 +134,6 @@
     "spotifyH&M-link": {
       "price": 2000,
       "accounts": [
-        "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )",
         "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )"
       ]
     },
@@ -1763,6 +1762,14 @@
       "akun": "LINK: ( https://www.spotify.com/fr/ppt/hm/?code=NttPyKc6yE ) CARANYA: ( WAJIB PUNYA Paypal cvv bukan link nya beli pake Paypal Dengan Rp0 )",
       "price": 2000,
       "date": "2026-06-27T06:06:24.151Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1447156442,
+      "produk": "spotifyH&M-link",
+      "akun": "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )",
+      "price": 2000,
+      "date": "2026-06-27T06:27:08.039Z"
     }
   ]
 }
