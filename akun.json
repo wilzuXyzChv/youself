@@ -47,7 +47,8 @@
         "GMAIL: zaxscd123455@chatgptku.com PASSWORD: BYwilzu88888000",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
-        "GAMIL: nsdavid@mskey.net PASSWORD: Xyzwilzu888999"
+        "GAMIL: nsdavid@mskey.net PASSWORD: Xyzwilzu888999",
+        "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11"
       ]
     },
     "capcut/1month": {
@@ -2495,6 +2496,12 @@
       "refundAmount": 3973,
       "markupDeducted": 1100,
       "date": "2026-06-29T14:23:37.934Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-06-29T17:19:29.925Z"
     }
   ]
 }
