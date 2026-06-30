@@ -64,7 +64,6 @@
     "alingmotion/1years": {
       "price": 800,
       "accounts": [
-        "Gmail: chascormier@theweifamily.icu LinkLogin: https://generator.email/chascormier@theweifamily.icu",
         "Gmail: fabdeb@monyal.shop LinkLogin: https://generator.email/fabdeb@monyal.shop",
         "👤GMAIL: bazhenovanataly@mariascloset.org ✉️LINKLOGIN: https://generator.email/bazhenovanataly@mariascloset.org",
         "👤GMAIL: hifdhiy@lechatiao.com ✉️LINKLOGIN: https://generator.email/hifdhiy@lechatiao.com",
@@ -2820,6 +2819,15 @@
       "refundAmount": 3601,
       "markupDeducted": 1500,
       "date": "2026-06-30T13:23:47.219Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8971987528,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: chascormier@theweifamily.icu LinkLogin: https://generator.email/chascormier@theweifamily.icu",
+      "price": 800,
+      "trxId": "DEP1782828237230",
+      "date": "2026-06-30T14:05:06.211Z"
     }
   ]
 }
