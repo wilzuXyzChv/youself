@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 2500,
+    "1156507242": 500,
     "1188612159": 1057,
     "1447156442": 17885,
     "1497667429": 692,
@@ -145,9 +145,7 @@
     },
     "spotifyH&M-link": {
       "price": 2000,
-      "accounts": [
-        "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )"
-      ]
+      "accounts": []
     },
     "sc-cekivas": {
       "price": 40000,
@@ -2835,6 +2833,14 @@
       "akun": "GMAIL: pesole8538@divahd.com PASSWORD: bywilzu667",
       "price": 5000,
       "date": "2026-06-30T15:19:48.961Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "spotifyH&M-link",
+      "akun": "LINK: https://www.spotify.com/fr/ppt/hm/?code=NLWTR9SJEW ( NOT: WAJIB PUNYA AKUN PAYPAL CVV UNTUK CREAT LEWAT LINK )",
+      "price": 2000,
+      "date": "2026-06-30T16:18:58.738Z"
     }
   ]
 }
