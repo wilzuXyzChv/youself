@@ -45,7 +45,6 @@
     "Ivas": {
       "price": 5000,
       "accounts": [
-        "GMAIL: zaxscd123455@chatgptku.com PASSWORD: BYwilzu88888000",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
         "GAMIL: nsdavid@mskey.net PASSWORD: Xyzwilzu888999",
@@ -4359,6 +4358,15 @@
       "refundAmount": 3615,
       "markupDeducted": 1500,
       "date": "2026-07-02T13:30:30.338Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8590595113,
+      "produk": "Ivas",
+      "akun": "GMAIL: zaxscd123455@chatgptku.com PASSWORD: BYwilzu88888000",
+      "price": 5000,
+      "trxId": "DEP1783006594401",
+      "date": "2026-07-02T15:38:19.280Z"
     }
   ]
 }
