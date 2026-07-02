@@ -45,7 +45,6 @@
     "Ivas": {
       "price": 5000,
       "accounts": [
-        "GAMIL: tehic00ki@fviamail.com PASSWORD: Bywilzu77880",
         "GMAIL: zaxscd123455@chatgptku.com PASSWORD: BYwilzu88888000",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
@@ -4097,6 +4096,15 @@
       "markup": 2000,
       "totalPaid": 4115,
       "date": "2026-07-02T03:51:34.353Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8590595113,
+      "produk": "Ivas",
+      "akun": "GAMIL: tehic00ki@fviamail.com PASSWORD: Bywilzu77880",
+      "price": 5000,
+      "trxId": "DEP1782966441698",
+      "date": "2026-07-02T04:29:42.596Z"
     }
   ]
 }
