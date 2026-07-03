@@ -44,9 +44,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "GMAIL: rzk43l@teknolcom.com PASSWORD: Dawilzuxx8810"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -4470,6 +4468,15 @@
       "price": 3000,
       "trxId": "DEP1783110044659",
       "date": "2026-07-03T20:21:53.963Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7152875905,
+      "produk": "Ivas",
+      "akun": "GMAIL: rzk43l@teknolcom.com PASSWORD: Dawilzuxx8810",
+      "price": 3000,
+      "trxId": "DEP1783110114593",
+      "date": "2026-07-03T20:23:23.566Z"
     }
   ]
 }
