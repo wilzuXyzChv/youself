@@ -44,7 +44,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "GAMIL: pahid54873@fivejm.com PASSWORD: Ivasnywilzu2233"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -4477,6 +4479,12 @@
       "price": 3000,
       "trxId": "DEP1783110114593",
       "date": "2026-07-03T20:23:23.566Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-03T21:36:29.134Z"
     }
   ]
 }
