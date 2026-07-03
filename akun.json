@@ -45,7 +45,6 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "GAMIL: mbennie@shkele.cyou PASSWORD: DAwilzuxx788",
         "GMAIL: rzk43l@teknolcom.com PASSWORD: Dawilzuxx8810"
       ]
     },
@@ -4462,6 +4461,15 @@
       "price": 3000,
       "trxId": "DEP1783109985727",
       "date": "2026-07-03T20:21:08.573Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7152875905,
+      "produk": "Ivas",
+      "akun": "GAMIL: mbennie@shkele.cyou PASSWORD: DAwilzuxx788",
+      "price": 3000,
+      "trxId": "DEP1783110044659",
+      "date": "2026-07-03T20:21:53.963Z"
     }
   ]
 }
