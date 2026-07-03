@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 15500,
+    "1156507242": 13000,
     "1188612159": 1057,
     "1447156442": 17885,
     "1497667429": 692,
@@ -53,11 +53,6 @@
     "alingmotion/1years": {
       "price": 500,
       "accounts": [
-        "Gmail: fabdeb@monyal.shop LinkLogin: https://generator.email/fabdeb@monyal.shop",
-        "👤GMAIL: bazhenovanataly@mariascloset.org ✉️LINKLOGIN: https://generator.email/bazhenovanataly@mariascloset.org",
-        "👤GMAIL: hifdhiy@lechatiao.com ✉️LINKLOGIN: https://generator.email/hifdhiy@lechatiao.com",
-        "👤GAMIL: jacobs@tmxttvmail.com ✉️LINKLOGIN: https://generator.email/jacobs@tmxttvmail.com",
-        "👤GMAIL: sandra88@eewmaop.com ✉️LINKLOGIN: https://generator.email/sandra88@eewmaop.com",
         "👤GMAIL: xan5183@lechatiao.com ✉️LINKLOGIN: https://generator.email/xan5183@lechatiao.com",
         "GMAIL: sktrades@annd.us LINKLOGIN: https://generator.email/sktrades@annd.us",
         "Gmail: sabeur81@iclou1d.com LinkLogin: ( https://gmail.generator/sabeur81@iclou1d.com )",
@@ -4492,6 +4487,46 @@
       "price": 3000,
       "trxId": "DEP1783117859274",
       "date": "2026-07-03T22:32:18.091Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: fabdeb@monyal.shop LinkLogin: https://generator.email/fabdeb@monyal.shop",
+      "price": 500,
+      "date": "2026-07-03T22:35:19.266Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion/1years",
+      "akun": "👤GMAIL: bazhenovanataly@mariascloset.org ✉️LINKLOGIN: https://generator.email/bazhenovanataly@mariascloset.org",
+      "price": 500,
+      "date": "2026-07-03T22:35:19.266Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion/1years",
+      "akun": "👤GMAIL: hifdhiy@lechatiao.com ✉️LINKLOGIN: https://generator.email/hifdhiy@lechatiao.com",
+      "price": 500,
+      "date": "2026-07-03T22:35:19.266Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion/1years",
+      "akun": "👤GAMIL: jacobs@tmxttvmail.com ✉️LINKLOGIN: https://generator.email/jacobs@tmxttvmail.com",
+      "price": 500,
+      "date": "2026-07-03T22:35:19.266Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion/1years",
+      "akun": "👤GMAIL: sandra88@eewmaop.com ✉️LINKLOGIN: https://generator.email/sandra88@eewmaop.com",
+      "price": 500,
+      "date": "2026-07-03T22:35:19.266Z"
     }
   ]
 }
