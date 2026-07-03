@@ -36,7 +36,7 @@
     "8961653193": 679,
     "6849417475": 13208,
     "8215248949": 3700,
-    "6357908958": 8414,
+    "6357908958": 5414,
     "8030660956": 7,
     "7318818206": 1794,
     "8400473717": 6629
@@ -45,7 +45,6 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
         "GAMIL: nsdavid@mskey.net PASSWORD: Xyzwilzu888999",
         "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
@@ -4403,6 +4402,14 @@
       "refundAmount": 4152,
       "markupDeducted": 1500,
       "date": "2026-07-03T07:00:20.640Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 6357908958,
+      "produk": "Ivas",
+      "akun": "GMAIL: kuchertolik@ses4services.net PASSWORD: Byzzwilzu11",
+      "price": 3000,
+      "date": "2026-07-03T16:21:21.610Z"
     }
   ]
 }
