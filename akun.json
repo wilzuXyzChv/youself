@@ -45,7 +45,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "GMAIL : pesano9661@heavty.com PASSWORD : BYwilzy3346"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -4636,6 +4638,12 @@
       "refundAmount": 4151,
       "markupDeducted": 1500,
       "date": "2026-07-04T07:30:20.100Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-04T12:12:31.479Z"
     }
   ]
 }
