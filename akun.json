@@ -45,9 +45,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "GMAIL : pesano9661@heavty.com PASSWORD : BYwilzy3346"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -4644,6 +4642,15 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-07-04T12:12:31.479Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7152875905,
+      "produk": "Ivas",
+      "akun": "GMAIL : pesano9661@heavty.com PASSWORD : BYwilzy3346",
+      "price": 3000,
+      "trxId": "DEP1783167487569",
+      "date": "2026-07-04T12:19:18.573Z"
     }
   ]
 }
