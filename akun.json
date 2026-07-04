@@ -45,7 +45,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -4651,6 +4653,12 @@
       "price": 3000,
       "trxId": "DEP1783167487569",
       "date": "2026-07-04T12:19:18.573Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-04T15:42:06.443Z"
     }
   ]
 }
