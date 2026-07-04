@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 7500,
+    "1156507242": 4500,
     "1188612159": 1057,
     "1447156442": 17885,
     "1497667429": 692,
@@ -45,9 +45,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -4673,6 +4671,14 @@
       "akun": "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104",
       "price": 3000,
       "date": "2026-07-04T15:42:44.878Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "Ivas",
+      "akun": "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104",
+      "price": 3000,
+      "date": "2026-07-04T15:42:58.927Z"
     }
   ]
 }
