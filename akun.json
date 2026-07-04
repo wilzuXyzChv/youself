@@ -40,7 +40,7 @@
     "8030660956": 7,
     "7318818206": 1794,
     "8400473717": 2863,
-    "7775578158": 4000
+    "7775578158": 3500
   },
   "produk": {
     "Ivas": {
@@ -54,7 +54,6 @@
     "alingmotion/1years": {
       "price": 500,
       "accounts": [
-        "👤GMAIL: xan5183@lechatiao.com ✉️LINKLOGIN: https://generator.email/xan5183@lechatiao.com",
         "GMAIL: sktrades@annd.us LINKLOGIN: https://generator.email/sktrades@annd.us",
         "Gmail: sabeur81@iclou1d.com LinkLogin: ( https://gmail.generator/sabeur81@iclou1d.com )",
         "Gmail: sozontovanastay@zuldev.live LinkLogin: ( https://gmail.generator/sozontovanastay@zuldev.live )",
@@ -4546,6 +4545,14 @@
       "refundAmount": 2222,
       "markupDeducted": 1500,
       "date": "2026-07-04T02:44:44.339Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7775578158,
+      "produk": "alingmotion/1years",
+      "akun": "👤GMAIL: xan5183@lechatiao.com ✉️LINKLOGIN: https://generator.email/xan5183@lechatiao.com",
+      "price": 500,
+      "date": "2026-07-04T02:48:13.469Z"
     }
   ]
 }
