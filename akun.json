@@ -46,6 +46,7 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
+        "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104",
         "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104"
       ]
     },
@@ -4659,6 +4660,12 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-07-04T15:42:06.443Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-04T15:42:27.292Z"
     }
   ]
 }
