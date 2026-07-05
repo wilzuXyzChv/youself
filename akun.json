@@ -48,7 +48,8 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104"
+        "GMAIL: fysbo47319@minitts.net PASSWORD: Bywilzustok104",
+        "GAMIL: lina1991@neoapkcc.com PASSWORD: Bywilzustok107"
       ]
     },
     "capcut/1month": {
@@ -4753,6 +4754,12 @@
       "markup": 2000,
       "totalPaid": 4117,
       "date": "2026-07-05T05:26:20.746Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-05T06:53:34.362Z"
     }
   ]
 }
