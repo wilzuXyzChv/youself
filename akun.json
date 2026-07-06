@@ -47,7 +47,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "GAMIL: idurb40947@minitts.net PASSWORD: wilzu2233"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -5599,6 +5601,12 @@
       "refundAmount": 4671,
       "markupDeducted": 2000,
       "date": "2026-07-06T17:02:52.796Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-06T19:05:10.005Z"
     }
   ]
 }
