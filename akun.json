@@ -42,7 +42,7 @@
     "8400473717": 2863,
     "7775578158": 68,
     "8967420688": 5000,
-    "7992062640": 4000
+    "7992062640": 3000
   },
   "produk": {
     "Ivas": {
@@ -55,9 +55,7 @@
     },
     "alingmotion/1years": {
       "price": 1000,
-      "accounts": [
-        "Gmail: gabrielcabrera53@acqq.dev LinkLogin: ( https://generator.email/gabrielcabrera53@acqq.dev )"
-      ]
+      "accounts": []
     },
     "vpn srufshak": {
       "price": 25000,
@@ -5059,6 +5057,14 @@
       "akun": "GAMIL:",
       "price": 3000,
       "date": "2026-07-06T05:29:21.683Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7992062640,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: gabrielcabrera53@acqq.dev LinkLogin: ( https://generator.email/gabrielcabrera53@acqq.dev )",
+      "price": 1000,
+      "date": "2026-07-06T05:40:52.728Z"
     }
   ]
 }
