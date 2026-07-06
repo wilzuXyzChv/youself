@@ -48,7 +48,6 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "GAMIL: lina1991@neoapkcc.com PASSWORD: Bywilzustok107",
         "GAMIL:"
       ]
     },
@@ -4893,6 +4892,15 @@
       "price": 3000,
       "trxId": "DEP1783299334618",
       "date": "2026-07-06T00:56:34.867Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 7152875905,
+      "produk": "Ivas",
+      "akun": "GAMIL: lina1991@neoapkcc.com PASSWORD: Bywilzustok107",
+      "price": 3000,
+      "trxId": "DEP1783299423091",
+      "date": "2026-07-06T00:57:56.910Z"
     }
   ]
 }
