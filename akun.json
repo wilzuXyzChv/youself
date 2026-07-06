@@ -42,7 +42,7 @@
     "8400473717": 2863,
     "7775578158": 68,
     "8967420688": 5000,
-    "7992062640": 5000
+    "7992062640": 4000
   },
   "produk": {
     "Ivas": {
@@ -58,7 +58,6 @@
     "alingmotion/1years": {
       "price": 1000,
       "accounts": [
-        "Gmail: space2001@wohenwasai.cc LinkLogin ( https://generator.email/space2001@wohenwasai.cc )",
         "Gmail: gabrielcabrera53@acqq.dev LinkLogin: ( https://generator.email/gabrielcabrera53@acqq.dev )"
       ]
     },
@@ -5046,6 +5045,14 @@
       "produk": "alingmotion/1years",
       "akun": 2,
       "date": "2026-07-06T04:56:30.131Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7992062640,
+      "produk": "alingmotion/1years",
+      "akun": "Gmail: space2001@wohenwasai.cc LinkLogin ( https://generator.email/space2001@wohenwasai.cc )",
+      "price": 1000,
+      "date": "2026-07-06T04:58:56.484Z"
     }
   ]
 }
