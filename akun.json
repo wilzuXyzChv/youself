@@ -4,7 +4,7 @@
     "1007534254": 5000,
     "1156507242": 20500,
     "1188612159": 1057,
-    "1447156442": 17885,
+    "1447156442": 14885,
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
@@ -47,9 +47,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "GAMIL:"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -5053,6 +5051,14 @@
       "akun": "Gmail: space2001@wohenwasai.cc LinkLogin ( https://generator.email/space2001@wohenwasai.cc )",
       "price": 1000,
       "date": "2026-07-06T04:58:56.484Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1447156442,
+      "produk": "Ivas",
+      "akun": "GAMIL:",
+      "price": 3000,
+      "date": "2026-07-06T05:29:21.683Z"
     }
   ]
 }
