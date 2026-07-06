@@ -57,7 +57,10 @@
     },
     "alingmotion/1years": {
       "price": 1000,
-      "accounts": []
+      "accounts": [
+        "Gmail: space2001@wohenwasai.cc LinkLogin ( https://generator.email/space2001@wohenwasai.cc )",
+        "Gmail: gabrielcabrera53@acqq.dev LinkLogin: ( https://generator.email/gabrielcabrera53@acqq.dev )"
+      ]
     },
     "vpn srufshak": {
       "price": 25000,
@@ -5037,6 +5040,12 @@
       "markup": 2000,
       "totalPaid": 4039,
       "date": "2026-07-06T04:34:28.640Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion/1years",
+      "akun": 2,
+      "date": "2026-07-06T04:56:30.131Z"
     }
   ]
 }
