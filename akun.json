@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 26500,
+    "1156507242": 23500,
     "1188612159": 1057,
     "1447156442": 14885,
     "1497667429": 692,
@@ -48,7 +48,6 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "GAMIL: idurb40947@minitts.net PASSWORD: wilzu2233",
         "GMAIL: bppna52883@minitts.net PASWORD: Bywilzustok127",
         "GMAIL: einth32950@minitts.net PASSWORD: Bywilzustok131"
       ]
@@ -6035,6 +6034,14 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-07-08T10:48:18.150Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "Ivas",
+      "akun": "GAMIL: idurb40947@minitts.net PASSWORD: wilzu2233",
+      "price": 3000,
+      "date": "2026-07-08T12:05:03.498Z"
     }
   ]
 }
