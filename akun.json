@@ -42,13 +42,12 @@
     "8400473717": 2863,
     "7775578158": 68,
     "8967420688": 5000,
-    "7992062640": 3000
+    "7992062640": 0
   },
   "produk": {
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "GMAIL: bppna52883@minitts.net PASWORD: Bywilzustok127",
         "GMAIL: einth32950@minitts.net PASSWORD: Bywilzustok131"
       ]
     },
@@ -6042,6 +6041,14 @@
       "akun": "GAMIL: idurb40947@minitts.net PASSWORD: wilzu2233",
       "price": 3000,
       "date": "2026-07-08T12:05:03.498Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7992062640,
+      "produk": "Ivas",
+      "akun": "GMAIL: bppna52883@minitts.net PASWORD: Bywilzustok127",
+      "price": 3000,
+      "date": "2026-07-08T19:44:51.875Z"
     }
   ]
 }
