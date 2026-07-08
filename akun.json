@@ -49,7 +49,8 @@
       "price": 3000,
       "accounts": [
         "GAMIL: idurb40947@minitts.net PASSWORD: wilzu2233",
-        "GMAIL: bppna52883@minitts.net PASWORD: Bywilzustok127"
+        "GMAIL: bppna52883@minitts.net PASWORD: Bywilzustok127",
+        "GMAIL: einth32950@minitts.net PASSWORD: Bywilzustok131"
       ]
     },
     "capcut/1month": {
@@ -6028,6 +6029,12 @@
       "refundAmount": 4194,
       "markupDeducted": 2000,
       "date": "2026-07-08T07:56:00.614Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-08T10:48:18.150Z"
     }
   ]
 }
