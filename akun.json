@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 27100,
+    "1156507242": 7100,
     "1188612159": 1057,
     "1447156442": 14885,
     "1497667429": 692,
@@ -177,7 +177,6 @@
     "belires": {
       "price": 20000,
       "accounts": [
-        "https://chat.whatsapp.com/JvwrTDxirR4IUvkrziHu3Y?s=cl&p=a&ilr=1&amv=2",
         "https://chat.whatsapp.com/JvwrTDxirR4IUvkrziHu3Y?s=cl&p=a&ilr=1&amv=2"
       ]
     }
@@ -6290,6 +6289,14 @@
       "produk": "belires",
       "akun": 2,
       "date": "2026-07-09T12:48:57.983Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "belires",
+      "akun": "https://chat.whatsapp.com/JvwrTDxirR4IUvkrziHu3Y?s=cl&p=a&ilr=1&amv=2",
+      "price": 20000,
+      "date": "2026-07-09T15:32:36.189Z"
     }
   ]
 }
