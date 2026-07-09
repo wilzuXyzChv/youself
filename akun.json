@@ -178,9 +178,7 @@
     },
     "alingmotion": {
       "price": 50,
-      "accounts": [
-        "Gmail: freshelle@polysolextcoin.cloud LinkLogin: https://generator.email/freshelle@polysolextcoin.cloud"
-      ]
+      "accounts": []
     }
   },
   "ledger": [
@@ -6305,6 +6303,15 @@
       "produk": "alingmotion",
       "akun": 1,
       "date": "2026-07-09T15:42:18.382Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8616254639,
+      "produk": "alingmotion",
+      "akun": "Gmail: freshelle@polysolextcoin.cloud LinkLogin: https://generator.email/freshelle@polysolextcoin.cloud",
+      "price": 50,
+      "trxId": "qris_1783615235961",
+      "date": "2026-07-09T16:41:29.514Z"
     }
   ]
 }
