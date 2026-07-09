@@ -4,7 +4,7 @@
     "1007534254": 5000,
     "1156507242": 7100,
     "1188612159": 1057,
-    "1447156442": 14885,
+    "1447156442": 11885,
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
@@ -183,7 +183,6 @@
     "netflix": {
       "price": 3000,
       "accounts": [
-        "Gmail: kirill3662@hutathuww.org smsotp di kirim ke sini https://generator.email/kirill3662@hutathuww.org",
         "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site"
       ]
     }
@@ -6346,6 +6345,14 @@
       "produk": "netflix",
       "akun": 1,
       "date": "2026-07-09T18:04:20.040Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1447156442,
+      "produk": "netflix",
+      "akun": "Gmail: kirill3662@hutathuww.org smsotp di kirim ke sini https://generator.email/kirill3662@hutathuww.org",
+      "price": 3000,
+      "date": "2026-07-09T23:11:03.876Z"
     }
   ]
 }
