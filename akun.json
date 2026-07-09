@@ -183,7 +183,8 @@
     "netflix": {
       "price": 3000,
       "accounts": [
-        "Gmail: kirill3662@hutathuww.org smsotp di kirim ke sini https://generator.email/kirill3662@hutathuww.org"
+        "Gmail: kirill3662@hutathuww.org smsotp di kirim ke sini https://generator.email/kirill3662@hutathuww.org",
+        "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site"
       ]
     }
   },
@@ -6339,6 +6340,12 @@
       "produk": "netflix",
       "akun": 1,
       "date": "2026-07-09T17:52:05.818Z"
+    },
+    {
+      "type": "restok",
+      "produk": "netflix",
+      "akun": 1,
+      "date": "2026-07-09T18:04:20.040Z"
     }
   ]
 }
