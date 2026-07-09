@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 29800,
+    "1156507242": 26800,
     "1188612159": 1057,
     "1447156442": 14885,
     "1497667429": 692,
@@ -47,9 +47,7 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": [
-        "GMAIL: einth32950@minitts.net PASSWORD: Bywilzustok131"
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -6271,6 +6269,14 @@
       "userId": "1156507242",
       "nominal": 2000,
       "date": "2026-07-09T11:38:14.158Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "Ivas",
+      "akun": "GMAIL: einth32950@minitts.net PASSWORD: Bywilzustok131",
+      "price": 3000,
+      "date": "2026-07-09T12:46:34.699Z"
     }
   ]
 }
