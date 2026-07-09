@@ -176,7 +176,10 @@
     },
     "belires": {
       "price": 20000,
-      "accounts": []
+      "accounts": [
+        "https://chat.whatsapp.com/JvwrTDxirR4IUvkrziHu3Y?s=cl&p=a&ilr=1&amv=2",
+        "https://chat.whatsapp.com/JvwrTDxirR4IUvkrziHu3Y?s=cl&p=a&ilr=1&amv=2"
+      ]
     }
   },
   "ledger": [
@@ -6281,6 +6284,12 @@
       "akun": "GMAIL: einth32950@minitts.net PASSWORD: Bywilzustok131",
       "price": 3000,
       "date": "2026-07-09T12:46:34.699Z"
+    },
+    {
+      "type": "restok",
+      "produk": "belires",
+      "akun": 2,
+      "date": "2026-07-09T12:48:57.983Z"
     }
   ]
 }
