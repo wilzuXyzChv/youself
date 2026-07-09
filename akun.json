@@ -179,6 +179,10 @@
     "alingmotion": {
       "price": 50,
       "accounts": []
+    },
+    "netflix": {
+      "price": 3000,
+      "accounts": []
     }
   },
   "ledger": [
