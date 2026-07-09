@@ -182,7 +182,9 @@
     },
     "netflix": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "GMAIL LOGIN: jayite8908@duvips.com (Durasi premium 7day💐)"
+      ]
     }
   },
   "ledger": [
@@ -6316,6 +6318,12 @@
       "price": 50,
       "trxId": "qris_1783615235961",
       "date": "2026-07-09T16:41:29.514Z"
+    },
+    {
+      "type": "restok",
+      "produk": "netflix",
+      "akun": 1,
+      "date": "2026-07-09T17:03:37.187Z"
     }
   ]
 }
