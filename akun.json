@@ -178,7 +178,9 @@
     },
     "alingmotion": {
       "price": 500,
-      "accounts": []
+      "accounts": [
+        "Gmail: freshelle@polysolextcoin.cloud LinkLogin: https://generator.email/freshelle@polysolextcoin.cloud"
+      ]
     }
   },
   "ledger": [
@@ -6297,6 +6299,12 @@
       "akun": "https://chat.whatsapp.com/JvwrTDxirR4IUvkrziHu3Y?s=cl&p=a&ilr=1&amv=2",
       "price": 20000,
       "date": "2026-07-09T15:32:36.189Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-09T15:42:18.382Z"
     }
   ]
 }
