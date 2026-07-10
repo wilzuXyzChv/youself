@@ -204,6 +204,10 @@
         {
           "username": "vwhenley@herilev.top",
           "password": "https://generator.email/vwhenley@herilev.top"
+        },
+        {
+          "username": "ace482@automizly.net",
+          "password": "https://generator.email/ace482@automizly.net"
         }
       ]
     }
@@ -6503,6 +6507,12 @@
       "produk": "alingmotion",
       "akun": 1,
       "date": "2026-07-10T02:05:51.494Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-10T02:11:50.945Z"
     }
   ]
 }
