@@ -200,6 +200,10 @@
         {
           "username": "ladyanne888@nanopools.info",
           "password": "https://generator.email/ladyanne888@nanopools.info"
+        },
+        {
+          "username": "vwhenley@herilev.top",
+          "password": "https://generator.email/vwhenley@herilev.top"
         }
       ]
     }
@@ -6493,6 +6497,12 @@
       "produk": "alingmotion",
       "akun": 2,
       "date": "2026-07-10T02:04:02.103Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-10T02:05:51.494Z"
     }
   ]
 }
