@@ -188,7 +188,6 @@
     "netflix": {
       "price": 3000,
       "accounts": [
-        "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site",
         "Gmail : mobiusloop2@bughats.online trimasmsotp : https://generator.email/mobiusloop2@bughats.online"
       ]
     },
@@ -6535,6 +6534,15 @@
       "markup": 2000,
       "totalPaid": 5106,
       "date": "2026-07-10T09:13:41.657Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 6357908958,
+      "produk": "netflix",
+      "akun": "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site",
+      "price": 3000,
+      "trxId": "qris_1783682817340",
+      "date": "2026-07-10T11:27:34.893Z"
     }
   ]
 }
