@@ -49,7 +49,11 @@
       "price": 7000,
       "accounts": [
         "Gmail 🗨️ : w88gb@web-library.net password 🔑 : Bywilzustok231",
-        "Gmail 🗨️ : idurb40947@minitts.net password 🔑 : wilzu2233"
+        "Gmail 🗨️ : idurb40947@minitts.net password 🔑 : wilzu2233",
+        {
+          "username": "mdelgado@mnvr.site",
+          "password": "Bywilzu247"
+        }
       ]
     },
     "capcut/1month": {
@@ -6513,6 +6517,12 @@
       "produk": "alingmotion",
       "akun": 1,
       "date": "2026-07-10T02:11:50.945Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-10T04:43:23.114Z"
     }
   ]
 }
