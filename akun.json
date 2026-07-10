@@ -185,6 +185,10 @@
         "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site",
         "Gmail : mobiusloop2@bughats.online trimasmsotp : https://generator.email/mobiusloop2@bughats.online"
       ]
+    },
+    "alingmotion": {
+      "price": 1200,
+      "accounts": []
     }
   },
   "ledger": [
