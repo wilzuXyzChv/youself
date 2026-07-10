@@ -192,6 +192,14 @@
         {
           "username": "lyatyoma@hutathuww.org",
           "password": "https://generator.email/lyatyoma@hutathuww.org"
+        },
+        {
+          "username": "nicishcina@supplementsdiary.com",
+          "password": "https://generator.email/nicishcina@supplementsdiary.com"
+        },
+        {
+          "username": "ladyanne888@nanopools.info",
+          "password": "https://generator.email/ladyanne888@nanopools.info"
         }
       ]
     }
@@ -6479,6 +6487,12 @@
       "produk": "alingmotion",
       "akun": 1,
       "date": "2026-07-10T02:03:26.101Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 2,
+      "date": "2026-07-10T02:04:02.103Z"
     }
   ]
 }
