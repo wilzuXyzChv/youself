@@ -181,7 +181,12 @@
     },
     "alingmotion": {
       "price": 1200,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "Gmail: lyatyoma@hutathuww.org",
+          "password": "LinkLogin: https://generator.email/lyatyoma@hutathuww.org"
+        }
+      ]
     },
     "netflix": {
       "price": 3000,
@@ -6403,6 +6408,12 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-07-10T01:41:21.511Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-10T01:50:35.833Z"
     }
   ]
 }
