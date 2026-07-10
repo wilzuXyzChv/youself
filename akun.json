@@ -183,7 +183,8 @@
     "netflix": {
       "price": 3000,
       "accounts": [
-        "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site"
+        "Gmail: parcvax@fastmotion.site smsotp di kirim ke sini https://generator.email/parcvax@fastmotion.site",
+        "Gmail : mobiusloop2@bughats.online trimasmsotp : https://generator.email/mobiusloop2@bughats.online"
       ]
     }
   },
@@ -6373,6 +6374,12 @@
       "markup": 2000,
       "totalPaid": 2080,
       "date": "2026-07-09T23:59:39.405Z"
+    },
+    {
+      "type": "restok",
+      "produk": "netflix",
+      "akun": 1,
+      "date": "2026-07-10T00:16:20.305Z"
     }
   ]
 }
