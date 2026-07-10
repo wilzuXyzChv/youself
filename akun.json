@@ -181,7 +181,12 @@
     },
     "alingmotion": {
       "price": 1200,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "memek",
+          "password": "ahahhe"
+        }
+      ]
     },
     "netflix": {
       "price": 3000,
@@ -6445,6 +6450,12 @@
       "akun": "Gmail",
       "price": 1200,
       "date": "2026-07-10T01:53:30.874Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-10T01:57:24.244Z"
     }
   ]
 }
