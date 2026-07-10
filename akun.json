@@ -185,7 +185,12 @@
         {
           "username": "Gmail: lyatyoma@hutathuww.org",
           "password": "LinkLogin: https://generator.email/lyatyoma@hutathuww.org"
-        }
+        },
+        {
+          "username": "Gmail: nicishcina@supplementsdiary.com",
+          "password": "LinkLogin: https://generator.email/nicishcina@supplementsdiary.com"
+        },
+        "Gmail"
       ]
     },
     "netflix": {
@@ -6414,6 +6419,12 @@
       "produk": "alingmotion",
       "akun": 1,
       "date": "2026-07-10T01:50:35.833Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 2,
+      "date": "2026-07-10T01:53:10.405Z"
     }
   ]
 }
