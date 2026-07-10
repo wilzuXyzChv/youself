@@ -188,7 +188,12 @@
     },
     "alingmotion": {
       "price": 1200,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "lyatyoma@hutathuww.org",
+          "password": "https://generator.email/lyatyoma@hutathuww.org"
+        }
+      ]
     }
   },
   "ledger": [
@@ -6468,6 +6473,12 @@
       "produk": "mk",
       "akun": 1,
       "date": "2026-07-10T02:02:12.350Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-10T02:03:26.101Z"
     }
   ]
 }
