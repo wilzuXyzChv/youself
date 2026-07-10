@@ -47,7 +47,9 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        "Gmail 🗨️ : w88gb@web-library.net password 🔑 : Bywilzustok231"
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -6388,6 +6390,12 @@
       "refundAmount": 2080,
       "markupDeducted": 2000,
       "date": "2026-07-10T00:20:29.344Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-10T01:35:57.784Z"
     }
   ]
 }
