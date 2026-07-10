@@ -2,7 +2,7 @@
   "saldo": {
     "123456789": 2,
     "1007534254": 5000,
-    "1156507242": 7420,
+    "1156507242": 3820,
     "1188612159": 1057,
     "1447156442": 11885,
     "1497667429": 692,
@@ -181,17 +181,7 @@
     },
     "alingmotion": {
       "price": 1200,
-      "accounts": [
-        {
-          "username": "Gmail: lyatyoma@hutathuww.org",
-          "password": "LinkLogin: https://generator.email/lyatyoma@hutathuww.org"
-        },
-        {
-          "username": "Gmail: nicishcina@supplementsdiary.com",
-          "password": "LinkLogin: https://generator.email/nicishcina@supplementsdiary.com"
-        },
-        "Gmail"
-      ]
+      "accounts": []
     },
     "netflix": {
       "price": 3000,
@@ -6425,6 +6415,36 @@
       "produk": "alingmotion",
       "akun": 2,
       "date": "2026-07-10T01:53:10.405Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion",
+      "akun": {
+        "username": "Gmail: lyatyoma@hutathuww.org",
+        "password": "LinkLogin: https://generator.email/lyatyoma@hutathuww.org"
+      },
+      "price": 1200,
+      "date": "2026-07-10T01:53:30.874Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion",
+      "akun": {
+        "username": "Gmail: nicishcina@supplementsdiary.com",
+        "password": "LinkLogin: https://generator.email/nicishcina@supplementsdiary.com"
+      },
+      "price": 1200,
+      "date": "2026-07-10T01:53:30.874Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 1156507242,
+      "produk": "alingmotion",
+      "akun": "Gmail",
+      "price": 1200,
+      "date": "2026-07-10T01:53:30.874Z"
     }
   ]
 }
