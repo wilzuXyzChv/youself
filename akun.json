@@ -192,7 +192,12 @@
     },
     "mk": {
       "price": 1,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "ejejueue",
+          "password": "https://login"
+        }
+      ]
     }
   },
   "ledger": [
@@ -6466,6 +6471,12 @@
       },
       "price": 1200,
       "date": "2026-07-10T01:57:40.880Z"
+    },
+    {
+      "type": "restok",
+      "produk": "mk",
+      "akun": 1,
+      "date": "2026-07-10T02:02:12.350Z"
     }
   ]
 }
