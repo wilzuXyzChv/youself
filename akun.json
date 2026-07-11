@@ -36,7 +36,7 @@
     "8680977269": 1500,
     "8961653193": 679,
     "6849417475": 13208,
-    "8215248949": 3700,
+    "8215248949": 2500,
     "6357908958": 5743,
     "8030660956": 7,
     "7318818206": 1794,
@@ -188,10 +188,6 @@
     "alingmotion": {
       "price": 1200,
       "accounts": [
-        {
-          "username": "lyatyoma@hutathuww.org",
-          "password": "https://generator.email/lyatyoma@hutathuww.org"
-        },
         {
           "username": "nicishcina@supplementsdiary.com",
           "password": "https://generator.email/nicishcina@supplementsdiary.com"
@@ -6600,6 +6596,17 @@
       },
       "price": 3000,
       "date": "2026-07-11T07:14:28.539Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8215248949,
+      "produk": "alingmotion",
+      "akun": {
+        "username": "lyatyoma@hutathuww.org",
+        "password": "https://generator.email/lyatyoma@hutathuww.org"
+      },
+      "price": 1200,
+      "date": "2026-07-11T13:40:08.277Z"
     }
   ]
 }
