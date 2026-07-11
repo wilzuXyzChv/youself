@@ -8,7 +8,7 @@
     "1497667429": 692,
     "1945546286": 10000,
     "7775991185": 0,
-    "7660594032": 15406,
+    "7660594032": 12406,
     "8283491052": 73,
     "5552039925": 168,
     "7022774592": 975,
@@ -50,7 +50,6 @@
     "Ivas": {
       "price": 3000,
       "accounts": [
-        "Gmail 🗨️ : w88gb@web-library.net password 🔑 : Bywilzustok231",
         "Gmail 🗨️ : idurb40947@minitts.net password 🔑 : wilzu2233",
         {
           "username": "mdelgado@mnvr.site",
@@ -6579,6 +6578,14 @@
       "refundAmount": 2080,
       "markupDeducted": 2000,
       "date": "2026-07-10T12:37:34.235Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 7660594032,
+      "produk": "Ivas",
+      "akun": "Gmail 🗨️ : w88gb@web-library.net password 🔑 : Bywilzustok231",
+      "price": 3000,
+      "date": "2026-07-11T07:05:21.875Z"
     }
   ]
 }
