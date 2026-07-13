@@ -50,7 +50,12 @@
   "produk": {
     "Ivas": {
       "price": 3000,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "ndg327@xxvd.net",
+          "password": "ndg GantengX777@"
+        }
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -6607,6 +6612,12 @@
       },
       "price": 1200,
       "date": "2026-07-11T13:40:08.277Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-13T15:48:10.445Z"
     }
   ]
 }
