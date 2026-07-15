@@ -44,17 +44,13 @@
     "7775578158": 68,
     "8967420688": 5000,
     "7992062640": 0,
-    "8590595113": 14894,
+    "8590595113": 11894,
     "7991057021": 500
   },
   "produk": {
     "Ivas": {
       "price": 3000,
       "accounts": [
-        {
-          "username": "ndg327@xxvd.net",
-          "password": "ndg GantengX777@"
-        },
         {
           "username": "aidasyakila93@cuaks.fun",
           "password": "aidasyakila CantikX9976@"
@@ -6700,6 +6696,17 @@
       "refundAmount": 5422,
       "markupDeducted": 2000,
       "date": "2026-07-14T02:22:37.496Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8590595113,
+      "produk": "Ivas",
+      "akun": {
+        "username": "ndg327@xxvd.net",
+        "password": "ndg GantengX777@"
+      },
+      "price": 3000,
+      "date": "2026-07-15T09:20:22.388Z"
     }
   ]
 }
