@@ -190,9 +190,7 @@
     },
     "netflix": {
       "price": 3000,
-      "accounts": [
-        "Gmail : mobiusloop2@bughats.online trimasmsotp : https://generator.email/mobiusloop2@bughats.online"
-      ]
+      "accounts": []
     },
     "alingmotion": {
       "price": 1200,
@@ -6781,6 +6779,15 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-07-17T05:13:32.754Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 6816275524,
+      "produk": "netflix",
+      "akun": "Gmail : mobiusloop2@bughats.online trimasmsotp : https://generator.email/mobiusloop2@bughats.online",
+      "price": 3000,
+      "trxId": "qris_1784266723992",
+      "date": "2026-07-17T05:38:59.365Z"
     }
   ]
 }
