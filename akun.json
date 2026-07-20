@@ -50,12 +50,7 @@
   "produk": {
     "Ivas": {
       "price": 5000,
-      "accounts": [
-        {
-          "username": "igordao@himacreative.id",
-          "password": "Bywilzu12636X@"
-        }
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -7128,6 +7123,18 @@
       "produk": "Ivas",
       "akun": 1,
       "date": "2026-07-20T17:17:38.995Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8464322656,
+      "produk": "Ivas",
+      "akun": {
+        "username": "igordao@himacreative.id",
+        "password": "Bywilzu12636X@"
+      },
+      "price": 5000,
+      "trxId": "qris_1784582966082",
+      "date": "2026-07-20T21:31:46.383Z"
     }
   ]
 }
