@@ -44,17 +44,13 @@
     "7775578158": 68,
     "8967420688": 5000,
     "7992062640": 0,
-    "8590595113": 11894,
+    "8590595113": 6894,
     "7991057021": 500
   },
   "produk": {
     "Ivas": {
       "price": 5000,
       "accounts": [
-        {
-          "username": "aidasyakila93@cuaks.fun",
-          "password": "aidasyakila CantikX9976@"
-        },
         {
           "username": "mattfat@nanopools.info",
           "password": "ByzX777wilzu2233"
@@ -7068,6 +7064,17 @@
       "refundAmount": 4489,
       "markupDeducted": 2000,
       "date": "2026-07-19T10:27:42.040Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8590595113,
+      "produk": "Ivas",
+      "akun": {
+        "username": "aidasyakila93@cuaks.fun",
+        "password": "aidasyakila CantikX9976@"
+      },
+      "price": 5000,
+      "date": "2026-07-20T06:00:54.134Z"
     }
   ]
 }
