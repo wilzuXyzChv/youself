@@ -50,7 +50,12 @@
   "produk": {
     "Ivas": {
       "price": 5000,
-      "accounts": []
+      "accounts": [
+        {
+          "username": "igordao@himacreative.id",
+          "password": "Bywilzu12636X@"
+        }
+      ]
     },
     "capcut/1month": {
       "price": 17000,
@@ -7117,6 +7122,12 @@
       "refundAmount": 4882,
       "markupDeducted": 2000,
       "date": "2026-07-20T12:42:42.377Z"
+    },
+    {
+      "type": "restok",
+      "produk": "Ivas",
+      "akun": 1,
+      "date": "2026-07-20T17:17:38.995Z"
     }
   ]
 }
