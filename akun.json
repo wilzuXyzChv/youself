@@ -44,18 +44,13 @@
     "7775578158": 68,
     "8967420688": 5000,
     "7992062640": 0,
-    "8590595113": 6894,
+    "8590595113": 1894,
     "7991057021": 500
   },
   "produk": {
     "Ivas": {
       "price": 5000,
-      "accounts": [
-        {
-          "username": "mattfat@nanopools.info",
-          "password": "ByzX777wilzu2233"
-        }
-      ]
+      "accounts": []
     },
     "capcut/1month": {
       "price": 17000,
@@ -7075,6 +7070,17 @@
       },
       "price": 5000,
       "date": "2026-07-20T06:00:54.134Z"
+    },
+    {
+      "type": "beli_qty",
+      "chatId": 8590595113,
+      "produk": "Ivas",
+      "akun": {
+        "username": "mattfat@nanopools.info",
+        "password": "ByzX777wilzu2233"
+      },
+      "price": 5000,
+      "date": "2026-07-20T06:03:13.949Z"
     }
   ]
 }
