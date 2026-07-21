@@ -197,7 +197,8 @@
         {
           "username": "ace482@automizly.net",
           "password": "https://generator.email/ace482@automizly.net"
-        }
+        },
+        "email: tednight@shortweb.live LinkLogin: https://generator.email/tednight@shortweb.live"
       ]
     }
   },
@@ -7189,6 +7190,12 @@
       "price": 1200,
       "trxId": "qris_1784624319882",
       "date": "2026-07-21T08:59:16.403Z"
+    },
+    {
+      "type": "restok",
+      "produk": "alingmotion",
+      "akun": 1,
+      "date": "2026-07-21T09:23:10.043Z"
     }
   ]
 }
