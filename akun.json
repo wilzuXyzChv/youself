@@ -187,10 +187,6 @@
       "price": 1200,
       "accounts": [
         {
-          "username": "nicishcina@supplementsdiary.com",
-          "password": "https://generator.email/nicishcina@supplementsdiary.com"
-        },
-        {
           "username": "ladyanne888@nanopools.info",
           "password": "https://generator.email/ladyanne888@nanopools.info"
         },
@@ -7181,6 +7177,18 @@
       "markup": 2000,
       "totalPaid": 4477,
       "date": "2026-07-21T03:02:05.918Z"
+    },
+    {
+      "type": "buy_qris",
+      "chatId": 8757580644,
+      "produk": "alingmotion",
+      "akun": {
+        "username": "nicishcina@supplementsdiary.com",
+        "password": "https://generator.email/nicishcina@supplementsdiary.com"
+      },
+      "price": 1200,
+      "trxId": "qris_1784624319882",
+      "date": "2026-07-21T08:59:16.403Z"
     }
   ]
 }
