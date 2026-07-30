@@ -6,7 +6,12 @@
       "purchases": []
     }
   },
-  "products": {},
+  "products": {
+    "ivasms🎟️": {
+      "price": 0,
+      "stock": []
+    }
+  },
   "vouchers": [],
   "orders": [],
   "deposits": [],
