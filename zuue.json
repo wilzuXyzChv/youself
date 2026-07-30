@@ -34,6 +34,12 @@
       "balance": 0,
       "vouchers": [],
       "purchases": []
+    },
+    "7885097329": {
+      "balance": 0,
+      "vouchers": [],
+      "purchases": [],
+      "joined": false
     }
   },
   "products": {
