@@ -182,6 +182,10 @@
     "youtube": {
       "price": 15000,
       "stock": []
+    },
+    "spotify": {
+      "price": 0,
+      "stock": []
     }
   },
   "vouchers": [
