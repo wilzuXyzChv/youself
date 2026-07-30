@@ -1,9 +1,22 @@
 {
   "users": {
     "1156507242": {
-      "balance": 50100,
+      "balance": 40100,
       "vouchers": [],
-      "purchases": [],
+      "purchases": [
+        {
+          "product": "canvas🎉pro",
+          "price": 10000,
+          "discount": 0,
+          "finalPrice": 10000,
+          "voucherCode": null,
+          "akun": {
+            "email": "gamilmu",
+            "password": "sendke@Wilzu"
+          },
+          "date": "2026-07-30T04:50:03.427Z"
+        }
+      ],
       "joined": true
     },
     "7660594032": {
@@ -43,7 +56,7 @@
         {
           "email": "gamilmu",
           "password": "sendke@Wilzu",
-          "used": false
+          "used": true
         },
         {
           "email": "gamilmu",
