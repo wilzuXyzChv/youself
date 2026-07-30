@@ -52,7 +52,7 @@
       "balance": 0,
       "vouchers": [],
       "purchases": [],
-      "joined": false
+      "joined": true
     }
   },
   "products": {
