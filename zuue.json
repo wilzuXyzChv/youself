@@ -115,7 +115,13 @@
     },
     "scautoorderv10.3": {
       "price": 15000,
-      "stock": []
+      "stock": [
+        {
+          "email": "https://drive.google.com/file/d/1J9TSZPemrD-QQlc11pSLx4GJyJE0-SHJ/view?usp=drivesdk",
+          "password": "no password",
+          "used": false
+        }
+      ]
     }
   },
   "vouchers": [
