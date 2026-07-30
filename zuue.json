@@ -167,6 +167,10 @@
     "capcut 10000": {
       "price": 0,
       "stock": []
+    },
+    "capcut": {
+      "price": 0,
+      "stock": []
     }
   },
   "vouchers": [
