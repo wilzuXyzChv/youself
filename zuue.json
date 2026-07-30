@@ -9,7 +9,13 @@
   "products": {
     "ivasms🎟️": {
       "price": 5000,
-      "stock": []
+      "stock": [
+        {
+          "email": "kirim",
+          "password": "hub@Wilzu22",
+          "used": false
+        }
+      ]
     }
   },
   "vouchers": [],
