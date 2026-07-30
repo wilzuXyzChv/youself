@@ -38,7 +38,13 @@
     },
     "canvas🎉pro": {
       "price": 10000,
-      "stock": []
+      "stock": [
+        {
+          "email": "gamilmu",
+          "password": "sendke@Wilzu",
+          "used": false
+        }
+      ]
     }
   },
   "vouchers": [
