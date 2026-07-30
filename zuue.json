@@ -186,6 +186,10 @@
     "spotify": {
       "price": 18000,
       "stock": []
+    },
+    "vpnexpres": {
+      "price": 0,
+      "stock": []
     }
   },
   "vouchers": [
