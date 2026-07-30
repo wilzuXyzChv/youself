@@ -1,1 +1,16 @@
-
+{
+  "users": {
+    "1156507242": {
+      "balance": 0,
+      "vouchers": [],
+      "purchases": []
+    }
+  },
+  "products": {},
+  "vouchers": [],
+  "orders": [],
+  "deposits": [],
+  "admins": [
+    1156507242
+  ]
+}
