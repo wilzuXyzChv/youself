@@ -22,7 +22,8 @@
     "7660594032": {
       "balance": 100,
       "vouchers": [],
-      "purchases": []
+      "purchases": [],
+      "joined": true
     },
     "6357908958": {
       "balance": 0,
