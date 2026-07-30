@@ -178,6 +178,10 @@
     "capcut": {
       "price": 8000,
       "stock": []
+    },
+    "youtube": {
+      "price": 0,
+      "stock": []
     }
   },
   "vouchers": [
