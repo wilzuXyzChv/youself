@@ -22,7 +22,14 @@
       "stock": []
     }
   },
-  "vouchers": [],
+  "vouchers": [
+    {
+      "userId": 11256507242,
+      "code": "STORE-FQAQZGRF",
+      "used": false,
+      "created_at": "2026-07-30T02:59:54.210Z"
+    }
+  ],
   "orders": [],
   "deposits": [],
   "admins": [
