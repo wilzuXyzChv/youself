@@ -159,6 +159,10 @@
     "viu": {
       "price": 6000,
       "stock": []
+    },
+    "alingmotion": {
+      "price": 0,
+      "stock": []
     }
   },
   "vouchers": [
