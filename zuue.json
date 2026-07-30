@@ -19,7 +19,13 @@
   "products": {
     "ivasms": {
       "price": 5000,
-      "stock": []
+      "stock": [
+        {
+          "email": "alkaidm@net.com",
+          "password": "zuuue777929",
+          "used": false
+        }
+      ]
     }
   },
   "vouchers": [
