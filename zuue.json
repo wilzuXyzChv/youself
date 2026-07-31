@@ -89,6 +89,12 @@
       "vouchers": [],
       "purchases": [],
       "joined": true
+    },
+    "7786869532": {
+      "balance": 0,
+      "vouchers": [],
+      "purchases": [],
+      "joined": false
     }
   },
   "products": {
