@@ -1,7 +1,7 @@
 {
   "users": {
     "1156507242": {
-      "balance": 40100,
+      "balance": 15600,
       "vouchers": [],
       "purchases": [
         {
@@ -15,6 +15,42 @@
             "password": "sendke@Wilzu"
           },
           "date": "2026-07-30T04:50:03.427Z"
+        },
+        {
+          "product": "ivasms",
+          "quantity": 1,
+          "price": 5000,
+          "totalPrice": 5000,
+          "discount": 500,
+          "finalPrice": 4500,
+          "voucherCode": "STORE-0EHL81U9",
+          "akun": [
+            {
+              "email": "alkaidm@net.com",
+              "password": "zuuue777929"
+            }
+          ],
+          "date": "2026-07-31T03:08:12.679Z"
+        },
+        {
+          "product": "canvas🎉pro",
+          "quantity": 2,
+          "price": 10000,
+          "totalPrice": 20000,
+          "discount": 0,
+          "finalPrice": 20000,
+          "voucherCode": null,
+          "akun": [
+            {
+              "email": "gamilmu",
+              "password": "sendke@Wilzu"
+            },
+            {
+              "email": "gamilmu",
+              "password": "sendke@Wilzu"
+            }
+          ],
+          "date": "2026-07-31T03:08:37.591Z"
         }
       ],
       "joined": true
@@ -62,7 +98,7 @@
         {
           "email": "alkaidm@net.com",
           "password": "zuuue777929",
-          "used": false
+          "used": true
         }
       ]
     },
@@ -81,12 +117,12 @@
         {
           "email": "gamilmu",
           "password": "sendke@Wilzu",
-          "used": false
+          "used": true
         },
         {
           "email": "gamilmu",
           "password": "sendke@Wilzu",
-          "used": false
+          "used": true
         },
         {
           "email": "gamilmu",
