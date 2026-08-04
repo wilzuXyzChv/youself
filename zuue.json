@@ -1,7 +1,7 @@
 {
   "users": {
     "1156507242": {
-      "balance": 15600,
+      "balance": 1100,
       "vouchers": [],
       "purchases": [
         {
@@ -51,6 +51,38 @@
             }
           ],
           "date": "2026-07-31T03:08:37.591Z"
+        },
+        {
+          "product": "ivasms",
+          "quantity": 1,
+          "price": 5000,
+          "totalPrice": 5000,
+          "discount": 500,
+          "finalPrice": 4500,
+          "voucherCode": "STORE-NAIJBZFV",
+          "akun": [
+            {
+              "email": "moberav252@candaba.com",
+              "password": "bywilzuatok321"
+            }
+          ],
+          "date": "2026-08-04T03:48:33.974Z"
+        },
+        {
+          "product": "canvas🎉pro",
+          "quantity": 1,
+          "price": 10000,
+          "totalPrice": 10000,
+          "discount": 0,
+          "finalPrice": 10000,
+          "voucherCode": null,
+          "akun": [
+            {
+              "email": "gamilmu",
+              "password": "sendke@Wilzu"
+            }
+          ],
+          "date": "2026-08-04T03:49:44.586Z"
         }
       ],
       "joined": true
@@ -139,7 +171,7 @@
         {
           "email": "moberav252@candaba.com",
           "password": "bywilzuatok321",
-          "used": false
+          "used": true
         }
       ]
     },
@@ -168,7 +200,7 @@
         {
           "email": "gamilmu",
           "password": "sendke@Wilzu",
-          "used": false
+          "used": true
         },
         {
           "email": "gamilmu",
