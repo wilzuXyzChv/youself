@@ -108,7 +108,8 @@
     "8030660956": {
       "balance": 0,
       "vouchers": [],
-      "purchases": []
+      "purchases": [],
+      "joined": true
     },
     "7885097329": {
       "balance": 0,
