@@ -299,7 +299,13 @@
     },
     "capcut": {
       "price": 8000,
-      "stock": []
+      "stock": [
+        {
+          "email": "iluhf66@capcut.team",
+          "password": "masuk123",
+          "used": false
+        }
+      ]
     },
     "youtube": {
       "price": 15000,
