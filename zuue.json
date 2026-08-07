@@ -1,5 +1,11 @@
 {
   "users": {
+    "777000": {
+      "balance": 0,
+      "vouchers": [],
+      "purchases": [],
+      "joined": false
+    },
     "1156507242": {
       "balance": 1100,
       "vouchers": [],
